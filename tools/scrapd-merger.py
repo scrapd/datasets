@@ -12,8 +12,8 @@ $ cat new.json | python scrapd-merger.py old.json -
 """
 
 import argparse
-import logging
 import json
+import logging
 import pprint
 import sys
 
@@ -26,16 +26,23 @@ def main():
 
     # Merge the data.
     results = merge(json.loads(args.old.read()), json.loads(args.infile.read()))
+    results_str = json.dumps(results, sort_keys=True, indent=2)
 
-    # Display the results.
-    print(json.dumps(results, sort_keys=True, indent=2), file=sys.stdout)
+    # Write the data to `old` file.
+    if args.in_place:
+        args.old.seek(0)
+        args.old.write(results_str)
+    else:
+        # Display the results.
+        print(results_str)
 
 
-def get_cli_parser(): # pragma: no cover
+def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
     parser = argparse.ArgumentParser(description='Create beautiful releases on GitHub.')
-    parser.add_argument('old', type=argparse.FileType('rt'))
+    parser.add_argument('old', type=argparse.FileType('r+t'))
     parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
+    parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
 
     return parser
 
@@ -186,4 +193,3 @@ FINAL = """
     }
 ]
 """
-
