@@ -28,3 +28,14 @@ There are generated using the following `jq` command:
 ```bash
 jq -s add fatalities-201{7..9}-raw.json > fatalities-all-raw.json
 ```
+
+## Full updates
+
+A full update happened when ScrAPD 1.5.0 was updated as it drastically improved the quality of the data which was
+retrieved.
+
+As a result, all the data sets were updated with the following command:
+
+```bash
+for i in {7..9}; do python tools/scrapd-merger.py -i fatalities-201${i}-raw.json <(scrapd -v --format json --from "Jan 1 201${i}" --to "Dec 31 201${i}"); done
+```
