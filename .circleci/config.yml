@@ -1,0 +1,59 @@
+working_directory: &working_directory
+  ~/project
+
+defaults: &defaults
+  docker:
+    - image: circleci/python:3.7.2-stretch-node
+  working_directory: *working_directory
+
+repo_cache_key: &repo_cache_key
+  deps-{{ checksum "requirements.txt" }}-{{ checksum "requirements-dev.txt" }}
+
+version: 2
+jobs:
+  prepare:
+    <<: *defaults
+    steps:
+      - checkout
+      - restore_cache:
+          keys: *repo_cache_key
+      - run:
+          name: prepare environment
+          command: make venv
+      - save_cache:
+          paths:
+            - ./venv
+          key: *repo_cache_key
+      - persist_to_workspace:
+          root: *working_directory
+          paths: venv/*
+
+  update:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: *working_directory
+      - add_ssh_keys:
+          fingerprints:
+            - "df:28:22:a5:34:e9:ff:87:b4:15:05:d2:72:57:99:70"
+      - run:
+          name: Update data sets.
+          command: bash -x .circleci/publish.sh
+
+workflows:
+  version: 2
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 3 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - prepare
+      - update:
+          requires:
+            - prepare
+
