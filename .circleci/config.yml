@@ -39,7 +39,7 @@ jobs:
             - "df:28:22:a5:34:e9:ff:87:b4:15:05:d2:72:57:99:70"
       - run:
           name: Update data sets.
-          command: bash -x .circleci/publish.sh
+          command: bash -x .circleci/update-datasets.sh
 
 workflows:
   version: 2
