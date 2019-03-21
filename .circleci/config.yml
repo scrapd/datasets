@@ -40,7 +40,8 @@ jobs:
       - run:
           name: Update data sets.
           command: |
-            apk add --update --no-cache jq
+            apt-get update
+            DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends jq
             bash -x .circleci/update-datasets.sh
 
 workflows:
@@ -48,7 +49,7 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 3 * * *"
+          cron: "0 9 * * *"
           filters:
             branches:
               only:
