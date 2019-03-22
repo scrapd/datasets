@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 TOPDIR=$(git rev-parse --show-toplevel)
 CURRENT_YEAR=$(date +%Y)
