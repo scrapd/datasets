@@ -42,6 +42,7 @@ jobs:
           command: |
             sudo apt-get update
             sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends jq
+            source venv/bin/activate
             bash -x .circleci/update-datasets.sh
 
 workflows:
