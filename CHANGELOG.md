@@ -10,6 +10,12 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 ## [Unreleased]
 
+## 19.3.23.0
+
+### Fixed
+
+- Manually normalized the date fields of the entries retrieved prior to ScrAPD 1.5.0.
+
 ## 19.3.19.0
 
 ### Added
