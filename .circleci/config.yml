@@ -38,12 +38,17 @@ jobs:
           fingerprints:
             - "df:28:22:a5:34:e9:ff:87:b4:15:05:d2:72:57:99:70"
       - run:
+          name: Configure git
+          command: |
+            git config --global user.email "circleci@scrapd.org"
+            git config --global user.name "CircleCI"
+      - run:
           name: Update data sets.
           command: |
             sudo apt-get update
-            sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends jq
+            sudo DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends jq
             source venv/bin/activate
-            bash -x .circleci/update-datasets.sh
+            bash .circleci/update-datasets.sh
 
 workflows:
   version: 2
