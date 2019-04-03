@@ -15,11 +15,15 @@ if [ -n "${HAS_CHANGE}" ]; then
 
   # Compute the number of new entries.
   ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
-  NEW_ENTRY_COUNT=$(( ENTRY_COUNT_BEFORE - ENTRY_COUNT_AFTER ))
+  NEW_ENTRY_COUNT=$(( ENTRY_COUNT_AFTER - ENTRY_COUNT_BEFORE ))
   echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
 
+  # Go back to the top dir.
+  cd "${TOPDIR}"|| exit
+
   # Commit the changes.
-  git commit -am "Update data sets" \
+  git add .
+  git commit -m "Update data sets" \
     -m "There are ${NEW_ENTRY_COUNT} new entries in the current data set." \
     -m "${HAS_CHANGE}"
   pycalver bump || pycalver bump --patch
