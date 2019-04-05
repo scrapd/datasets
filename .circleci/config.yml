@@ -36,7 +36,7 @@ jobs:
           at: *working_directory
       - add_ssh_keys:
           fingerprints:
-            - "df:28:22:a5:34:e9:ff:87:b4:15:05:d2:72:57:99:70"
+            - "30:7d:5e:d4:84:c7:03:18:c7:64:bc:67:11:50:b1:b5"
       - run:
           name: Configure git
           command: |
