@@ -45,8 +45,8 @@ jobs:
       - run:
           name: Update data sets.
           command: |
-            sudo apt-get update
-            sudo DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends jq
+            sudo apt-get update -qq
+            sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq --no-install-recommends jq
             source venv/bin/activate
             bash .circleci/update-datasets.sh
 
@@ -55,7 +55,145 @@ workflows:
   nightly:
     triggers:
       - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 1 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 2 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 3 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 4 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 5 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 6 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 7 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 8 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
           cron: "0 9 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 10 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 11 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 12 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 13 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 14 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 15 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 16 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 17 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 18 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 19 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 20 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 21 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 22 * * *"
+          filters:
+            branches:
+              only:
+                - master
+      - schedule:
+          cron: "0 23 * * *"
           filters:
             branches:
               only:
