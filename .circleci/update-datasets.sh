@@ -26,7 +26,7 @@ if [ -n "${HAS_CHANGE}" ]; then
   git commit -m "Update data sets" \
     -m "There are ${NEW_ENTRY_COUNT} new entries in the current data set." \
     -m "${HAS_CHANGE}"
-  pycalver bump || pycalver bump --patch
+  pycalver bump -n || pycalver bump -n --patch
   git push origin master
   git push --tags
 else
