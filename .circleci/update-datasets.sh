@@ -13,6 +13,10 @@ if [ -n "${HAS_CHANGE}" ]; then
   # Update the `-all` data set.
   jq -s add fatalities-20*-raw.json > fatalities-all-raw.json
 
+  # Augment the data sets.
+  python scrapd-geolocation.py -i ${CURRENT_DATASET}
+  python scrapd-geolocation.py -i fatalities-all-raw.json
+
   # Compute the number of new entries.
   ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
   NEW_ENTRY_COUNT=$(( ENTRY_COUNT_AFTER - ENTRY_COUNT_BEFORE ))
