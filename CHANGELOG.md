@@ -10,6 +10,12 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 ## [Unreleased]
 
+## 19.4.8.0
+
+### Added
+
+- Added an augmented data set including the geolocation of the crashes.
+
 ## 19.3.23.0
 
 ### Fixed
