@@ -14,8 +14,8 @@ if [ -n "${HAS_CHANGE}" ]; then
   jq -s add fatalities-20*-raw.json > fatalities-all-raw.json
 
   # Augment the data sets.
-  python "${TOPDIR}/tools/scrapd-merger.py" -i ${CURRENT_DATASET}
-  python "${TOPDIR}/tools/scrapd-merger.py" -i fatalities-all-raw.json
+  python "${TOPDIR}/tools/scrapd-geolocation.py" -i ${CURRENT_DATASET}
+  python "${TOPDIR}/tools/scrapd-geolocation.py" -i fatalities-all-raw.json
 
   # Compute the number of new entries.
   ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
