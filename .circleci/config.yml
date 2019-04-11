@@ -52,7 +52,7 @@ jobs:
 
 workflows:
   version: 2
-  nightly:
+  hourly:
     triggers:
       - schedule:
           cron: "0 0 * * *"

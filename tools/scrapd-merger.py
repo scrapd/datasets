@@ -30,7 +30,8 @@ def main():
 
     # Write the data to `old` file.
     if args.in_place:
-        args.old.truncate(0)
+        args.old.seek(0)
+        args.old.truncate()
         args.old.write(results_str)
     else:
         # Display the results.
