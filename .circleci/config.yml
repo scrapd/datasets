@@ -5,6 +5,8 @@ defaults: &defaults
   docker:
     - image: circleci/python:3.7.2-stretch-node
   working_directory: *working_directory
+  environment:
+      TZ: "America/Chicago"
 
 repo_cache_key: &repo_cache_key
   deps-{{ checksum "requirements.txt" }}-{{ checksum "requirements-dev.txt" }}
