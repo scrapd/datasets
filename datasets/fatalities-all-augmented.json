@@ -2347,5 +2347,27 @@
     "Longitude": -97.798515,
     "Notes": "This is Austin\u2019s 15th fatal traffic crash of 2019, resulting in 15 fatalities this year. At this time in 2018, there were 15 fatal traffic crashes and 16 traffic fatalities.",
     "Time": "10:01 p.m."
+  },
+  {
+    "Case": "19-0961200",
+    "Date": "04/06/2019",
+    "Fatal crashes this year": "17",
+    "Latitude": "",
+    "Link": "http://austintexas.gov/news/traffic-fatality-17-4",
+    "Location": "14000 block of N. SH-45",
+    "Longitude": "",
+    "Notes": "This is Austin\u2019s 17th fatal traffic crash of 2019, resulting in 17 fatalities this year. At this time in 2018, there were 15 fatal traffic crashes and 16 traffic fatalities.",
+    "Time": "3:26 p.m."
+  },
+  {
+    "Case": "19-0930132",
+    "Date": "04/03/2019",
+    "Fatal crashes this year": "16",
+    "Latitude": "",
+    "Link": "http://austintexas.gov/news/traffic-fatality-16-4",
+    "Location": "E. Wells Branch Parkway/S. Heatherwilde Boulevard",
+    "Longitude": "",
+    "Notes": "This is Austin\u2019s 16th fatal traffic crash of 2019, resulting in 16 fatalities this year. At this time in 2018, there were 15 fatal traffic crashes and 16 traffic fatalities.",
+    "Time": "2:39 a.m."
   }
 ]
