@@ -14,10 +14,14 @@ The data sets named `fatalities-{year}-raw.json` are generated directly from `Sc
 The only exception is when merging data that is not available publicly anymore (see details in the section above) and
 cannot be retrieved by `ScrAPD`.
 
-## Enhanced data sets
+## Augmented data sets
 
-The data sets named `fatalities-{year}-enhanced.json` are datasets that have been enhanced, manually or automatically,
+The data sets named `fatalities-{year}-augmented.json` are datasets that have been enhanced, manually or automatically,
 in order to improve the quality of the data. Data from other sources may also have been included in these data sets.
+
+```bash
+for f in fatalities-201{3..9}-augmented.json; do echo "[{}]" > "${f}"; done
+```
 
 ## "all" data sets
 
