@@ -2369,5 +2369,60 @@
     "Longitude": "",
     "Notes": "This is Austin\u2019s 16th fatal traffic crash of 2019, resulting in 16 fatalities this year. At this time in 2018, there were 15 fatal traffic crashes and 16 traffic fatalities.",
     "Time": "2:39 a.m."
+  },
+  {
+    "Case": "19-1080673",
+    "Date": "04/18/2019",
+    "Fatal crashes this year": "21",
+    "Latitude": "",
+    "Link": "http://austintexas.gov/news/traffic-fatality-21-3",
+    "Location": "FM 973 and Pearce Lane",
+    "Longitude": "",
+    "Notes": "This is Austin\u2019s 21st fatal traffic crash of 2019, resulting in 22 fatalities this year. At this time in 2018, there were 19 fatal traffic crashes and 20 traffic fatalities.",
+    "Time": "10:15 a.m."
+  },
+  {
+    "Case": "19-1110655",
+    "Date": "04/21/2019",
+    "Fatal crashes this year": "22",
+    "Latitude": "",
+    "Link": "http://austintexas.gov/news/traffic-fatality-22-3",
+    "Location": "5300 blk N. IH-35 SB",
+    "Longitude": "",
+    "Notes": "This is Austin\u2019s 22nd fatal traffic crash of 2019, resulting in 23 fatalities this year. At this time in 2018, there were 19 fatal traffic crashes and 20 traffic fatalities.",
+    "Time": "10:38 a.m."
+  },
+  {
+    "Case": "19-1080319",
+    "Date": "04/18/2019",
+    "Fatal crashes this year": "20",
+    "Latitude": 30.32841,
+    "Link": "http://austintexas.gov/news/traffic-fatality-20-4",
+    "Location": "8000 block of West U.S. 290",
+    "Longitude": -97.925804,
+    "Notes": "This is Austin\u2019s 20th fatal traffic crash of 2019, resulting in 21 fatalities this year. At this time in 2018, there were 19 fatal traffic crashes and 20 traffic fatalities.",
+    "Time": "06:53 a.m."
+  },
+  {
+    "Case": "19-1070614",
+    "Date": "04/17/2019",
+    "Fatal crashes this year": "19",
+    "Latitude": 30.407795,
+    "Link": "http://austintexas.gov/news/traffic-fatality-19-5",
+    "Location": "Jollyville Rd. and Balcones Woods Drive.",
+    "Longitude": -97.74787,
+    "Notes": "This is Austin\u2019s 19th fatal traffic crash of 2019, resulting in 20 fatalities this year. At this time in 2018, there were 19 fatal traffic crashes and 20 traffic fatalities.",
+    "Time": "10:22 a.m."
+  },
+  {
+    "Case": "19-1070052",
+    "Date": "04/17/2019",
+    "Fatal crashes this year": "18",
+    "Latitude": 30.20474,
+    "Link": "http://austintexas.gov/news/traffic-fatality-18-4",
+    "Location": "5600 block of S. Congress Avenue",
+    "Longitude": -97.77491,
+    "Notes": "This is Austin\u2019s 18th fatal traffic crash of 2019, resulting in 19 fatalities this year. At this time in 2018, there were 19 fatal traffic crashes and 20 traffic fatalities.",
+    "Time": "12:53 a.m."
   }
 ]
