@@ -60,7 +60,12 @@ def merge(old, new):
 
     old_dict = {entry['Case']: entry for entry in old}
     new_dict = {entry['Case']: entry for entry in new}
-    final_dict = {**old_dict, **new_dict}
+    final_dict = {}
+    for entry in old_dict:
+        old_entry = old_dict.get(entry, {})
+        new_entry = new_dict.pop(entry, {})
+        merged_entries = {**old_entry, **new_entry}
+        final_dict[entry] = merged_entries
     return list(final_dict.values())
 
 
