@@ -38,8 +38,4 @@ for YEAR in {17..18}; do
 done
 ```
 
-A one liner:
 
-```bash
-TOPDIR=$(git rev-parse --show-toplevel); for YEAR in {17..18}; do python ${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py ${TOPDIR}/datasets/fatalities-20${YEAR}-raw.json ${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-20${YEAR}.json > ${TOPDIR}/datasets/fatalities-20${YEAR}-augmented.json;done
-```bash
