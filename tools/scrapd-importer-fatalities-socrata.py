@@ -27,7 +27,7 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()))
+    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.extras)
     results_str = json.dumps(results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
@@ -42,15 +42,16 @@ def main():
 
 def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
-    parser = argparse.ArgumentParser(description='Create beautiful releases on GitHub.')
+    parser = argparse.ArgumentParser(description='Import Socrata data.')
     parser.add_argument('old', type=argparse.FileType('r+t'))
     parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
-    parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
+    parser.add_argument('-i', '--in-place', action='store_true', help="Update ScrAPD data set in place")
+    parser.add_argument('--extras', action='store_true', help='Add Socrata entries that do not match a ScrAPD entry')
 
     return parser
 
 
-def merge(scrapd, socrata):
+def merge(scrapd, socrata, extras=False):
     """
     Merge `socrata` data into `scrapd` data.
 
@@ -102,7 +103,8 @@ def merge(scrapd, socrata):
         socrata_entry = socrata_dict.pop(entry, {})
         merged_entries = {**socrata_entry, **scrapd_entry}
         final_dict[entry] = merged_entries
-    final_dict.update(socrata_dict)
+    if extras:
+        final_dict.update(socrata_dict)
 
     return list(final_dict.values())
 
@@ -211,6 +213,31 @@ SOCRATA = """
         "type_of_road": "IH35",
         "x_coord": "-97.70766",
         "y_coord": "30.315355"
+    },
+    {
+        "area": "Charlie",
+        "case_number": "14-0511533",
+        "charge": "DOO",
+        "date": "2014-02-20T00:00:00.000",
+        "day": "Thu",
+        "drivers_license_status": "suspended",
+        "fatal_crash": "7",
+        "ftsra": "No",
+        "hour": "19",
+        "killed_driver_pass": "Pedestrian",
+        "location": "6400 FM 969",
+        "month": "Feb",
+        "number_of_fatalities": "1",
+        "ran_red_light": "N",
+        "related": "MV/PED",
+        "restraint_or_helmet": "n/a",
+        "speeding": "N",
+        "suspected_impairment": "PEDESTRIAN",
+        "time": "19:15:00",
+        "type": "Pedestrian",
+        "type_of_road": "high speed roadway",
+        "x_coord": "-97.659822",
+        "y_coord": "30.284725"
     }
 ]
 """
