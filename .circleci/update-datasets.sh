@@ -15,7 +15,7 @@ HAS_CHANGE=$(git status -s)
 # If nothing changed, we can leave.
 if [ -z "${HAS_CHANGE}" ]; then
   echo "There is nothing new to commit."
-  exit 0
+  # exit 0
 fi
 
 # Import external data sets.
@@ -45,7 +45,7 @@ echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
 
 # Go back to the top dir.
 cd "${TOPDIR}"|| exit
-
+exit 0
 # Commit the changes.
 git add .
 git commit -m "Update data sets" \
