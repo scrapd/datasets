@@ -146,8 +146,12 @@ def parse_geocensus_response(response):
     d = {'Latitude': '', 'Longitude': ''}
     if response and response.get('result', {}).get('addressMatches'):
         first_match = response.get('result', {}).get('addressMatches', [])[0]
-        d['Latitude'] = first_match.get('coordinates', {}).get('y', '')
-        d['Longitude'] = first_match.get('coordinates', {}).get('x', '')
+        latitude = first_match.get('coordinates', {}).get('y', '')
+        longitude = first_match.get('coordinates', {}).get('x', '')
+        if latitude:
+            d['Latitude'] = latitude
+        if longitude:
+            d['Longitude'] = longitude
 
     return d
 
