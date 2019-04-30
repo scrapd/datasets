@@ -102,7 +102,7 @@ def merge(scrapd, socrata, extras=False):
         scrapd_entry = scrapd_dict.get(entry, {})
         socrata_entry = socrata_dict.pop(entry, {})
         merged_entries = {**socrata_entry, **scrapd_entry}
-        final_dict[entry] = merged_entries
+        final_dict[entry] = {k: v for k, v in merged_entries.items() if v is not None}
     if extras:
         final_dict.update(socrata_dict)
 
