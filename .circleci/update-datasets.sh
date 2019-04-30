@@ -19,12 +19,13 @@ if [ -z "${HAS_CHANGE}" ]; then
 fi
 
 # Import external data sets.
-for YEAR in {17..18}; do
+for YEAR in {17..19}; do
   # Create empty sets if they don't exist yet.
   [ ! -f "fatalities-20${YEAR}-augmented.json" ] && echo "[]" > "fatalities-20${YEAR}-augmented.json"
 
   # Import data from Socrata.
-  #python "${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py" "fatalities-20${YEAR}-raw.json" "${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-20${YEAR}.json" > "fatalities-20${YEAR}-augmented.json"
+  SOCRATA_DATA_SET="${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-20${YEAR}.json"
+  # [ -f "${SOCRATA_DATA_SET}" ] && python "${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py" "fatalities-20${YEAR}-raw.json" "${SOCRATA_DATA_SET}" > "fatalities-20${YEAR}-augmented.json"
 done
 
 # Augment the current data set.
@@ -35,7 +36,7 @@ done
 
 # Merge the results.
 jq -s add fatalities-20{17..19}-raw.json > fatalities-all-raw.json
-jq -s add fatalities-20{17..19}-augmented.json > fatalities-all-raw.json
+jq -s add fatalities-20{17..19}-augmented.json > fatalities-all-augmented.json
 
 # Compute the number of new entries.
 ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
