@@ -18,11 +18,13 @@ if [ -z "${HAS_CHANGE}" ]; then
   exit 0
 fi
 
+# Create augmented data sets from the raw ones if needed.
+for YEAR in {17..19}; do
+  [ ! -f "fatalities-20${YEAR}-augmented.json" ] && cp "fatalities-20${YEAR}-raw.json" "fatalities-20${YEAR}-augmented.json"
+done
+
 # Import external data sets.
 for YEAR in {17..19}; do
-  # Create empty sets if they don't exist yet.
-  [ ! -f "fatalities-20${YEAR}-augmented.json" ] && echo "[]" > "fatalities-20${YEAR}-augmented.json"
-
   # Import data from Socrata.
   SOCRATA_DATA_SET="${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-20${YEAR}.json"
   # [ -f "${SOCRATA_DATA_SET}" ] && python "${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py" "fatalities-20${YEAR}-raw.json" "${SOCRATA_DATA_SET}" > "fatalities-20${YEAR}-augmented.json"
@@ -31,7 +33,7 @@ done
 # Augment the current data set.
 for f in fatalities-20{17..19}-augmented.json; do
   # Augment the data with geocoding information from geocensus.
-  [ -f "${f}"] && python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py"-i ${f};
+  [ -f "${f}" ] && python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py" -i ${f};
 done
 
 # Merge the results.
@@ -45,7 +47,7 @@ echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
 
 # Go back to the top dir.
 cd "${TOPDIR}"|| exit
-
+exit 0
 # Commit the changes.
 git add .
 git commit -m "Update data sets" \
