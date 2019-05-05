@@ -66,6 +66,7 @@ def merge(old, new):
         new_entry = new_dict.pop(entry, {})
         merged_entries = {**old_entry, **new_entry}
         final_dict[entry] = merged_entries
+    final_dict.update(new_dict)
     return list(final_dict.values())
 
 
