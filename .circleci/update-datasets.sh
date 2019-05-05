@@ -47,7 +47,7 @@ echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
 
 # Go back to the top dir.
 cd "${TOPDIR}"|| exit
-exit 0
+
 # Commit the changes.
 git add .
 git commit -m "Update data sets" \
