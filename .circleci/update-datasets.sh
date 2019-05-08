@@ -18,9 +18,9 @@ if [ -z "${HAS_CHANGE}" ]; then
   exit 0
 fi
 
-# Create augmented data sets from the raw ones if needed.
+# Create augmented data sets from the raw ones.
 for YEAR in {17..19}; do
-  [ ! -f "fatalities-20${YEAR}-augmented.json" ] && cp "fatalities-20${YEAR}-raw.json" "fatalities-20${YEAR}-augmented.json"
+  cp "fatalities-20${YEAR}-raw.json" "fatalities-20${YEAR}-augmented.json"
 done
 
 # Import external data sets.
