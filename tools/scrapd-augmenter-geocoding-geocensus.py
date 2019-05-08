@@ -35,6 +35,7 @@ def main():
     # Write the data to `old` file.
     if args.in_place:
         args.infile.seek(0)
+        args.infile.truncate()
         args.infile.write(results_str)
     else:
         # Display the results.
@@ -90,8 +91,10 @@ async def fetch_and_update(session, url, params, entry):
     geolocation = parse_geocensus_response(response)
 
     # Add the coordinates.
-    entry['Latitude'] = geolocation['Latitude']
-    entry['Longitude'] = geolocation['Longitude']
+    if geolocation.get('Latitude'):
+        entry['Latitude'] = geolocation['Latitude']
+    if geolocation.get('Longitude'):
+        entry['Longitude'] = geolocation['Longitude']
 
     # Return the result.
     return entry
@@ -143,7 +146,7 @@ def parse_geocensus_response(response):
 
     :param dict result: geocensus response
     """
-    d = {'Latitude': '', 'Longitude': ''}
+    d = {}
     if response and response.get('result', {}).get('addressMatches'):
         first_match = response.get('result', {}).get('addressMatches', [])[0]
         latitude = first_match.get('coordinates', {}).get('y', '')
@@ -176,7 +179,7 @@ class TestGeolocation:
     def test_parse_result_01(self):
         """Ensure an empty geocensus response is parsed as an empty geolocation."""
         actual = parse_geocensus_response({})
-        expected = {'Latitude': '', 'Longitude': ''}
+        expected = {}
         assert actual == expected
 
     @pytest.mark.asyncio
