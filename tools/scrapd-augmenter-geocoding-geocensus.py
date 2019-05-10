@@ -1,11 +1,11 @@
 """
-`scrapd-geolocation` is a tool to geocode the crash locations.
+`scrapd-augmenter-geocoding-geocensus` is an augmenter geocoding the crash locations.
 
 It uses the Geo Census database. The script does not recode entries which already have their geolocation.
 
 Usage examples:
 
-$ scrapd-geolocation -i fatalities.json
+$ scrapd-augmenter-geocoding-geocensus fatalities.json
 """
 import argparse
 import asyncio
@@ -34,9 +34,13 @@ def main():
 
     # Write the data to `old` file.
     if args.in_place:
-        args.infile.seek(0)
-        args.infile.truncate()
-        args.infile.write(results_str)
+        try:
+            args.infile.seek(0)
+            args.infile.truncate()
+            args.infile.flush()
+            args.infile.write(results_str)
+        finally:
+            args.infile.close()
     else:
         # Display the results.
         print(results_str)
@@ -84,20 +88,28 @@ async def fetch_and_update(session, url, params, entry):
     :return: a dictionary representing a fatality.
     :rtype: dict
     """
-    # Retrieve the
+    # Prepare the result.
+    d = {}
+
+    # Ensure twe have a case number.
+    case = entry.get('Case')
+    if not case:
+        return d
+
+    # Fetch the geolocation
     response = await fetch_json(session, url, params)
 
     # Parse it.
     geolocation = parse_geocensus_response(response)
+    if not geolocation:
+        return d
 
-    # Add the coordinates.
-    if geolocation.get('Latitude'):
-        entry['Latitude'] = geolocation['Latitude']
-    if geolocation.get('Longitude'):
-        entry['Longitude'] = geolocation['Longitude']
+    # Add the geolocation aumentation.
+    d["Case"] = case
+    d.update(geolocation)
 
     # Return the result.
-    return entry
+    return d
 
 
 async def async_update_entries(entries):
@@ -124,7 +136,7 @@ async def async_update_entries(entries):
             ) for entry in entries if not entry.get('Latitude')
         ]
         results = await asyncio.gather(*tasks)
-        return results
+        return [entry for entry in results if entry]
 
 
 def sanitize(address):
@@ -184,7 +196,7 @@ class TestGeolocation:
 
     @pytest.mark.asyncio
     async def test_async_update_entries_00(self):
-        entries = [{'Location': '8100 Block of N. Lamar Blvd.'}]
+        entries = [{'Case': '19-0400694', 'Location': '8100 Block of N. Lamar Blvd.'}]
         actual = await async_update_entries(entries)
         assert actual[0]['Latitude'] == 30.350113
         assert actual[0]['Longitude'] == -97.710434
