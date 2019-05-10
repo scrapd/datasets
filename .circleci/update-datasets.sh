@@ -30,10 +30,16 @@ for YEAR in {17..19}; do
   # [ -f "${SOCRATA_DATA_SET}" ] && python "${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py" "fatalities-20${YEAR}-raw.json" "${SOCRATA_DATA_SET}" > "fatalities-20${YEAR}-augmented.json"
 done
 
+# Generate the augmentations...
+for year in 20{17..19}; do
+  # ...for the Geocensus service.
+  python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py" "${TOPDIR}/datasets/fatalities-${year}-raw.json" > "${TOPDIR}/augmentations/${year}/augmentation-geocoding-geocensus-${year}.json"
+done
+
 # Augment the current data set.
-for f in fatalities-20{17..19}-augmented.json; do
+for year in 20{17..19}; do
   # Augment the data with geocoding information from geocensus.
-  [ -f "${f}" ] && python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py" -i ${f};
+  python "${TOPDIR}/tools/scrapd-merger.py" -i "${TOPDIR}/datasets/fatalities-${year}-augmented.json" "${TOPDIR}/augmentations/${year}/augmentation-geocoding-geocensus-${year}.json"
 done
 
 # Merge the results.
