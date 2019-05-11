@@ -1,14 +1,12 @@
 """
-`scrapd-importer-fatalities-socrata` is a tool to merge Socrata APD data sets into ScrAPD data sets.
-
-The new data will overwrite the old data in case of duplication. If there is no collision, the old data is left intact.
+`scrapd-importer-fatalities-socrata` is a tool to generate Socrata APD augmentations.
 
 The data sets are expected to be arrays of objects (see test data at the bottom).
 
 Usage examples:
 
-$ python scrapd-importer-fatalities-socrata.py old.json <(cat new.json)
-$ cat new.json | python scrapd-importer-fatalities-socrata.py old.json -
+$ python scrapd-importer-fatalities-socrata.py scrapd-data-set.json <(cat socarata-data-set.json)
+$ cat socarata-data-set.json | python scrapd-importer-fatalities-socrata.py old.json -
 """
 
 import argparse
@@ -27,25 +25,16 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.extras)
+    results = merge(json.loads(args.scrapd.read()), json.loads(args.socrata.read()), args.extras)
     results_str = json.dumps(results, sort_keys=True, indent=2)
-
-    # Write the data to `old` file.
-    if args.in_place:
-        args.old.seek(0)
-        args.old.truncate()
-        args.old.write(results_str)
-    else:
-        # Display the results.
-        print(results_str)
+    print(results_str)
 
 
 def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
     parser = argparse.ArgumentParser(description='Import Socrata data.')
-    parser.add_argument('old', type=argparse.FileType('r+t'))
-    parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
-    parser.add_argument('-i', '--in-place', action='store_true', help="Update ScrAPD data set in place")
+    parser.add_argument('scrapd', type=argparse.FileType('r+t'))
+    parser.add_argument('socrata', type=argparse.FileType('rt'), default=sys.stdin)
     parser.add_argument('--extras', action='store_true', help='Add Socrata entries that do not match a ScrAPD entry')
 
     return parser
@@ -67,46 +56,54 @@ def merge(scrapd, socrata, extras=False):
     socrata_dict = {}
     for entry in socrata:
         d = {
-            'Age': entry.get('', ''),
             'Case': entry.get('case_number', ''),
-            'DOB': entry.get('', ''),
-            'Date': clean_date(entry.get('date', '')),
-            'Ethnicity': entry.get('', ''),
-            'Fatal crashes this year': entry.get('fatal_crash', ''),
-            'First Name': entry.get('', ''),
-            'Gender': entry.get('', ''),
-            'Last Name': entry.get('', ''),
-            'Link': entry.get('', ''),
-            'Location': entry.get('location', ''),
-            'Notes': entry.get('', ''),
-            'Time': entry.get('time', ''),
 
             # Extra fields.
             'Charge': entry.get('charge', '').lower().strip(),
+            'Date': clean_date(entry.get('date', '').lower().strip()),
             'Drivers license status': entry.get('dl_status_incident', '').lower().strip(),
             'Hit and run': entry.get('failure_to_stop_and_render_aid', '').lower().strip(),
             'Impairment': entry.get('suspected_impairment', '').lower().strip(),
             'Killed': entry.get('killed_driver_pass', '').lower().strip(),
             'Latitude': clean_coordinates(entry.get('y_coord', '').strip()),
+            'Location': entry.get('location', '').lower().strip(),
             'Longitude': clean_coordinates(entry.get('x_coord', '').strip()),
             'Ran light/stop': entry.get('ran_red_light_or_stop_sign', '').lower().strip(),
             'Restraint': entry.get('restraint_type', '').lower().strip(),
             'Road type': entry.get('type_of_road', '').strip(),
+            'Time': clean_time(entry.get('time', '').lower().strip()),
             'Type': entry.get('type', '').lower().strip(),
         }
         socrata_dict[d.get('Case')] = {k: v for k, v in d.items() if v}
 
-    # Merge the results, giving priority to the ScrAPD entries.
+    # Merge the results.
     final_dict = {}
     for entry in scrapd_dict:
-        scrapd_entry = scrapd_dict.get(entry, {})
+        # Match the Socrata entry with a ScrAPD entry.
         socrata_entry = socrata_dict.pop(entry, {})
-        merged_entries = {**socrata_entry, **scrapd_entry}
-        final_dict[entry] = {k: v for k, v in merged_entries.items() if v is not None}
+        if not socrata_entry:
+            continue
+
+        # Remove empty values.
+        final_dict[entry] = {k: v for k, v in socrata_entry.items() if v is not None}
     if extras:
         final_dict.update(socrata_dict)
 
     return list(final_dict.values())
+
+
+def clean_time(time):
+    """
+    Ensure the time has a 12 hour format
+
+    :param str time: time to clean up
+    """
+    try:
+        t = datetime.datetime.strptime(time, "%H:%M")
+    except ValueError:
+        return ''
+    else:
+        return t.strftime("%I:%M %p").lower()
 
 
 def clean_date(date):
@@ -162,6 +159,15 @@ class TestMerge:
     ])
     def test_clean_coordinates_00(self, input_, expected):
         actual = clean_coordinates(input_)
+        assert actual == expected
+
+    @pytest.mark.parametrize('input_,expected', [
+        ('22:15', '10:15 pm'),
+        ('8:57', '08:57 am'),
+        ('2018-01-04T00:00:00.000', ''),
+    ])
+    def test_clean_time_00(self, input_, expected):
+        actual = clean_time(input_)
         assert actual == expected
 
 
@@ -245,29 +251,20 @@ SOCRATA = """
 FINAL = """
 [
     {
-        "Age": 23,
         "Case": "18-0041689",
         "Charge": "pending",
-        "Drivers license status": "suspended",
-        "DOB": "11/27/1994",
         "Date": "01/04/2018",
-        "Ethnicity": "Hispanic",
-        "Fatal crashes this year": "1",
-        "First Name": "Ashley",
-        "Gender": "female",
+        "Drivers license status": "suspended",
         "Impairment": "driver",
         "Killed": "driver and passenger",
         "Hit and run":"n",
         "Latitude": 30.315355,
-        "Last Name": "Martinez",
-        "Link": "http://austintexas.gov/news/traffic-fatality-1-3",
-        "Location": "5600 N IH 35 Northbound",
+        "Location": "5600 block n ih 35 nb",
         "Longitude": -97.70766,
         "Ran light/stop": "n",
         "Restraint": "unknown",
         "Road type": "IH35",
-        "Notes": "Eloy Herrera, Hispanic male (D.O.B. 4-9-02)",
-        "Time": "11:57 p.m.",
+        "Time": "11:25 pm",
         "Type": "motor vehicle"
     }
 ]

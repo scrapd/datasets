@@ -50,7 +50,7 @@ jobs:
             sudo apt-get update -qq
             sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq --no-install-recommends jq
             source venv/bin/activate
-            bash .circleci/update-datasets.sh
+            bash tools/update-datasets.sh
 
 workflows:
   version: 2

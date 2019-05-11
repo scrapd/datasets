@@ -1,8 +1,6 @@
 """
 `scrapd-merger` is a tool to merge 2 ScrAPD data sets together.
 
-The new data will overwrite the old data in case of duplication. If there is no collision, the old data is left intact.
-
 The data sets are expected to be arrays of objects (see test data at the bottom).
 
 Usage examples:
@@ -64,7 +62,16 @@ def merge(old, new):
     for entry in old_dict:
         old_entry = old_dict.get(entry, {})
         new_entry = new_dict.pop(entry, {})
-        merged_entries = {**old_entry, **new_entry}
+
+        # Inject new values into the old entry.
+        # Existing values will not be overriden unless they are empty.
+        merged_entries = old_entry
+        for key, value in new_entry.items():
+            old_entry_value = old_entry.get(key)
+            if isinstance(old_entry_value, str):
+                old_entry_value = old_entry_value.strip()
+            if not old_entry_value:
+                merged_entries[key] = value
         final_dict[entry] = merged_entries
     final_dict.update(new_dict)
     return list(final_dict.values())

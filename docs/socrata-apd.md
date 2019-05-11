@@ -22,20 +22,3 @@ The City of Austin provides data sets of traffic fatalities that are not availab
 * 2018:
   * www: <https://data.austintexas.gov/Public-Safety/2018-APD-Traffic-Fatality-Data-021219/9jd4-zjmx>
   * json: <https://data.austintexas.gov/resource/9jd4-zjmx.json>
-
-## Augment the datasets
-
-```bash
-#!/bin/bash
-set -xeuo pipefail
-
-TOPDIR=$(git rev-parse --show-toplevel)
-for YEAR in {17..18}; do
-  python ${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py \
-    ${TOPDIR}/datasets/fatalities-20${YEAR}-raw.json \
-    ${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-20${YEAR}.json \
-    > ${TOPDIR}/datasets/fatalities-20${YEAR}-augmented.json
-done
-```
-
-
