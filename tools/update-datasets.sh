@@ -50,7 +50,7 @@ for YEAR in {2017..2019}; do
     TOOL="${TOOL_DIR}/$(echo ${AUGMENTATION}|cut -d':' -f1)"
     AUGMENTATION_FILE="${AUGMENTATION_DIR}/$(echo ${AUGMENTATION}|cut -d':' -f2)"
     echo -e "\t\t- $(basename ${AUGMENTATION_FILE})"
-    python "${TOOL}" "${RAW_DATA_SET}" > "${AUGMENTATION_FILE}"
+    python "${TOOL}" "${AUGMENTED_DATA_SET}" > "${AUGMENTATION_FILE}"
   done
 
   # Apply the augmentations (2nd pass).
