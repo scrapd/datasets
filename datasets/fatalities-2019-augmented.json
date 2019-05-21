@@ -461,5 +461,36 @@
     "Location": "12100 N. IH-35 NB Service road",
     "Notes": "30, 1966",
     "Time": "11:34 p.m."
+  },
+  {
+    "Age": 15,
+    "Case": "19-1381928",
+    "DOB": "04/27/2004",
+    "Date": "05/18/2019",
+    "Ethnicity": "Hispanic",
+    "Fatal crashes this year": "31",
+    "First Name": "Cesar",
+    "Gender": "male",
+    "Last Name": "Saunders",
+    "Link": "http://austintexas.gov/news/traffic-fatality-31-3",
+    "Location": "14000 block of N. IH-35 NB",
+    "Time": "10:54 p.m."
+  },
+  {
+    "Age": 64,
+    "Case": "19-1380171",
+    "DOB": "01/14/1955",
+    "Date": "05/18/2019",
+    "Ethnicity": "Black",
+    "Fatal crashes this year": "30",
+    "First Name": "Victor",
+    "Gender": "male",
+    "Last Name": "Carr",
+    "Latitude": 30.265696,
+    "Link": "http://austintexas.gov/news/traffic-fatality-30-1",
+    "Location": "1100 block of Airport Blvd.",
+    "Longitude": -97.69555,
+    "Notes": "The preliminary investigation shows that a 2011, gray Toyota Corolla was traveling northbound in the right lane in the 1100 block of Airport Blvd. A red, 2013 Kia Soul was traveling southbound on Airport Blvd. and turned left in front of the Corolla. The driver of the Kia was transported to Dell Seton Medical Center at the University of Texas and was pronounced deceased at 2:22 a.m. The driver and passenger of the Corolla were transported to an area hospital with non-life threatening injuries. Anyone with information regarding this case should call APD\u2019s Vehicular Homicide Unit Detectives at (512) 974-6935. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. ",
+    "Time": "1:58 a.m."
   }
 ]
