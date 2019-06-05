@@ -502,5 +502,17 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-34-4",
     "Location": "Bundyhill Drive and E. Martin Luther King Jr. Boulevard",
     "Time": "2:48 a.m."
+  },
+  {
+    "Age": 69,
+    "Case": "19-1540252",
+    "DOB": "06/05/1950",
+    "Date": "06/03/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "35",
+    "Gender": "male",
+    "Link": "http://austintexas.gov/news/traffic-fatality-35-3",
+    "Location": "12000 block of S IH 35 southbound",
+    "Time": "5:39 a.m."
   }
 ]
