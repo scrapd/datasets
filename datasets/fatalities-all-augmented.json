@@ -3732,5 +3732,37 @@
     "Location": "2700 block of S. Congress Avenue",
     "Longitude": -97.75643,
     "Time": "1:15 p.m."
+  },
+  {
+    "Age": 25,
+    "Case": "19-1521857",
+    "DOB": "04/03/1994",
+    "Date": "06/01/2019",
+    "Ethnicity": "Hispanic",
+    "Fatal crashes this year": "33",
+    "First Name": "Luis",
+    "Gender": "male",
+    "Last Name": "Martinez-Vertiz",
+    "Latitude": 30.343975,
+    "Link": "http://austintexas.gov/news/traffic-fatality-33-5",
+    "Location": "N. Lamar Boulevard and Morrow Street",
+    "Longitude": -97.714966,
+    "Time": "10:20 p.m."
+  },
+  {
+    "Age": 35,
+    "Case": "19-1530277",
+    "DOB": "11/27/1983",
+    "Date": "06/02/2019",
+    "Ethnicity": "Black",
+    "Fatal crashes this year": "34",
+    "First Name": "Lance",
+    "Gender": "male",
+    "Last Name": "Smith",
+    "Latitude": 30.286394,
+    "Link": "http://austintexas.gov/news/traffic-fatality-34-4",
+    "Location": "Bundyhill Drive and E. Martin Luther King Jr. Boulevard",
+    "Longitude": -97.677315,
+    "Time": "2:48 a.m."
   }
 ]
