@@ -71,6 +71,7 @@ def merge(scrapd, socrata, extras=False):
             'Ran light/stop': entry.get('ran_red_light_or_stop_sign', '').lower().strip(),
             'Restraint': entry.get('restraint_type', '').lower().strip(),
             'Road type': entry.get('type_of_road', '').strip(),
+            'Speeding': entry.get('speeding', '').lower().strip(),
             'Time': clean_time(entry.get('time', '').lower().strip()),
             'Type': entry.get('type', '').lower().strip(),
         }
@@ -264,6 +265,7 @@ FINAL = """
         "Ran light/stop": "n",
         "Restraint": "unknown",
         "Road type": "IH35",
+        "Speeding": "n",
         "Time": "11:25 pm",
         "Type": "motor vehicle"
     }
