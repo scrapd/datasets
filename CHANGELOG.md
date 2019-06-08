@@ -10,6 +10,12 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 ## [Unreleased]
 
+## 19.6.8.0
+
+## Changed
+
+- Change the Socrata augmentations to include the "Speeding" field.
+
 ## 19.4.8.0
 
 ### Added
