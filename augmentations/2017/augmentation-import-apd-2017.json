@@ -12,6 +12,7 @@
     "Longitude": -97.731792,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "01:38 am",
     "Type": "motor vehicle"
   },
@@ -28,6 +29,7 @@
     "Longitude": -97.715831,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "unk",
     "Time": "02:13 pm",
     "Type": "motorcycle"
   },
@@ -44,6 +46,7 @@
     "Longitude": -97.754409,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "12:40 am",
     "Type": "motorcycle"
   },
@@ -60,6 +63,7 @@
     "Longitude": -97.67093,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "12:19 am",
     "Type": "motor vehicle"
   },
@@ -76,6 +80,7 @@
     "Longitude": -97.715069,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "y",
     "Time": "01:10 pm",
     "Type": "motorcycle"
   },
@@ -92,6 +97,7 @@
     "Longitude": -97.673273,
     "Ran light/stop": "n",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "04:25 pm",
     "Type": "pedestrian"
   },
@@ -108,6 +114,7 @@
     "Longitude": -97.689372,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "01:21 am",
     "Type": "motorcycle"
   },
@@ -124,6 +131,7 @@
     "Longitude": -97.812755,
     "Ran light/stop": "n",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "10:14 pm",
     "Type": "pedestrian"
   },
@@ -140,6 +148,7 @@
     "Longitude": -97.805879,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "08:01 pm",
     "Type": "pedestrian"
   },
@@ -156,6 +165,7 @@
     "Longitude": -97.688968,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "10:39 pm",
     "Type": "motor vehicle"
   },
@@ -172,6 +182,7 @@
     "Longitude": -97.70943,
     "Ran light/stop": "n",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "07:44 pm",
     "Type": "pedestrian"
   },
@@ -188,6 +199,7 @@
     "Longitude": -97.701118,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "10:37 pm",
     "Type": "motor vehicle"
   },
@@ -204,6 +216,7 @@
     "Longitude": -97.793613,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "10:19 pm",
     "Type": "motor vehicle"
   },
@@ -220,6 +233,7 @@
     "Longitude": -97.664369,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "02:19 am",
     "Type": "motorcycle"
   },
@@ -236,6 +250,7 @@
     "Longitude": -97.725024,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "08:35 pm",
     "Type": "pedestrian"
   },
@@ -252,6 +267,7 @@
     "Longitude": -97.726138,
     "Ran light/stop": "y",
     "Road type": "local",
+    "Speeding": "y",
     "Time": "06:13 pm",
     "Type": "motorcycle"
   },
@@ -268,6 +284,7 @@
     "Longitude": -97.78614,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "09:00 pm",
     "Type": "pedestrian"
   },
@@ -284,6 +301,7 @@
     "Longitude": -97.739666,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "05:57 am",
     "Type": "pedestrian"
   },
@@ -300,6 +318,7 @@
     "Longitude": -97.735255,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "10:37 am",
     "Type": "pedestrian"
   },
@@ -316,6 +335,7 @@
     "Longitude": -97.720683,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "07:36 pm",
     "Type": "pedestrian"
   },
@@ -332,6 +352,7 @@
     "Longitude": -97.725656,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "02:00 pm",
     "Type": "motor vehicle"
   },
@@ -348,6 +369,7 @@
     "Longitude": -97.755406,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "05:49 am",
     "Type": "pedestrian"
   },
@@ -364,6 +386,7 @@
     "Longitude": -97.736871,
     "Ran light/stop": "n",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "08:27 pm",
     "Type": "motor vehicle"
   },
@@ -380,6 +403,7 @@
     "Longitude": -97.685973,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "y",
     "Time": "10:18 pm",
     "Type": "motor vehicle"
   },
@@ -396,6 +420,7 @@
     "Longitude": -97.795248,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "y",
     "Time": "02:22 am",
     "Type": "motor vehicle"
   },
@@ -412,6 +437,7 @@
     "Longitude": -97.669327,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "unk",
     "Time": "09:44 pm",
     "Type": "pedestrian"
   },
@@ -428,6 +454,7 @@
     "Longitude": -97.683536,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "unk",
     "Time": "07:14 am",
     "Type": "pedestrian"
   },
@@ -444,6 +471,7 @@
     "Longitude": -97.719555,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "05:32 am",
     "Type": "motor vehicle"
   },
@@ -460,6 +488,7 @@
     "Longitude": -97.778115,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "12:33 am",
     "Type": "motorcycle"
   },
@@ -476,6 +505,7 @@
     "Longitude": -97.761191,
     "Ran light/stop": "n",
     "Road type": "alley",
+    "Speeding": "n",
     "Time": "01:48 am",
     "Type": "pedestrian"
   },
@@ -492,6 +522,7 @@
     "Longitude": -97.76287,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "11:06 pm",
     "Type": "motor vehicle"
   },
@@ -508,6 +539,7 @@
     "Longitude": -97.675583,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "10:58 pm",
     "Type": "pedestrian"
   },
@@ -523,6 +555,7 @@
     "Location": "capital of texas hwy/courtyard dr",
     "Longitude": -97.795281,
     "Road type": "other highway",
+    "Speeding": "unk",
     "Time": "08:59 pm",
     "Type": "motor vehicle"
   },
@@ -539,6 +572,7 @@
     "Longitude": -97.81214,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "12:30 am",
     "Type": "motor vehicle"
   },
@@ -555,6 +589,7 @@
     "Longitude": -97.718512,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "10:28 pm",
     "Type": "motor vehicle"
   },
@@ -571,6 +606,7 @@
     "Longitude": -97.639116,
     "Ran light/stop": "y",
     "Road type": "other highway",
+    "Speeding": "n",
     "Time": "06:15 am",
     "Type": "motor vehicle"
   },
@@ -587,6 +623,7 @@
     "Longitude": -97.775425,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "09:18 pm",
     "Type": "motor vehicle"
   },
@@ -603,6 +640,7 @@
     "Longitude": -97.703222,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "12:02 pm",
     "Type": "motor vehicle"
   },
@@ -619,6 +657,7 @@
     "Longitude": -97.754884,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "01:52 pm",
     "Type": "motor vehicle"
   },
@@ -635,6 +674,7 @@
     "Longitude": -97.7472,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "06:23 am",
     "Type": "pedestrian"
   },
@@ -651,6 +691,7 @@
     "Longitude": -97.694928,
     "Ran light/stop": "n",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "07:21 pm",
     "Type": "motorcycle"
   },
@@ -667,6 +708,7 @@
     "Longitude": -97.622752,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "unk",
     "Time": "04:43 am",
     "Type": "motor vehicle"
   },
@@ -683,6 +725,7 @@
     "Longitude": -97.904446,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "n",
     "Time": "09:52 am",
     "Type": "motor vehicle"
   },
@@ -699,6 +742,7 @@
     "Longitude": -97.771719,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "09:06 pm",
     "Type": "pedestrian"
   },
@@ -715,6 +759,7 @@
     "Longitude": -97.694956,
     "Ran light/stop": "y",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "11:12 am",
     "Type": "motor vehicle"
   },
@@ -731,6 +776,7 @@
     "Longitude": -97.755834,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "07:26 pm",
     "Type": "bicycle"
   },
@@ -747,6 +793,7 @@
     "Longitude": -97.68631,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "11:56 am",
     "Type": "pedestrian"
   },
@@ -763,6 +810,7 @@
     "Longitude": -97.717858,
     "Ran light/stop": "unk",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "02:31 am",
     "Type": "pedestrian"
   },
@@ -779,6 +827,7 @@
     "Longitude": -97.693053,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "01:21 am",
     "Type": "pedestrian"
   },
@@ -795,6 +844,7 @@
     "Longitude": -97.826565,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "08:07 am",
     "Type": "motor vehicle"
   },
@@ -811,6 +861,7 @@
     "Longitude": -97.678834,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "11:42 pm",
     "Type": "bicycle"
   },
@@ -827,6 +878,7 @@
     "Longitude": -97.704747,
     "Ran light/stop": "y",
     "Road type": "high use roadway",
+    "Speeding": "n",
     "Time": "08:44 pm",
     "Type": "motor vehicle"
   },
@@ -843,6 +895,7 @@
     "Longitude": -97.660994,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "y",
     "Time": "02:48 am",
     "Type": "motor vehicle"
   },
@@ -859,6 +912,7 @@
     "Longitude": -97.78569,
     "Ran light/stop": "n",
     "Road type": "high use roadway",
+    "Speeding": "y",
     "Time": "11:14 pm",
     "Type": "motor vehicle"
   },
@@ -875,6 +929,7 @@
     "Longitude": -97.708229,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "y",
     "Time": "03:15 pm",
     "Type": "motorcycle"
   },
@@ -891,6 +946,7 @@
     "Longitude": -97.743921,
     "Ran light/stop": "n",
     "Road type": "other highway",
+    "Speeding": "n",
     "Time": "03:32 pm",
     "Type": "motor vehicle"
   }

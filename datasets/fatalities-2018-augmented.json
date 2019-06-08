@@ -22,6 +22,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "8:20 p.m.",
     "Type": "motorcycle"
   },
@@ -48,6 +49,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "2:24 a.m.",
     "Type": "motor vehicle"
   },
@@ -74,6 +76,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "8:39 p.m.",
     "Type": "motor vehicle"
   },
@@ -100,6 +103,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "7:47 p.m.",
     "Type": "motor vehicle"
   },
@@ -126,6 +130,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "1:28 a.m.",
     "Type": "pedestrian"
   },
@@ -152,6 +157,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "1:46 p.m.",
     "Type": "pedestrian"
   },
@@ -178,6 +184,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "3:17 p.m.",
     "Type": "motor vehicle"
   },
@@ -204,6 +211,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "6:23 p.m.",
     "Type": "bicycle"
   },
@@ -230,6 +238,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "9:43 p.m.",
     "Type": "motor vehicle"
   },
@@ -256,6 +265,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "6:44 a.m.",
     "Type": "pedestrian"
   },
@@ -282,6 +292,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "12:33 a.m.",
     "Type": "pedestrian"
   },
@@ -306,6 +317,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "7:22 a.m.",
     "Type": "pedestrian"
   },
@@ -331,6 +343,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "10:46 p.m.",
     "Type": "motor vehicle"
   },
@@ -357,6 +370,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "1:19 a.m.",
     "Type": "pedestrian"
   },
@@ -383,6 +397,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "2:20 a.m.",
     "Type": "pedestrian"
   },
@@ -409,6 +424,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "2:53 p.m.",
     "Type": "motor vehicle"
   },
@@ -435,6 +451,7 @@
     "Ran light/stop": "y",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "8 p.m.",
     "Type": "motor vehicle"
   },
@@ -461,6 +478,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "5:52 p.m.",
     "Type": "motor vehicle"
   },
@@ -481,6 +499,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "6:31 a.m.",
     "Type": "pedestrian"
   },
@@ -507,6 +526,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "2:05 a.m.",
     "Type": "pedestrian"
   },
@@ -532,6 +552,7 @@
     "Notes": "The preliminary investigation shows that a 2009 Freightliner truck and attached trailer was stopped in traffic in the 2500 block of N IH-35, in the left lane, when a 2001 Toyota Avalon struck the back side of the trailer, at a high rate of speed. The driver of the Toyota Avalon was pronounced deceased at the scene. APD is investigating this case. Anyone with information regarding this case is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5576. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s fifty-third fatal traffic crash of 2018, resulting in fifty-four fatalities this year. At this time in 2017, there were forty-nine fatal traffic crashes and fifty-one traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "Ran light/stop": "n",
     "Road type": "I35",
+    "Speeding": "y",
     "Time": "12:27 a.m.",
     "Type": "motor vehicle"
   },
@@ -558,6 +579,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "11:31 p.m.",
     "Type": "pedestrian"
   },
@@ -584,6 +606,7 @@
     "Ran light/stop": "y",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "11:30 p.m.",
     "Type": "motor vehicle"
   },
@@ -610,6 +633,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "10:29 p.m.",
     "Type": "pedestrian"
   },
@@ -636,6 +660,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "2:32 a.m.",
     "Type": "pedestrian"
   },
@@ -662,6 +687,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "4:21 a.m.",
     "Type": "pedestrian"
   },
@@ -682,6 +708,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:12 p.m.",
     "Type": "pedestrian"
   },
@@ -708,6 +735,7 @@
     "Ran light/stop": "y",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "8:50 p.m.",
     "Type": "motor vehicle"
   },
@@ -733,6 +761,7 @@
     "Notes": "The preliminary investigation shows that a white, 2004 Chevrolet Trailblazer was traveling northbound in the 10700 block of N. IH-35 when the vehicle left the roadway for unknown reasons and began to roll. The driver, Kendall Taylor Dezelle, and her passenger were ejected. They were both transported to Dell Seton Medical Center at the University of Texas \u2013 Seton Healthcare where the driver died on August 27, 2018. APD is investigating this case. Anyone with information regarding this case is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-3761. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s forty-sixth fatal traffic crash of 2018, resulting in forty-seven fatalities this year. At this time in 2017, there were forty-one fatal traffic crashes and forty-three traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "Ran light/stop": "n",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "6:01 a.m.",
     "Type": "motor vehicle"
   },
@@ -759,6 +788,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "1:24 a.m.",
     "Type": "motor vehicle"
   },
@@ -785,6 +815,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "8:17 p.m.",
     "Type": "pedestrian"
   },
@@ -811,6 +842,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "6:35 a.m.",
     "Type": "motor vehicle"
   },
@@ -837,6 +869,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "6:52 p.m.",
     "Type": "motorcycle"
   },
@@ -863,6 +896,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "I35",
+    "Speeding": "y",
     "Time": "12:27 a.m.",
     "Type": "motor vehicle"
   },
@@ -890,6 +924,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "7:58 a.m.",
     "Type": "pedestrian",
     "Vehicle": "2005 GMC 1500, TXLP# AD68179"
@@ -917,6 +952,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:36 p.m.",
     "Type": "pedestrian"
   },
@@ -943,6 +979,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "5:29 a.m.",
     "Type": "pedestrian"
   },
@@ -969,6 +1006,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "8:40 a.m.",
     "Type": "pedestrian"
   },
@@ -995,6 +1033,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "4:01 a.m.",
     "Type": "motor vehicle"
   },
@@ -1021,6 +1060,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "10:20 p.m.",
     "Type": "motorcycle"
   },
@@ -1047,6 +1087,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "6:30 a.m.",
     "Type": "pedestrian"
   },
@@ -1073,6 +1114,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "9:05 p.m.",
     "Type": "pedestrian"
   },
@@ -1099,6 +1141,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "3:43 p.m.",
     "Type": "motor vehicle"
   },
@@ -1125,6 +1168,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "11:26 p.m.",
     "Type": "motorcycle"
   },
@@ -1151,6 +1195,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:20 p.m.",
     "Type": "motorcycle"
   },
@@ -1177,6 +1222,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "3:03 a.m.",
     "Type": "motorcycle"
   },
@@ -1202,6 +1248,7 @@
     "Ran light/stop": "unk",
     "Restraint": "seatbelt worn",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "4:47 p.m.",
     "Type": "motor vehicle"
   },
@@ -1228,6 +1275,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "9:18 p.m.",
     "Type": "pedestrian"
   },
@@ -1254,6 +1302,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "9:41 a.m.",
     "Type": "motor vehicle"
   },
@@ -1280,6 +1329,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "4:22 a.m.",
     "Type": "pedestrian"
   },
@@ -1306,6 +1356,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "unk",
     "Time": "2:10 a.m.",
     "Type": "pedestrian"
   },
@@ -1332,6 +1383,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "02:50 am",
     "Type": "motor vehicle"
   },
@@ -1435,6 +1487,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "01:15 am",
     "Type": "pedestrian"
   },
@@ -1455,6 +1508,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "02:38 pm",
     "Type": "motor vehicle"
   },
@@ -1480,6 +1534,7 @@
     "Notes": "The preliminary investigation shows that the 2010, Infiniti G37 driven by Luna was traveling north in the 6600 block of S. Congress when he lost control and struck a bus stop. Speed is believed to be a contributing factor. The driver was pronounced deceased at the scene and the passenger was transported to a local hospital with serious injuries. The case is still being investigated at this time. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s sixteenth fatal traffic crash of 2018, resulting in seventeen fatalities this year. At this time in 2017, there were twenty-one fatal traffic crashes and twenty-three traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "Ran light/stop": "n",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "01:09 am",
     "Type": "motor vehicle"
   },
@@ -1506,6 +1561,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "4:31 a.m.",
     "Type": "motor vehicle"
   },
@@ -1532,6 +1588,7 @@
     "Ran light/stop": "n",
     "Restraint": "seatbelt worn",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "4:31 p.m.",
     "Type": "motor vehicle"
   },
@@ -1552,6 +1609,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "IH35",
+    "Speeding": "unk",
     "Time": "8:48 p.m.",
     "Type": "pedestrian"
   },
@@ -1595,6 +1653,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "Approximately 10:32 p.m.",
     "Type": "motor vehicle"
   },
@@ -1636,6 +1695,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "Approximately 7:07 p.m.",
     "Type": "pedestrian"
   },
@@ -1662,6 +1722,7 @@
     "Ran light/stop": "unk",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "Approximately 10:42 a.m.",
     "Type": "bicycle"
   },
@@ -1689,6 +1750,7 @@
     "Ran light/stop": "no",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "Approximately 3:05 a.m.",
     "Type": "motorcycle"
   },
@@ -1715,6 +1777,7 @@
     "Ran light/stop": "no",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "10:49 p.m.",
     "Type": "pedestrian"
   },
@@ -1741,6 +1804,7 @@
     "Ran light/stop": "no",
     "Restraint": "seatbelt worn",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "5:00 a.m.",
     "Type": "motor vehicle"
   },
@@ -1766,6 +1830,7 @@
     "Ran light/stop": "no",
     "Restraint": "no helmet",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "6:31 p.m.",
     "Type": "motorcycle"
   },
@@ -1809,6 +1874,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "11:57 p.m.",
     "Type": "motor vehicle"
   }

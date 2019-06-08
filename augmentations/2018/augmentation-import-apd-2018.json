@@ -13,6 +13,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "08:21 pm",
     "Type": "motorcycle"
   },
@@ -30,6 +31,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "02:24 am",
     "Type": "motor vehicle"
   },
@@ -47,6 +49,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "08:39 pm",
     "Type": "motor vehicle"
   },
@@ -64,6 +67,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "07:48 pm",
     "Type": "motor vehicle"
   },
@@ -81,6 +85,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "01:28 am",
     "Type": "pedestrian"
   },
@@ -98,6 +103,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "01:46 pm",
     "Type": "pedestrian"
   },
@@ -115,6 +121,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "03:17 pm",
     "Type": "motor vehicle"
   },
@@ -132,6 +139,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "06:23 pm",
     "Type": "bicycle"
   },
@@ -149,6 +157,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "09:43 pm",
     "Type": "motor vehicle"
   },
@@ -166,6 +175,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "01:40 am",
     "Type": "pedestrian"
   },
@@ -183,6 +193,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "12:33 am",
     "Type": "pedestrian"
   },
@@ -200,6 +211,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "11:52 am",
     "Type": "pedestrian"
   },
@@ -216,6 +228,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "10:46 pm",
     "Type": "motor vehicle"
   },
@@ -233,6 +246,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "03:50 am",
     "Type": "pedestrian"
   },
@@ -250,6 +264,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "02:20 am",
     "Type": "pedestrian"
   },
@@ -267,6 +282,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "03:07 pm",
     "Type": "motor vehicle"
   },
@@ -284,6 +300,7 @@
     "Ran light/stop": "y",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "07:52 pm",
     "Type": "motor vehicle"
   },
@@ -301,6 +318,7 @@
     "Ran light/stop": "n",
     "Restraint": "ok",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "05:52 pm",
     "Type": "motor vehicle"
   },
@@ -318,6 +336,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "06:32 am",
     "Type": "pedestrian"
   },
@@ -335,6 +354,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "02:05 am",
     "Type": "pedestrian"
   },
@@ -351,6 +371,7 @@
     "Longitude": -97.725174,
     "Ran light/stop": "n",
     "Road type": "I35",
+    "Speeding": "y",
     "Time": "12:24 am",
     "Type": "motor vehicle"
   },
@@ -368,6 +389,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "11:36 pm",
     "Type": "pedestrian"
   },
@@ -385,6 +407,7 @@
     "Ran light/stop": "y",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "10:28 am",
     "Type": "motor vehicle"
   },
@@ -402,6 +425,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "10:29 pm",
     "Type": "pedestrian"
   },
@@ -419,6 +443,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "02:33 am",
     "Type": "pedestrian"
   },
@@ -436,6 +461,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "07:44 am",
     "Type": "pedestrian"
   },
@@ -453,6 +479,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:12 pm",
     "Type": "pedestrian"
   },
@@ -470,6 +497,7 @@
     "Ran light/stop": "y",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "08:50 pm",
     "Type": "motor vehicle"
   },
@@ -486,6 +514,7 @@
     "Longitude": -97.679711,
     "Ran light/stop": "n",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "06:00 am",
     "Type": "motor vehicle"
   },
@@ -503,6 +532,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "01:24 am",
     "Type": "motor vehicle"
   },
@@ -520,6 +550,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "09:17 pm",
     "Type": "pedestrian"
   },
@@ -537,6 +568,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "06:35 am",
     "Type": "motor vehicle"
   },
@@ -554,6 +586,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "06:52 pm",
     "Type": "motorcycle"
   },
@@ -571,6 +604,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "I35",
+    "Speeding": "y",
     "Time": "12:27 am",
     "Type": "motor vehicle"
   },
@@ -588,6 +622,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "07:58 am",
     "Type": "pedestrian"
   },
@@ -605,6 +640,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:36 pm",
     "Type": "pedestrian"
   },
@@ -622,6 +658,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "09:17 pm",
     "Type": "pedestrian"
   },
@@ -639,6 +676,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "08:40 am",
     "Type": "pedestrian"
   },
@@ -656,6 +694,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "07:14 am",
     "Type": "motor vehicle"
   },
@@ -673,6 +712,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "10:20 pm",
     "Type": "motorcycle"
   },
@@ -690,6 +730,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "06:29 am",
     "Type": "pedestrian"
   },
@@ -707,6 +748,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "09:05 pm",
     "Type": "pedestrian"
   },
@@ -724,6 +766,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "03:43 pm",
     "Type": "motor vehicle"
   },
@@ -741,6 +784,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "11:26 pm",
     "Type": "motorcycle"
   },
@@ -758,6 +802,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "10:41 pm",
     "Type": "motorcycle"
   },
@@ -775,6 +820,7 @@
     "Ran light/stop": "n",
     "Restraint": "no helmet",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "03:03 am",
     "Type": "motorcycle"
   },
@@ -792,6 +838,7 @@
     "Ran light/stop": "unk",
     "Restraint": "seatbelt worn",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "04:48 pm",
     "Type": "motor vehicle"
   },
@@ -809,6 +856,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "09:19 pm",
     "Type": "pedestrian"
   },
@@ -826,6 +874,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "09:42 am",
     "Type": "motor vehicle"
   },
@@ -843,6 +892,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "04:23 am",
     "Type": "pedestrian"
   },
@@ -860,6 +910,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "unk",
     "Time": "02:10 am",
     "Type": "pedestrian"
   },
@@ -877,6 +928,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "02:50 am",
     "Type": "motor vehicle"
   },
@@ -944,6 +996,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "I35",
+    "Speeding": "n",
     "Time": "01:15 am",
     "Type": "pedestrian"
   },
@@ -961,6 +1014,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "02:38 pm",
     "Type": "motor vehicle"
   },
@@ -977,6 +1031,7 @@
     "Longitude": -97.778818,
     "Ran light/stop": "n",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "01:09 am",
     "Type": "motor vehicle"
   },
@@ -994,6 +1049,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "Other Highway",
+    "Speeding": "y",
     "Time": "04:31 am",
     "Type": "motor vehicle"
   },
@@ -1011,6 +1067,7 @@
     "Ran light/stop": "n",
     "Restraint": "seatbelt worn",
     "Road type": "High Use Road",
+    "Speeding": "y",
     "Time": "04:31 pm",
     "Type": "motor vehicle"
   },
@@ -1028,6 +1085,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "IH35",
+    "Speeding": "unk",
     "Time": "08:45 pm",
     "Type": "pedestrian"
   },
@@ -1045,6 +1103,7 @@
     "Ran light/stop": "n",
     "Restraint": "no seatbelts",
     "Road type": "High Use Road",
+    "Speeding": "unk",
     "Time": "10:32 pm",
     "Type": "motor vehicle"
   },
@@ -1062,6 +1121,7 @@
     "Ran light/stop": "n",
     "Restraint": "n/a",
     "Road type": "High Use Road",
+    "Speeding": "n",
     "Time": "07:07 pm",
     "Type": "pedestrian"
   },
@@ -1079,6 +1139,7 @@
     "Ran light/stop": "unk",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "unk",
     "Time": "12:18 pm",
     "Type": "bicycle"
   },
@@ -1096,6 +1157,7 @@
     "Ran light/stop": "no",
     "Restraint": "no helmet",
     "Road type": "local street",
+    "Speeding": "n",
     "Time": "03:07 am",
     "Type": "motorcycle"
   },
@@ -1113,6 +1175,7 @@
     "Ran light/stop": "no",
     "Restraint": "unknown",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "10:49 pm",
     "Type": "pedestrian"
   },
@@ -1130,6 +1193,7 @@
     "Ran light/stop": "no",
     "Restraint": "seatbelt worn",
     "Road type": "Other Highway",
+    "Speeding": "n",
     "Time": "05:00 am",
     "Type": "motor vehicle"
   },
@@ -1147,6 +1211,7 @@
     "Ran light/stop": "no",
     "Restraint": "no helmet",
     "Road type": "local",
+    "Speeding": "n",
     "Time": "06:31 pm",
     "Type": "motorcycle"
   },
@@ -1164,6 +1229,7 @@
     "Ran light/stop": "n",
     "Restraint": "unknown",
     "Road type": "IH35",
+    "Speeding": "n",
     "Time": "11:25 pm",
     "Type": "motor vehicle"
   }
