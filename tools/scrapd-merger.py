@@ -23,7 +23,7 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()))
+    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
     results_str = json.dumps(results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
@@ -42,11 +42,12 @@ def get_cli_parser():  # pragma: no cover
     parser.add_argument('old', type=argparse.FileType('r+t'))
     parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
     parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
+    parser.add_argument('-u', '--update', action='store_true', help='Update existing fields')
 
     return parser
 
 
-def merge(old, new):
+def merge(old, new, update):
     """
     Merge `new` data into `old` data.
 
@@ -70,8 +71,11 @@ def merge(old, new):
             old_entry_value = old_entry.get(key)
             if isinstance(old_entry_value, str):
                 old_entry_value = old_entry_value.strip()
-            if not old_entry_value:
+            if update:
                 merged_entries[key] = value
+            else:
+                if not old_entry_value:
+                    merged_entries[key] = value
         final_dict[entry] = merged_entries
     final_dict.update(new_dict)
     return list(final_dict.values())
