@@ -10,11 +10,13 @@ $ cat socarata-data-set.json | python scrapd-importer-fatalities-socrata.py old.
 """
 
 import argparse
+from collections import ChainMap
 import datetime
 import json
 import pprint
 import sys
 
+import dateparser
 import pytest
 
 
@@ -55,24 +57,28 @@ def merge(scrapd, socrata, extras=False):
     # Map a Socrata entry to ScrAPD entry.
     socrata_dict = {}
     for entry in socrata:
+        latitude_value = entry.get('y_coord') or entry.get('ycoord') or ''
+        longitude_value = entry.get('x_coord') or entry.get('xcoord') or ''
+
         d = {
-            'Case': entry.get('case_number', ''),
+            # Common fields.
+            'Case': entry.get('case_number', '').lower().strip(),
+            'Date': clean_date(entry.get('date', '').lower().strip()),
+            'Latitude': clean_coordinates(latitude_value.strip()),
+            'Location': entry.get('location', '').lower().strip(),
+            'Longitude': clean_coordinates(longitude_value.strip()),
+            'Time': clean_time(entry.get('time', '').lower().strip()),
 
             # Extra fields.
             'Charge': entry.get('charge', '').lower().strip(),
-            'Date': clean_date(entry.get('date', '').lower().strip()),
             'Drivers license status': entry.get('dl_status_incident', '').lower().strip(),
             'Hit and run': entry.get('failure_to_stop_and_render_aid', '').lower().strip(),
             'Impairment': entry.get('suspected_impairment', '').lower().strip(),
             'Killed': entry.get('killed_driver_pass', '').lower().strip(),
-            'Latitude': clean_coordinates(entry.get('y_coord', '').strip()),
-            'Location': entry.get('location', '').lower().strip(),
-            'Longitude': clean_coordinates(entry.get('x_coord', '').strip()),
             'Ran light/stop': entry.get('ran_red_light_or_stop_sign', '').lower().strip(),
             'Restraint': entry.get('restraint_type', '').lower().strip(),
             'Road type': entry.get('type_of_road', '').strip(),
             'Speeding': entry.get('speeding', '').lower().strip(),
-            'Time': clean_time(entry.get('time', '').lower().strip()),
             'Type': entry.get('type', '').lower().strip(),
         }
         socrata_dict[d.get('Case')] = {k: v for k, v in d.items() if v}
@@ -100,7 +106,7 @@ def clean_time(time):
     :param str time: time to clean up
     """
     try:
-        t = datetime.datetime.strptime(time, "%H:%M")
+        t = dateparser.parse(time)
     except ValueError:
         return ''
     else:
@@ -165,7 +171,7 @@ class TestMerge:
     @pytest.mark.parametrize('input_,expected', [
         ('22:15', '10:15 pm'),
         ('8:57', '08:57 am'),
-        ('2018-01-04T00:00:00.000', ''),
+        ('2018-01-04T00:00:00.000', '12:00 am'),
     ])
     def test_clean_time_00(self, input_, expected):
         actual = clean_time(input_)
