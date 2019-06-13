@@ -376,7 +376,7 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-56-2",
     "Location": "Chicon and Willow streets",
     "Longitude": -97.725024,
-    "Notes": "The preliminary investigation shows that a blue, Ford pickup truck was driving southbound on Chicon Street when it struck a pedestrian who was walking in a southeast direction in the intersection of Chicon and Willow streets. After striking the pedestrian, the Ford truck briefly stopped but then fled the scene southbound on Chicon St. without stopping and rendering aid to the pedestrian. The pedestrian, identified as Mauricio Marcos Morales, was transported to Dell Seton Medical Center at the University of Texas where he died a short time later. ",
+    "Notes": "The preliminary investigation shows that a blue, Ford pickup truck was driving southbound on Chicon Street when it struck a pedestrian who was walking in a southeast direction in the intersection of Chicon and Willow streets. After striking the pedestrian, the Ford truck briefly stopped but then fled the scene southbound on Chicon St. without stopping and rendering aid to the pedestrian. The pedestrian, identified as Mauricio Marcos Morales, was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
@@ -384,9 +384,10 @@
     "Type": "pedestrian"
   },
   {
+    "Age": 29,
     "Case": "17-3021271",
     "Charge": "na",
-    "DOB": "04/29/2019",
+    "DOB": "06/29/2019",
     "Date": "10/29/2017",
     "Drivers license status": "okay",
     "Ethnicity": "White",
@@ -431,14 +432,14 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "09:00 pm",
+    "Time": "9:00 p.m.",
     "Type": "pedestrian"
   },
   {
-    "Age": -2,
+    "Age": 28,
     "Case": "17-2890294",
     "Charge": "na",
-    "DOB": "04/28/2019",
+    "DOB": "06/28/2019",
     "Date": "10/16/2017",
     "Drivers license status": "okay",
     "Ethnicity": "Hispanic",
@@ -461,10 +462,10 @@
     "Type": "pedestrian"
   },
   {
-    "Age": 68,
+    "Age": 49,
     "Case": "17-2850475",
     "Charge": "class c",
-    "DOB": "04/26/1949",
+    "DOB": "06/09/1949",
     "Date": "10/12/2017",
     "Drivers license status": "okay",
     "Ethnicity": "White",
@@ -531,7 +532,7 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-47-3",
     "Location": "East Riverside Dr. and Willow Creek Dr.",
     "Longitude": -97.725656,
-    "Notes": "The preliminary investigation shows that a white 2013 Honda CRV was traveling westbound on East Riverside Dr. A tan 2003 Nissan Altima was traveling eastbound on East Riverside Drive and attempting to turn northbound into a private driveway at the Willow Creek intersection. The Altima failed to yield right of way turning left. The Honda CRV struck the Altima\u2019s right side with its front. The passenger of the vehicle was transported to Dell Seton Medical Center where she died as a result of her injures on Thursday, September 21, 2017. ",
+    "Notes": "The preliminary investigation shows that a white 2013 Honda CRV was traveling westbound on East Riverside Dr. A tan 2003 Nissan Altima was traveling eastbound on East Riverside Drive and attempting to turn northbound into a private driveway at the Willow Creek intersection. The Altima failed to yield right of way turning left. The Honda CRV struck the Altima\u2019s right side with its front. The passenger of the vehicle was transported to Dell Seton Medical Center where she died as a result of her injures on Thursday, September 21, 2017.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
@@ -826,7 +827,7 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-35-1",
     "Location": "1100 Pearl Retreat Lane",
     "Notes": "The preliminary investigation shows that a 2015 red Ducati motorcycle was traveling southbound on Pearl Retreat Lane at a high rate of speed when it pulled alongside of another vehicle travelling southbound and revved the motor. The Ducati motorcycle was traveling southbound in the northbound lane when it accelerated quickly causing the front wheel to lift off ground. The motorcycle lost control while it was on the one wheel. The motorcycle jumped the east curb. The motorcycle continued to travel onto the grass before crossing the street and hitting the fence on the west side of the roadway.",
-    "Time": "6:20 p.m.          "
+    "Time": "6:20 p.m."
   },
   {
     "Age": 34,
@@ -945,7 +946,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "10:28 pm",
+    "Time": "10:27 p.m.",
     "Type": "motor vehicle"
   },
   {
@@ -1441,10 +1442,10 @@
     "Type": "motorcycle"
   },
   {
-    "Age": 79,
+    "Age": 38,
     "Case": "17-3150989",
     "Charge": "intox manslaughter, manslaughter",
-    "DOB": "04/26/1938",
+    "DOB": "06/09/1938",
     "Date": "11/11/2017",
     "Drivers license status": "okay",
     "Ethnicity": "White",
