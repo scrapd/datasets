@@ -14,7 +14,7 @@ cd "${TOPDIR}"|| exit
 
 # Generate the current data set.
 ENTRY_COUNT_BEFORE=$(jq length "${CURRENT_DATASET}")
-# python "${MERGER}" -i "${CURRENT_DATASET}" <(scrapd -v --format json --from "Jan 1 ${CURRENT_YEAR}" --to "Dec 31 ${CURRENT_YEAR}");
+python "${MERGER}" -i "${CURRENT_DATASET}" <(scrapd -v --format json --from "Jan 1 ${CURRENT_YEAR}" --to "Dec 31 ${CURRENT_YEAR}");
 HAS_CHANGE=$(git status -s)
 
 # If nothing changed, we can leave.
