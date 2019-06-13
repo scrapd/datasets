@@ -2,6 +2,7 @@
 set -euo pipefail
 
 # Define variables.
+: ${REGENERATE:=0}
 CURRENT_YEAR=$(date +%Y)
 TOPDIR=$(git rev-parse --show-toplevel)
 DATASET_DIR="${TOPDIR}/datasets"
@@ -14,13 +15,13 @@ cd "${TOPDIR}"|| exit
 
 # Generate the current data set.
 ENTRY_COUNT_BEFORE=$(jq length "${CURRENT_DATASET}")
-python "${MERGER}" -i "${CURRENT_DATASET}" <(scrapd -v --format json --from "Jan 1 ${CURRENT_YEAR}" --to "Dec 31 ${CURRENT_YEAR}");
+[ "$REGENERATE" == 0 ] && python "${MERGER}" -i "${CURRENT_DATASET}" <(scrapd -v --format json --from "Jan 1 ${CURRENT_YEAR}" --to "Dec 31 ${CURRENT_YEAR}");
 HAS_CHANGE=$(git status -s)
 
 # If nothing changed, we can leave.
 if [ -z "${HAS_CHANGE}" ]; then
   echo "There is nothing new to commit."
-  exit 0
+  [ "$REGENERATE" == 0 ] && exit 0
 fi
 
 for YEAR in {2017..2019}; do
@@ -72,6 +73,9 @@ jq -s add fatalities-20{17..19}-augmented.json > fatalities-all-augmented.json
 ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
 NEW_ENTRY_COUNT=$(( ENTRY_COUNT_AFTER - ENTRY_COUNT_BEFORE ))
 echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
+[ "$REGENERATE" == 1 ] && exit
+echo "Just for safety"
+exit 0
 
 # Go back to the top dir.
 cd "${TOPDIR}"|| exit
