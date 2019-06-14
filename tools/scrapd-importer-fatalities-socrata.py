@@ -10,7 +10,6 @@ $ cat socarata-data-set.json | python scrapd-importer-fatalities-socrata.py old.
 """
 
 import argparse
-from collections import ChainMap
 import datetime
 import json
 import pprint
@@ -58,7 +57,7 @@ def merge(scrapd, socrata, extras=False):
     socrata_dict = {}
     for entry in socrata:
         latitude_value = entry.get('y_coord') or entry.get('ycoord') or ''
-        longitude_value = entry.get('x_coord') or entry.get('xcoord') or ''
+        longitude_value = entry.get('x_coord') or entry.get('xcoord') or entry.get('coord_x', '') or ''
 
         d = {
             # Common fields.
