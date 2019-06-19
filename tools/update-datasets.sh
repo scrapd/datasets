@@ -74,8 +74,6 @@ ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
 NEW_ENTRY_COUNT=$(( ENTRY_COUNT_AFTER - ENTRY_COUNT_BEFORE ))
 echo "There are ${NEW_ENTRY_COUNT} new entries in the current data set."
 [ "$REGENERATE" == 1 ] && exit
-echo "Just for safety"
-exit 0
 
 # Go back to the top dir.
 cd "${TOPDIR}"|| exit
