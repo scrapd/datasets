@@ -554,5 +554,37 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-35-3",
     "Location": "12000 block of S IH 35 southbound",
     "Time": "5:39 a.m."
+  },
+  {
+    "Age": 53,
+    "Case": "19-1611200",
+    "DOB": "11/25/1965",
+    "Date": "06/10/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "37",
+    "First Name": "Matthew",
+    "Gender": "male",
+    "Last Name": "Waters",
+    "Latitude": 30.241112,
+    "Link": "http://austintexas.gov/news/traffic-fatality-37-4",
+    "Location": "400 E Oltorf Street",
+    "Longitude": -97.757454,
+    "Time": "3:52 p.m."
+  },
+  {
+    "Age": 42,
+    "Case": "19-1590874",
+    "DOB": "11/08/1976",
+    "Date": "06/08/2019",
+    "Ethnicity": "Hispanic",
+    "Fatal crashes this year": "36",
+    "First Name": "Guadalupe",
+    "Gender": "male",
+    "Last Name": "Palacios",
+    "Latitude": 30.388285,
+    "Link": "http://austintexas.gov/news/traffic-fatality-36-3",
+    "Location": "8900 block of N Capital of Texas Highway",
+    "Longitude": -97.760666,
+    "Time": "12:28 p.m."
   }
 ]
