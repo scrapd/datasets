@@ -3933,5 +3933,22 @@
     "Location": "8900 block of N Capital of Texas Highway",
     "Longitude": -97.760666,
     "Time": "12:28 p.m."
+  },
+  {
+    "Age": 31,
+    "Case": "19-1801699",
+    "DOB": "04/01/1988",
+    "Date": "06/29/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "38",
+    "First Name": "Brendan",
+    "Gender": "male",
+    "Last Name": "O’Connor",
+    "Latitude": 30.27617,
+    "Link": "http://austintexas.gov/news/traffic-fatality-38-3",
+    "Location": "Webberville Rd. and Springdale Rd.",
+    "Longitude": -97.68877,
+    "Notes": "This is Austin’s 38th fatal traffic crash of 2019, resulting in 39 fatalities this year. At this time in 2018, there were 29 fatal traffic crashes and 30 traffic fatalities.",
+    "Time": "8:43 p.m."
   }
 ]
