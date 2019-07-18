@@ -10,6 +10,10 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 ## [Unreleased]
 
+## 19.7.17.0
+
+- Regenerate raw data sets with ScrAPD 2.1.0.
+
 ## 19.6.8.0
 
 ## Changed
