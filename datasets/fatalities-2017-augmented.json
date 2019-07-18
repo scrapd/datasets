@@ -22,7 +22,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "1:38 p.m.",
+    "Time": "01:38 PM",
     "Type": "motor vehicle"
   },
   {
@@ -44,11 +44,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-70-0",
     "Location": "8400 block of Research Blvd. Southbound",
     "Longitude": -97.715831,
-    "Notes": "The preliminary investigation indicates that a 2002, blue, Chevrolet truck was traveling southbound in the 8400 block of Research Blvd. in the inside lane when it swerved into the right lane to avoid a collision. When the Chevrolet entered the right lane, it struck a 1998 BMW motorcycle from behind, knocking the driver off the bike and over a retaining wall. The driver fell to the frontage road where he sustained serious injuries. The driver of the motorcycle was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Wednesday, December 13, 2017.",
+    "Notes": "The preliminary investigation indicates that a 2002, blue, Chevrolet truck was traveling southbound in the 8400 block of Research Blvd. in the inside lane when it swerved into the right lane to avoid a collision. When the Chevrolet entered the right lane, it struck a 1998 BMW motorcycle from behind, knocking the driver off the bike and over a retaining wall. The driver fell to the frontage road where he sustained serious injuries. The driver of the motorcycle was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Wednesday, December 13, 2017.\n\tThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "unk",
-    "Time": "2:13 p.m.",
+    "Time": "02:13 PM",
     "Type": "motorcycle"
   },
   {
@@ -74,7 +74,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "12:45 a.m.",
+    "Time": "12:45 AM",
     "Type": "motorcycle"
   },
   {
@@ -96,11 +96,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-69-1",
     "Location": "3300 block of Northeast Dr.",
     "Longitude": -97.67093,
-    "Notes": "The preliminary investigation indicates that a 2010, blue Hyundai was traveling southbound on Northeast Dr. The driver of the vehicle lost control, left the roadway and struck a telephone pole. The passenger, Dominique Gaines, was pronounced deceased at the scene. The driver of the vehicle was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries.",
+    "Notes": "The preliminary investigation indicates that a 2010, blue Hyundai was traveling southbound on Northeast Dr. The driver of the vehicle lost control, left the roadway and struck a telephone pole. The passenger, Dominique Gaines, was pronounced deceased at the scene. The driver of the vehicle was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries.\n\tThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "12:18 a.m.",
+    "Time": "12:18 AM",
     "Type": "motor vehicle"
   },
   {
@@ -122,11 +122,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-67-1",
     "Location": "8200 Research Blvd. NB Service Road",
     "Longitude": -97.715069,
-    "Notes": "The preliminary investigation indicates that the 2007 Suzuki GSX-R Motorcycle operated by Proenza-Benedit was in the left lane of the Research Blvd. service road traveling at a high rate of speed when the driver of a 2004 GMC 2500 truck turned from Jamestown Drive on to the service road. The motorcycle struck the right rear tire of the truck and lost control. The motorcyclist was pronounced deceased at the scene.",
+    "Notes": "The preliminary investigation indicates that the 2007 Suzuki GSX-R Motorcycle operated by Proenza-Benedit was in the left lane of the Research Blvd. service road traveling at a high rate of speed when the driver of a 2004 GMC 2500 truck turned from Jamestown Drive on to the service road. The motorcycle struck the right rear tire of the truck and lost control. The motorcyclist was pronounced deceased at the scene.\n\tThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "y",
-    "Time": "1:10 p.m.",
+    "Time": "01:10 PM",
     "Type": "motorcycle"
   },
   {
@@ -152,7 +152,7 @@
     "Ran light/stop": "n",
     "Road type": "IH35",
     "Speeding": "n",
-    "Time": "4:25 p.m.",
+    "Time": "04:25 PM",
     "Type": "pedestrian"
   },
   {
@@ -174,11 +174,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-65-1",
     "Location": "10700 N. Lamar Blvd.",
     "Longitude": -97.689372,
-    "Notes": "The preliminary investigation shows that the driver of a silver, 1979 Vespa Moped was traveling southbound on N. Lamar Blvd. The Moped crossed into oncoming traffic and was hit by a 2017 Toyota Corolla that was traveling northbound on N. Lamar Blvd. The driver of the Moped died at the scene.",
+    "Notes": "The preliminary investigation shows that the driver of a silver, 1979 Vespa Moped was traveling southbound on N. Lamar Blvd. The Moped crossed into oncoming traffic and was hit by a 2017 Toyota Corolla that was traveling northbound on N. Lamar Blvd. The driver of the Moped died at the scene.\nThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "y",
-    "Time": "1:20 a.m.",
+    "Time": "01:20 AM",
     "Type": "motorcycle"
   },
   {
@@ -204,7 +204,7 @@
     "Ran light/stop": "n",
     "Road type": "IH35",
     "Speeding": "n",
-    "Time": "10:14 p.m.",
+    "Time": "10:14 PM",
     "Type": "pedestrian"
   },
   {
@@ -230,7 +230,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "8:01 p.m.",
+    "Time": "08:01 PM",
     "Type": "pedestrian"
   },
   {
@@ -256,7 +256,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "10:39 p.m.",
+    "Time": "10:39 PM",
     "Type": "motor vehicle"
   },
   {
@@ -282,7 +282,7 @@
     "Ran light/stop": "n",
     "Road type": "IH35",
     "Speeding": "n",
-    "Time": "7:44 p.m.",
+    "Time": "07:44 PM",
     "Type": "pedestrian"
   },
   {
@@ -308,7 +308,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "y",
-    "Time": "5:54 p.m.",
+    "Time": "05:54 PM",
     "Type": "motor vehicle"
   },
   {
@@ -328,7 +328,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "10:19 p.m.",
+    "Time": "10:19 PM",
     "Type": "motor vehicle"
   },
   {
@@ -354,7 +354,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "2:19 a.m.",
+    "Time": "02:19 AM",
     "Type": "motorcycle"
   },
   {
@@ -380,7 +380,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
-    "Time": "8:38 p.m.",
+    "Time": "08:38 PM",
     "Type": "pedestrian"
   },
   {
@@ -406,7 +406,7 @@
     "Ran light/stop": "y",
     "Road type": "local",
     "Speeding": "y",
-    "Time": "6:14 p.m.",
+    "Time": "06:14 PM",
     "Type": "motorcycle"
   },
   {
@@ -426,13 +426,13 @@
     "Last Name": "Bailey",
     "Latitude": 30.240842,
     "Link": "http://austintexas.gov/news/traffic-fatality-54-1",
-    "Location": "3401 s lamar blvd",
+    "Location": "3400 block of South Lamar",
     "Longitude": -97.78614,
     "Notes": "The pedestrian was pronounced deceased at the scene.",
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "9:00 p.m.",
+    "Time": "09:00 PM",
     "Type": "pedestrian"
   },
   {
@@ -454,11 +454,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-53-2",
     "Location": "5000 block of E. Stassney Lane",
     "Longitude": -97.739666,
-    "Notes": "The preliminary investigation shows that a black, 2013 Nissan Pathfinder, traveling eastbound, in the inside lane of the 5000 block of E. Stassney Lane, struck and killed Castro who was lying in the roadway along the north curb line. The driver remained at the scene.",
+    "Notes": "The preliminary investigation shows that a black, 2013 Nissan Pathfinder, traveling eastbound, in the inside lane of the 5000 block of E. Stassney Lane, struck and killed Castro who was lying in the roadway along the north curb line. The driver remained at the scene.\nThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "5:57 a.m.",
+    "Time": "05:57 AM",
     "Type": "pedestrian"
   },
   {
@@ -480,11 +480,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-51-1",
     "Location": "E. Cesar Chavez/NB I-35 Ramp",
     "Longitude": -97.735255,
-    "Notes": "The preliminary investigation shows that a dark-colored 1999 Ford Van and a white 2016 VW Station Wagon were travelling northbound in the 100 block of the east frontage road when they entered the intersection against a yellow light to turn left on to westbound E. Cesar Chavez at which time the van struck the station wagon. The van lost control and breached the raised curb on the northwest corner fatally striking the victim who was sleeping under the I-35 overpass. The driver remained at the scene.",
+    "Notes": "The preliminary investigation shows that a dark-colored 1999 Ford Van and a white 2016 VW Station Wagon were travelling northbound in the 100 block of the east frontage road when they entered the intersection against a yellow light to turn left on to westbound E. Cesar Chavez at which time the van struck the station wagon. The van lost control and breached the raised curb on the northwest corner fatally striking the victim who was sleeping under the I-35 overpass. The driver remained at the scene.\nThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
-    "Time": "8:35 a.m.",
+    "Time": "08:35 AM",
     "Type": "pedestrian"
   },
   {
@@ -506,11 +506,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-52-2",
     "Location": "100 block of Robert T. Martinez Jr. St.",
     "Longitude": -97.720683,
-    "Notes": "The preliminary investigation shows that a white, 2013 Chevrolet Malibu was traveling northbound in the 100 block of Robert T. Martinez Jr. Street, when a pedestrian walked into its path. The pedestrian was crossing from east to west without looking to see if vehicles were approaching.",
+    "Notes": "The preliminary investigation shows that a white, 2013 Chevrolet Malibu was traveling northbound in the 100 block of Robert T. Martinez Jr. Street, when a pedestrian walked into its path. The pedestrian was crossing from east to west without looking to see if vehicles were approaching.\nThe pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Saturday, October 14, 2017, at 10:28 a.m.\nThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
-    "Time": "5:42 p.m.",
+    "Time": "05:42 PM",
     "Type": "pedestrian"
   },
   {
@@ -532,11 +532,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-47-3",
     "Location": "East Riverside Dr. and Willow Creek Dr.",
     "Longitude": -97.725656,
-    "Notes": "The preliminary investigation shows that a white 2013 Honda CRV was traveling westbound on East Riverside Dr. A tan 2003 Nissan Altima was traveling eastbound on East Riverside Drive and attempting to turn northbound into a private driveway at the Willow Creek intersection. The Altima failed to yield right of way turning left. The Honda CRV struck the Altima\u2019s right side with its front. The passenger of the vehicle was transported to Dell Seton Medical Center where she died as a result of her injures on Thursday, September 21, 2017.",
+    "Notes": "The preliminary investigation shows that a white 2013 Honda CRV was traveling westbound on East Riverside Dr. A tan 2003 Nissan Altima was traveling eastbound on East Riverside Drive and attempting to turn northbound into a private driveway at the Willow Creek intersection. The Altima failed to yield right of way turning left. The Honda CRV struck the Altima\u2019s right side with its front.\n\tThe passenger of the vehicle was transported to Dell Seton Medical Center where she died as a result of her injures on Thursday, September 21, 2017.  \nThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
-    "Time": "2 p.m.",
+    "Time": "02:00 PM",
     "Type": "motor vehicle"
   },
   {
@@ -562,7 +562,7 @@
     "Ran light/stop": "n",
     "Road type": "local",
     "Speeding": "n",
-    "Time": "5:49 a.m.",
+    "Time": "05:49 AM",
     "Type": "pedestrian"
   },
   {
@@ -588,7 +588,7 @@
     "Ran light/stop": "n",
     "Road type": "IH35",
     "Speeding": "n",
-    "Time": "8:28 p.m.",
+    "Time": "08:28 PM",
     "Type": "motor vehicle"
   },
   {
@@ -614,7 +614,7 @@
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "y",
-    "Time": "7:16 p.m.",
+    "Time": "07:16 PM",
     "Type": "motor vehicle"
   },
   {
@@ -640,7 +640,7 @@
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "y",
-    "Time": "2:22 a.m.",
+    "Time": "02:22 AM",
     "Type": "motor vehicle"
   },
   {
@@ -666,7 +666,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "unk",
-    "Time": "9:40 p.m.",
+    "Time": "09:40 PM",
     "Type": "pedestrian"
   },
   {
@@ -692,7 +692,7 @@
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "unk",
-    "Time": "7:14 a.m.",
+    "Time": "07:14 AM",
     "Type": "pedestrian"
   },
   {
@@ -718,7 +718,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "y",
-    "Time": "5:31 a.m.",
+    "Time": "05:31 AM",
     "Type": "motor vehicle"
   },
   {
@@ -744,7 +744,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "12:33 a.m.",
+    "Time": "12:33 AM",
     "Type": "motorcycle"
   },
   {
@@ -770,7 +770,7 @@
     "Ran light/stop": "n",
     "Road type": "alley",
     "Speeding": "n",
-    "Time": "12:35 a.m.",
+    "Time": "12:35 AM",
     "Type": "pedestrian"
   },
   {
@@ -796,7 +796,7 @@
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "y",
-    "Time": "11:06 p.m.",
+    "Time": "11:06 PM",
     "Type": "motor vehicle"
   },
   {
@@ -811,8 +811,8 @@
     "Last Name": "Dixon",
     "Link": "http://austintexas.gov/news/traffic-fatality-36-1",
     "Location": "8300 N IH-35 northbound",
-    "Notes": "The preliminary investigation shows that a 2006 red Kia was traveling northbound in the left lane of N IH-35 in the 8300 block at a high rate of speed when they encountered a pedestrian attempting to run across the highway from east to west. The pedestrian was almost struck by a vehicle in the middle lane before running in front of the Kia. The Kia immediately stopped after hitting the pedestrian. The pedestrian, Kenyae Monique Dixon, was pronounced deceased on the scene at 9:37 p.m.",
-    "Time": "9:27 p.m."
+    "Notes": "The preliminary investigation shows that a 2006 red Kia was traveling northbound in the left lane of N IH-35 in the 8300 block at a high rate of speed when they encountered a pedestrian attempting to run across the highway from east to west. The pedestrian was almost struck by a vehicle in the middle lane before running in front of the Kia. The Kia immediately stopped after hitting the pedestrian. The pedestrian, Kenyae Monique Dixon, was pronounced deceased on the scene at 9:37 p.m.\n\tThis case is still being investigated.",
+    "Time": "09:27 PM"
   },
   {
     "Age": 48,
@@ -826,8 +826,8 @@
     "Last Name": "Dam",
     "Link": "http://austintexas.gov/news/traffic-fatality-35-1",
     "Location": "1100 Pearl Retreat Lane",
-    "Notes": "The preliminary investigation shows that a 2015 red Ducati motorcycle was traveling southbound on Pearl Retreat Lane at a high rate of speed when it pulled alongside of another vehicle travelling southbound and revved the motor. The Ducati motorcycle was traveling southbound in the northbound lane when it accelerated quickly causing the front wheel to lift off ground. The motorcycle lost control while it was on the one wheel. The motorcycle jumped the east curb. The motorcycle continued to travel onto the grass before crossing the street and hitting the fence on the west side of the roadway.",
-    "Time": "6:20 p.m."
+    "Notes": "The preliminary investigation shows that a 2015 red Ducati motorcycle was traveling southbound on Pearl Retreat Lane at a high rate of speed when it pulled alongside of another vehicle travelling southbound and revved the motor. The Ducati motorcycle was traveling southbound in the northbound lane when it accelerated quickly causing the front wheel to lift off ground. The motorcycle lost control while it was on the one wheel. The motorcycle jumped the east curb. The motorcycle continued to travel onto the grass before crossing the street and hitting the fence on the west side of the roadway.\n\tAustin-Travis County E.M.S. transported the driver of the motorcycle, Tracey Allen Dam, to St. David\u2019s Round Rock Medical Center where he was pronounced deceased as a result of his injuries at 6:58 p.m. on Wednesday, Aug. 2, 2017.\n\tThis case is still being investigated.",
+    "Time": "06:20 PM"
   },
   {
     "Age": 34,
@@ -838,8 +838,8 @@
     "Drivers license status": "okay",
     "Ethnicity": "Hispanic",
     "Fatal crashes this year": "33",
-    "First Name": "James",
-    "Gender": "Male",
+    "First Name": "Michael",
+    "Gender": "male",
     "Hit and run": "n",
     "Impairment": "none",
     "Killed": "ped",
@@ -848,11 +848,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-33-3",
     "Location": "800 East Braker Lane",
     "Longitude": -97.675583,
-    "Notes": "Trujillo, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 12:48 a.m. on Thursday, July 27, 2017.",
+    "Notes": "The preliminary investigation shows that a red 2008 Ford Escape was traveling westbound in the left lane of East Braker Ln. Two pedestrians crossed in front of the Escape, one of the pedestrians was hit by the vehicle. The pedestrians were crossing mid-block. There was not an intersection or crosswalk for them to be in.\n\tTrujillo, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 12:48 a.m. on Thursday, July 27, 2017.\n\tThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "high use roadway",
     "Speeding": "n",
-    "Time": "10:57 p.m.",
+    "Time": "10:57 PM",
     "Type": "pedestrian"
   },
   {
@@ -869,8 +869,8 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-34-2",
     "Location": "800 Bastrop Highway",
     "Longitude": -97.68383,
-    "Notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5594. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 34th fatal traffic crash and the 36th fatality of 2017. At this time in 2016, there were 38 fatal traffic crashes and 38 traffic fatalities.",
-    "Time": "10:57 p.m."
+    "Notes": "The preliminary investigation shows that a 2001 International dump truck and a 2003 gold Buick LeSabre were traveling southbound on Bastrop Highway. The International dump truck changed lanes to the right and struck the Buick LeSabre causing it to spin out of control into the median between north and south bound Bastrop Highway. Melvin, the passenger in the LeSabre, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 4:10 p.m. on Monday, July 31, 2017.\n\tThis case is still being investigated.",
+    "Time": "10:57 PM"
   },
   {
     "Age": 29,
@@ -891,10 +891,10 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-32-3",
     "Location": "N. Capital of Texas Highway and Courtyard Drive",
     "Longitude": -97.795281,
-    "Notes": "The preliminary investigation shows that a white 2007 Kenworth Dump Truck was traveling southbound in the left lane of N. Capital of Texas Highway when it struck a gray 2016 Ford Mustang on the passenger side at the intersection of N. Capital of Texas Highway and Courtyard Drive. The dump truck and the mustang continued southbound through the intersection and struck a parked, unattended, gray 2006 Dodge Grand Caravan before coming to its final rest.",
+    "Notes": "The preliminary investigation shows that a white 2007 Kenworth Dump Truck was traveling southbound in the left lane of N. Capital of Texas Highway when it struck a gray 2016 Ford Mustang on the passenger side at the intersection of N. Capital of Texas Highway and Courtyard Drive. The dump truck and the mustang continued southbound through the intersection and struck a parked, unattended, gray 2006 Dodge Grand Caravan before coming to its final rest.\nThe driver of the mustang, Robert David Register, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 11:05 a.m. on Friday, July 14, 2017. This case is still being investigated.",
     "Road type": "other highway",
     "Speeding": "unk",
-    "Time": "8:59 p.m.",
+    "Time": "08:59 PM",
     "Type": "motor vehicle"
   },
   {
@@ -1460,11 +1460,11 @@
     "Link": "http://austintexas.gov/news/traffic-fatality-59-update",
     "Location": "9400 block of Research Blvd.",
     "Longitude": -97.743921,
-    "Notes": "",
+    "Notes": "Latulippe, Jackson, White male, 14 years of age\nLatulippe, Scott, White male, 41 years of age\n \nUPDATE: The APD Vehicular Homicide Unit is asking for anyone with information about the events leading up to the fatal November 11, 2017 crash on Research Blvd to contact them at (512) 974-6935 if they have not already done so.    \n \nOriginal Narrative:\nThe preliminary investigation shows that 41-year-old Guy Brasted was driving a black, Jeep Wrangler northbound on Research Blvd., when he lost control, leaving the roadway and resulting in a head on collision with a White, Fiat 500, that was traveling southbound. A third vehicle sustained front-end damage from the continuation of the initial impact of the Jeep and Fiat.\n\tBrasted was ejected from his vehicle. Nancy Latulippe, 38, who was driving the Fiat, and passenger Jackson Latulippe, 14, were pronounced deceased at the scene.\n\tTwo other passengers in the Fiat were transported to the hospital \u2014 an adult male with life-threatening injuries and a female child with non-life threatening injuries. The driver from the third vehicle was not transported for injuries.\n\tBrasted was initially transported to Dell Seton Medical Center with life-threatening injuries, but was later determined to be non-life threatening. He is facing two counts of intoxication manslaughter and one count of intoxication assault.\n\tThis case is still being investigated.",
     "Ran light/stop": "n",
     "Road type": "other highway",
     "Speeding": "n",
-    "Time": "3:31 p.m.",
+    "Time": "03:31 PM",
     "Type": "motor vehicle"
   }
 ]
