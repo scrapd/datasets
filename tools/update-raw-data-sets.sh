@@ -12,6 +12,7 @@ cd "${TOPDIR}"|| exit
 
 # Generate the current data set.
 for YEAR in {2017..2019}; do
+  echo "=> Processing year ${YEAR}..."
   DATASET="${DATASET_DIR}/fatalities-${YEAR}-raw.json"
   python "${MERGER}" -i -u "${DATASET}" <(scrapd -v --format json --from "Jan 1 ${YEAR}" --to "Dec 31 ${YEAR}");
 done
