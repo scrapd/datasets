@@ -3990,5 +3990,32 @@
     "Location": "300 block of N. IH 35",
     "Notes": "The preliminary investigation shows that a pedestrian was crossing IH 35 from west to east in the 300 block when a 2007, blue Ford Explorer struck him. The pedestrian was pronounced deceased at the scene.\n\n\tThe driver of the Explorer remained on scene and was cooperative. No charges are expected at this time.",
     "Time": "04:20 AM"
+  },
+  {
+    "Age": 38,
+    "Case": "19-2031962",
+    "Date": "07/22/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "41",
+    "Gender": "male",
+    "Link": "http://austintexas.gov/news/traffic-fatality-41-4",
+    "Location": "11000 FM 2222 eastbound",
+    "Notes": "The preliminary investigation shows that a black Honda CRB motorcycle was traveling eastbound on FM 2222 in the 11000 block when it left the roadway for an unknown reason. The driver of the motorcycle was pronounced deceased on scene.",
+    "Time": "11:12 PM"
+  },
+  {
+    "Age": 24,
+    "Case": "19-2050100",
+    "DOB": "10/09/1994",
+    "Date": "07/24/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "42",
+    "First Name": "Casey",
+    "Gender": "male",
+    "Last Name": "Ballard",
+    "Link": "http://austintexas.gov/news/traffic-fatality-42-4",
+    "Location": "1100 block S IH-35 NB",
+    "Notes": "Casey Ballard was in the 1100 block of S IH-35 NB when a red, 2001 Nissan Frontier pickup that was traveling in the middle lane struck him. He was pronounced deceased on scene. The driver remained on site. There was no sign of driver impairment and no charges are expected to be filed.",
+    "Time": "01:28 AM"
   }
 ]
