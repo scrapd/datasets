@@ -682,5 +682,39 @@
     "Location": "8200 N IH 35 southbound",
     "Notes": "The preliminary investigation shows that a pedestrian was in the roadway for an unknown reason. A 2016 Kenworth tractor/trailer was in the middle lane and struck the pedestrian. The pedestrian was pronounced deceased on scene. The driver remained on scene and was not impaired. No charges are expected to be filed.",
     "Time": "01:37 AM"
+  },
+  {
+    "Age": 56,
+    "Case": "19-2061923",
+    "DOB": "11/02/1962",
+    "Date": "07/25/2019",
+    "Ethnicity": "White",
+    "Fatal crashes this year": "45",
+    "First Name": "Felix",
+    "Gender": "male",
+    "Last Name": "Ybarra",
+    "Latitude": 30.20386,
+    "Link": "http://austintexas.gov/news/traffic-fatality-45-5",
+    "Location": "5700 S. Congress Avenue",
+    "Longitude": -97.77523,
+    "Notes": "The preliminary investigation shows Felix Ybarra was attempting to cross in the 5700 block of S. Congress Avenue, where there is no crosswalk, when he was struck by a maroon, 2013 Kia Sorrento. The driver remained on scene and showed no signs of intoxication.\n\n\tFelix Ybarra was transported to Saint David\u2019s South Austin Medical Center where he died on July 30, 2019.",
+    "Time": "10:33 PM"
+  },
+  {
+    "Age": 28,
+    "Case": "19-2090230",
+    "DOB": "06/05/1991",
+    "Date": "07/28/2019",
+    "Ethnicity": "Black",
+    "Fatal crashes this year": "44",
+    "First Name": "Xavier",
+    "Gender": "male",
+    "Last Name": "Tunsun",
+    "Latitude": 30.34232,
+    "Link": "http://austintexas.gov/news/traffic-fatality-44-5",
+    "Location": "8700 Cameron Rd.",
+    "Longitude": -97.67991,
+    "Notes": "The preliminary investigation shows that a pedestrian, Xavier Tunsun, exited a 2016 Chrysler 300 while it was traveling northbound on Cameron Rd. An unknown vehicle struck Tunsun and left the scene northbound on Cameron Rd. The vehicle was possibly gold or tan with dark wheels or no hubcaps. This crash is being investigated as fail to stop and render aid, a 2nd degree felony.",
+    "Time": "02:37 AM"
   }
 ]
