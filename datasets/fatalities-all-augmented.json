@@ -4022,9 +4022,15 @@
     "Time": "01:28 AM"
   },
   {
+    "Age": 25,
     "Case": "19-2080141",
+    "DOB": "09/07/1993",
     "Date": "07/27/2019",
+    "Ethnicity": "Black",
     "Fatal crashes this year": "43",
+    "First Name": "Matthew",
+    "Gender": "male",
+    "Last Name": "McDonald",
     "Link": "http://austintexas.gov/news/traffic-fatality-43-5",
     "Location": "8200 N IH 35 southbound",
     "Notes": "The preliminary investigation shows that a pedestrian was in the roadway for an unknown reason. A 2016 Kenworth tractor/trailer was in the middle lane and struck the pedestrian. The pedestrian was pronounced deceased on scene. The driver remained on scene and was not impaired. No charges are expected to be filed.",
