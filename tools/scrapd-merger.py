@@ -23,10 +23,7 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-    results = merge(
-        json.loads(args.old.read()), json.loads(args.infile.read()), args.update
-    )
-    results_str = json.dumps(results, sort_keys=True, indent=2)
+        results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
 
     # Write the data to `old` file.
     if args.in_place:
@@ -40,15 +37,11 @@ def main():
 
 def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
-    parser = argparse.ArgumentParser(description="Create beautiful releases on GitHub.")
-    parser.add_argument("old", type=argparse.FileType("r+t"))
-    parser.add_argument("infile", type=argparse.FileType("rt"), default=sys.stdin)
-    parser.add_argument(
-        "-i", "--in-place", action="store_true", help="Update OLD in place"
-    )
-    parser.add_argument(
-        "-u", "--update", action="store_true", help="Update existing fields"
-    )
+    parser = argparse.ArgumentParser(description='Create beautiful releases on GitHub.')
+    parser.add_argument('old', type=argparse.FileType('r+t'))
+    parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
+    parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
+    parser.add_argument('-u', '--update', action='store_true', help='Update existing fields')
 
     return parser
 
