@@ -23,7 +23,9 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
+    results = merge(
+        json.loads(args.old.read()), json.loads(args.infile.read()), args.update
+    )
     results_str = json.dumps(results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
@@ -38,11 +40,15 @@ def main():
 
 def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
-    parser = argparse.ArgumentParser(description='Create beautiful releases on GitHub.')
-    parser.add_argument('old', type=argparse.FileType('r+t'))
-    parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
-    parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
-    parser.add_argument('-u', '--update', action='store_true', help='Update existing fields')
+    parser = argparse.ArgumentParser(description="Create beautiful releases on GitHub.")
+    parser.add_argument("old", type=argparse.FileType("r+t"))
+    parser.add_argument("infile", type=argparse.FileType("rt"), default=sys.stdin)
+    parser.add_argument(
+        "-i", "--in-place", action="store_true", help="Update OLD in place"
+    )
+    parser.add_argument(
+        "-u", "--update", action="store_true", help="Update existing fields"
+    )
 
     return parser
 
@@ -57,8 +63,8 @@ def merge(old, new, update):
     :rtype: list(dict)
     """
 
-    old_dict = {entry['Case']: entry for entry in old}
-    new_dict = {entry['Case']: entry for entry in new}
+    old_dict = {entry["ID"]: entry for entry in old}
+    new_dict = {entry["ID"]: entry for entry in new}
     final_dict = {}
     for entry in old_dict:
         old_entry = old_dict.get(entry, {})
@@ -104,6 +110,7 @@ OLD = """
         "Fatal crashes this year": "15",
         "First Name": "Lamar",
         "Gender": "male",
+        "ID": "17-0780309-1",
         "Last Name": "Jackson",
         "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
         "Location": "11600 block of Burnet Rd.",
@@ -118,6 +125,7 @@ OLD = """
         "Fatal crashes this year": "14",
         "First Name": "Tomas",
         "Gender": "male",
+        "ID": "17-0710136-1",
         "Last Name": "Garcia-Servin",
         "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
         "Location": "10010 N. Lamar Blvd.",
@@ -127,6 +135,7 @@ OLD = """
         "Case": "17-0770668",
         "Date": "March 18, 2017",
         "Fatal crashes this year": "13",
+        "ID": "17-0770668-1",
         "Link": "http://austintexas.gov/news/traffic-fatality-13-2",
         "Location": "4200 block of Southwest Parkway",
         "Time": "8:07 a.m."
@@ -145,6 +154,7 @@ NEW = """
         "Fatal crashes this year": "15",
         "First Name": "Lamar",
         "Gender": "male",
+        "ID": "17-0780309-1",
         "Last Name": "Jackson",
         "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
         "Location": "11600 block of Burnet Rd.",
@@ -160,6 +170,7 @@ NEW = """
         "Fatal crashes this year": "14",
         "First Name": "Tomas",
         "Gender": "male",
+        "ID": "17-0710136-1",
         "Last Name": "Garcia-Servin",
         "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
         "Location": "10010 N. Lamar Blvd.",
@@ -180,6 +191,7 @@ FINAL = """
         "Fatal crashes this year": "15",
         "First Name": "Lamar",
         "Gender": "male",
+        "ID": "17-0780309-1",
         "Last Name": "Jackson",
         "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
         "Location": "11600 block of Burnet Rd.",
@@ -195,6 +207,7 @@ FINAL = """
         "Fatal crashes this year": "14",
         "First Name": "Tomas",
         "Gender": "male",
+        "ID": "17-0710136-1",
         "Last Name": "Garcia-Servin",
         "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
         "Location": "10010 N. Lamar Blvd.",
@@ -205,6 +218,7 @@ FINAL = """
         "Case": "17-0770668",
         "Date": "March 18, 2017",
         "Fatal crashes this year": "13",
+        "ID": "17-0770668-1",
         "Link": "http://austintexas.gov/news/traffic-fatality-13-2",
         "Location": "4200 block of Southwest Parkway",
         "Time": "8:07 a.m."
