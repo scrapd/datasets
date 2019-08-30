@@ -23,7 +23,8 @@ def main():
     args = parser.parse_args()
 
     # Merge the data.
-        results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
+    results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
+    results_str = json.dumps(results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
     if args.in_place:
