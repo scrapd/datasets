@@ -41,15 +41,16 @@ class TestGeolocation:
         assert actual[0]['Longitude'] == -97.710434
 
     @pytest.mark.asyncio
-    async def test_async_update_entries_with_ID_field(self):
+    async def test_update_two_entries_from_same_case_with_ID_field(self):
         final = json.loads(FINAL)
-        entries = [final[2]]
+        entries = [final[0], final[1]]
         actual = await async_update_entries(entries)
-        print(actual)
-        assert actual[0]['Case'] == '17-0710136'
-        assert actual[0]['Latitude'] == 30.367771
-        assert actual[0]['Longitude'] == -97.694374
-
+        assert actual[0]['Case'] == '17-0780309'
+        assert actual[0]['Latitude'] == 30.399498
+        assert actual[0]['Longitude'] == -97.71893
+        assert actual[1]['Case'] == '17-0780309'
+        assert actual[1]['Latitude'] == 30.399498
+        assert actual[1]['Longitude'] == -97.71893
 
 # Test data
 
