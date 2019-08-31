@@ -1,6 +1,10 @@
 import json
 
+import pytest
+
 from tools import scrapd_merger
+from tools.scrapd_augmenter_geocoding_geocensus import async_update_entries
+from tools.scrapd_augmenter_geocoding_geocensus import sanitize, parse_geocensus_response
 
 
 class TestMerge:
@@ -10,7 +14,90 @@ class TestMerge:
         assert actual == expected
 
 
+class TestGeolocation:
+    def test_sanitize_00(self):
+        """Ensure an address is sanitized."""
+        actual = sanitize('8100 block of N. Lamar Blvd.')
+        expected = '8100 N. Lamar Blvd.'.lower()
+        assert actual == expected
+
+    def test_parse_result_00(self):
+        """Ensure a valid geocensus response gets parsed correctly."""
+        actual = parse_geocensus_response(json.loads(GEOCENSUS_RESPONSE))
+        expected = {'Latitude': 38.846565, 'Longitude': -76.926956}
+        assert actual == expected
+
+    def test_parse_result_01(self):
+        """Ensure an empty geocensus response is parsed as an empty geolocation."""
+        actual = parse_geocensus_response({})
+        expected = {}
+        assert actual == expected
+
+    @pytest.mark.asyncio
+    async def test_async_update_entries_00(self):
+        entries = [{'Case': '19-0400694', 'Location': '8100 Block of N. Lamar Blvd.'}]
+        actual = await async_update_entries(entries)
+        assert actual[0]['Latitude'] == 30.350113
+        assert actual[0]['Longitude'] == -97.710434
+
+    @pytest.mark.asyncio
+    async def test_async_update_entries_with_ID_field(self):
+        final = json.loads(FINAL)
+        entries = [final[2]]
+        actual = await async_update_entries(entries)
+        print(actual)
+        assert actual[0]['Case'] == '17-0710136'
+        assert actual[0]['Latitude'] == 30.367771
+        assert actual[0]['Longitude'] == -97.694374
+
+
 # Test data
+
+GEOCENSUS_RESPONSE = """
+{
+    "result": {
+        "input": {
+            "address": {
+                "address": "4600 Silver Hill Rd, Suitland, MD 20746"
+            },
+            "benchmark": {
+                "id": 9,
+                "benchmarkName": "Public_AR_Census2010",
+                "benchmarkDescription": "Public Address  Ranges – Census 2010",
+                "isDefault": false
+            }
+        },
+        "addressMatches": [{
+            "matchedAddress": "4600 Silver  Hill  Rd, SUITLAND, MD, 20746",
+            "coordinates": {
+                "x": -76.926956,
+                "y": 38.846565
+            },
+            "tigerLine": {
+                "tigerLineId": "613199520",
+                "side": "L"
+            },
+            "addressComponents": {
+                "fromAddress": "4600",
+                "toAddress": "4712",
+                "preQualifier": "",
+                "preDirection": "",
+                "preType": "",
+                "streetName": "Silver Hill",
+                "suffixType": "Rd",
+                "suffixDirection": "",
+                "suffixQualifier": "",
+                "city": "SUITLAND",
+                "state": "MD",
+                "zip": "20746"
+            }
+        }]
+    }
+}
+"""
+
+
+
 OLD = """
 [
     {
