@@ -1,92 +1,62 @@
 [
   {
-    "Case": "19-0400694",
-    "Latitude": 30.303625,
-    "Longitude": -97.67139
+    "Case": "19-1380171",
+    "Latitude": 30.265696,
+    "Longitude": -97.69555
   },
   {
-    "Case": "19-0370320",
-    "Latitude": 30.243967,
-    "Longitude": -97.764366
+    "Case": "19-1521857",
+    "Latitude": 30.343975,
+    "Longitude": -97.714966
   },
   {
-    "Case": "19-0081623",
-    "Latitude": 30.24539,
-    "Longitude": -97.80285
+    "Case": "19-1530277",
+    "Latitude": 30.286394,
+    "Longitude": -97.677315
   },
   {
-    "Case": "19-0161105",
-    "Latitude": 30.228058,
-    "Longitude": -97.8615
+    "Case": "19-1611200",
+    "Latitude": 30.241112,
+    "Longitude": -97.757454
   },
   {
-    "Case": "19-0581824",
-    "Latitude": 30.256037,
-    "Longitude": -97.701675
+    "Case": "19-1590874",
+    "Latitude": 30.388285,
+    "Longitude": -97.760666
   },
   {
-    "Case": "19-0521894",
-    "Latitude": 30.220636,
-    "Longitude": -97.6942
+    "Case": "19-1880028",
+    "Latitude": 30.213377,
+    "Longitude": -97.72041
   },
   {
-    "Case": "19-0521569",
-    "Latitude": 30.350113,
-    "Longitude": -97.710434
+    "Case": "19-2061923",
+    "Latitude": 30.20386,
+    "Longitude": -97.77523
   },
   {
-    "Case": "19-0800389",
-    "Latitude": 30.198738,
-    "Longitude": -97.74731
+    "Case": "19-2090230",
+    "Latitude": 30.34232,
+    "Longitude": -97.67991
   },
   {
-    "Case": "19-0881844",
-    "Latitude": 30.185835,
-    "Longitude": -97.781235
+    "Case": "19-2160076",
+    "Latitude": 30.192728,
+    "Longitude": -97.77728
   },
   {
-    "Case": "19-0871796",
-    "Latitude": 30.283768,
-    "Longitude": -97.75179
+    "Case": "19-2241378",
+    "Latitude": 30.413324,
+    "Longitude": -97.69071
   },
   {
-    "Case": "19-0921776",
-    "Latitude": 30.171545,
-    "Longitude": -97.798515
+    "Case": "19-2311712",
+    "Latitude": 30.171524,
+    "Longitude": -97.798485
   },
   {
-    "Case": "19-1080319",
-    "Latitude": 30.32841,
-    "Longitude": -97.925804
-  },
-  {
-    "Case": "19-1070614",
-    "Latitude": 30.407795,
-    "Longitude": -97.74787
-  },
-  {
-    "Case": "19-1070052",
-    "Latitude": 30.20474,
-    "Longitude": -97.77491
-  },
-  {
-    "Case": "19-1220286",
-    "Latitude": 30.355562,
-    "Longitude": -97.70263
-  },
-  {
-    "Case": "19-1390962",
-    "Latitude": 30.235449,
-    "Longitude": -97.75643
-  },
-  {
-    "Case": "19-1801699",
-    "Latitude": 30.27617,
-    "Longitude": -97.68877
-  },
-  {
-    "Case": "19-2280292",
-    "Latitude": 30.206808,
-    "Longitude": -97.715744
+    "Case": "19-2440444",
+    "Latitude": 30.373507,
+    "Longitude": -97.72183
   }
 ]
