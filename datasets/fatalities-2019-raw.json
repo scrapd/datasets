@@ -812,9 +812,15 @@
     "Time": "05:16 AM"
   },
   {
+    "Age": 30,
     "Case": "19-2450248",
+    "DOB": "05/10/1989",
     "Date": "09/02/2019",
+    "Ethnicity": "Hispanic",
     "Fatal crashes this year": "55",
+    "First Name": "Edgar",
+    "Gender": "male",
+    "Last Name": "Montoya",
     "Link": "http://austintexas.gov/news/traffic-fatality-55-4",
     "Location": "1500 N. IH 35 Southbound",
     "Notes": "The preliminary investigation shows that a pedestrian was attempting to cross the 1500 block of N. IH 35 from west to east. A semi tractor-trailer and multiple other vehicles struck the pedestrian. The driver of the tractor-trailer remained on scene and the pedestrian was pronounced deceased at the scene.",
