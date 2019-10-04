@@ -38,7 +38,7 @@ def main():
 
 def get_cli_parser():  # pragma: no cover
     """Get the CLI parser."""
-    parser = argparse.ArgumentParser(description='Create beautiful releases on GitHub.')
+    parser = argparse.ArgumentParser(description='Merge ScrAPD data sets.')
     parser.add_argument('old', type=argparse.FileType('r+t'))
     parser.add_argument('infile', type=argparse.FileType('rt'), default=sys.stdin)
     parser.add_argument('-i', '--in-place', action='store_true', help="Update OLD in place")
