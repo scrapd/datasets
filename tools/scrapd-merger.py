@@ -10,10 +10,14 @@ $ cat new.json | python scrapd-merger.py old.json -
 """
 
 import argparse
+import datetime
 import json
 import logging
 import pprint
 import sys
+
+from scrapd.core import model
+from scrapd.core.formatter import to_json
 
 
 def main():
@@ -24,13 +28,13 @@ def main():
 
     # Merge the data.
     results = merge(json.loads(args.old.read()), json.loads(args.infile.read()), args.update)
-    results_str = json.dumps(results, sort_keys=True, indent=2)
+    sorted_results = sorted(results, key=lambda x: x.case)
 
     # Write the data to `old` file.
     if args.in_place:
         args.old.seek(0)
         args.old.truncate()
-        args.old.write(results_str)
+        args.old.write(to_json(sorted_results))
     else:
         # Display the results.
         print(results_str)
@@ -57,26 +61,16 @@ def merge(old, new, update):
     :rtype: list(dict)
     """
 
-    old_dict = {entry['Case']: entry for entry in old}
-    new_dict = {entry['Case']: entry for entry in new}
+    old_dict = {entry['case']: model.Report(**entry) for entry in old}
+    new_dict = {entry['case']: model.Report(**entry) for entry in new}
     final_dict = {}
-    for entry in old_dict:
-        old_entry = old_dict.get(entry, {})
-        new_entry = new_dict.pop(entry, {})
 
-        # Inject new values into the old entry.
-        # Existing values will not be overriden unless they are empty.
-        merged_entries = old_entry
-        for key, value in new_entry.items():
-            old_entry_value = old_entry.get(key)
-            if isinstance(old_entry_value, str):
-                old_entry_value = old_entry_value.strip()
-            if update:
-                merged_entries[key] = value
-            else:
-                if not old_entry_value:
-                    merged_entries[key] = value
-        final_dict[entry] = merged_entries
+    for entry in old_dict:
+        old_entry = old_dict.get(entry)
+        new_entry = new_dict.pop(entry, None)
+        old_entry.update(new_entry)
+        final_dict[entry] = old_entry
+
     final_dict.update(new_dict)
     return list(final_dict.values())
 
@@ -87,127 +81,172 @@ if __name__ == "__main__":
 
 class TestMerge:
     def test_merge_00(self):
-        actual = merge(json.loads(OLD), json.loads(NEW))
-        expected = json.loads(FINAL)
+        actual = merge(OLD, NEW, False)
+        expected = FINAL
         assert actual == expected
 
 
 # Test data
-OLD = """
-[
+OLD = [
     {
-        "Age": 22,
-        "Case": "17-0780309",
-        "DOB": "11-8-94",
-        "Date": "Sunday, March 19, 2017",
-        "Ethnicity": "Black",
-        "Fatal crashes this year": "15",
-        "First Name": "Lamar",
-        "Gender": "male",
-        "Last Name": "Jackson",
-        "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
-        "Location": "11600 block of Burnet Rd.",
-        "Time": "2:30 a.m."
+        "case": "19-0400694",
+        "crash": 7,
+        "date": "2019-02-09",
+        "fatalities": [{
+            "age": 13,
+            "dob": "2005-12-05",
+            "ethnicity": "Black",
+            "first": "Messiah",
+            "gender": "Male",
+            "generation": "",
+            "last": "Mouton",
+            "middle": ""
+        }],
+        "latitude": 0.0,
+        "link": "http://austintexas.gov/news/traffic-fatality-7-4",
+        "location": "6000 block of Springdale Road",
+        "longitude": 0.0,
+        "notes": "The preliminary investigation shows that the driver of a 1997, red BMW was traveling northbound in the 6000 block of Springdale Road and lost control. The vehicle skidded sideways before flipping and striking a utility pole.\n\n\tThe passenger in the vehicle, Messiah Zion Mouton, was pronounced deceased at the scene.",
+        "time": "12:48:00"
     },
-    {
-        "Age": 59,
-        "Case": "17-0710136",
-        "DOB": "12-21-57)",
-        "Date": "March 12, 2017",
-        "Ethnicity": "Hispanic",
-        "Fatal crashes this year": "14",
-        "First Name": "Tomas",
-        "Gender": "male",
-        "Last Name": "Garcia-Servin",
-        "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
-        "Location": "10010 N. Lamar Blvd.",
-        "Time": "1:21 a.m."
-    },
-    {
-        "Case": "17-0770668",
-        "Date": "March 18, 2017",
-        "Fatal crashes this year": "13",
-        "Link": "http://austintexas.gov/news/traffic-fatality-13-2",
-        "Location": "4200 block of Southwest Parkway",
-        "Time": "8:07 a.m."
-    }
 ]
-"""
 
-NEW = """
-[
+NEW = [
     {
-        "Age": 22,
-        "Case": "17-0780309",
-        "DOB": "11/08/1994",
-        "Date": "03/19/2017",
-        "Ethnicity": "Black",
-        "Fatal crashes this year": "15",
-        "First Name": "Lamar",
-        "Gender": "male",
-        "Last Name": "Jackson",
-        "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
-        "Location": "11600 block of Burnet Rd.",
-        "Notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 15th fatal traffic crash of 2017. At this time in 2016, there were 14 fatal traffic crashes and 14 traffic fatalities.",
-        "Time": "2:30 a.m."
+        "case": "19-0400694",
+        "crash": 7,
+        "date": "2019-02-09",
+        "fatalities": [{
+            "age": 13,
+            "dob": "2005-12-05",
+            "ethnicity": "Black",
+            "first": "Messiah",
+            "gender": "Male",
+            "generation": "",
+            "last": "Mouton",
+            "middle": ""
+        }],
+        "latitude": 30.303625,
+        "link": "http://austintexas.gov/news/traffic-fatality-7-4",
+        "location": "6000 block of Springdale Road",
+        "longitude": -97.67139,
+        "notes": "The preliminary investigation shows that the driver of a 1997, red BMW was traveling northbound in the 6000 block of Springdale Road and lost control. The vehicle skidded sideways before flipping and striking a utility pole.\n\n\tThe passenger in the vehicle, Messiah Zion Mouton, was pronounced deceased at the scene.",
+        "time": "12:48:00"
     },
     {
-        "Age": 59,
-        "Case": "17-0710136",
-        "DOB": "12/21/1957",
-        "Date": "03/12/2017",
-        "Ethnicity": "Hispanic",
-        "Fatal crashes this year": "14",
-        "First Name": "Tomas",
-        "Gender": "male",
-        "Last Name": "Garcia-Servin",
-        "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
-        "Location": "10010 N. Lamar Blvd.",
-        "Notes": "The preliminary investigation shows that a white 2015 Ford Focus was traveling southbound in the inside lane of the 10010 block of N. Lamar Blvd. A pedestrian was crossing mid-block westbound when he was struck by the Ford\u2019s left front side. The pedestrian was transported to University Medical Center at Brackenridge Hospital with critical injuries. He died as a result of his injuries on Monday, March 20, 2017.",
-        "Time": "1:21 a.m."
-    }
+        "case": "19-0150158",
+        "crash": 1,
+        "date": "2019-01-15",
+        "fatalities": [{
+            "age": 31,
+            "dob": "1987-07-09",
+            "ethnicity": "White",
+            "first": "David",
+            "gender": "Male",
+            "generation": "",
+            "last": "Sell",
+            "middle": ""
+        }],
+        "latitude": 0.0,
+        "link": "http://austintexas.gov/news/traffic-fatality-1-4",
+        "location": "10500 block of N IH 35 SB",
+        "longitude": 0.0,
+        "notes": "The preliminary investigation shows that a 2000 Peterbilt semi truck was travelling southbound in the center lane on IH 35 when it struck pedestrian David Sell. The driver stopped as soon as it was possible to do so and remained on scene. He reported not seeing the pedestrian prior to impact given that it was still dark at the time of the crash. Sell was pronounced deceased at the scene at 6:24 a.m. No charges are expected to be filed.",
+        "time": "06:20:00"
+    },
 ]
-"""
 
-FINAL = """
-[
+FINAL_JSON = [
     {
-        "Age": 22,
-        "Case": "17-0780309",
-        "DOB": "11/08/1994",
-        "Date": "03/19/2017",
-        "Ethnicity": "Black",
-        "Fatal crashes this year": "15",
-        "First Name": "Lamar",
-        "Gender": "male",
-        "Last Name": "Jackson",
-        "Link": "http://austintexas.gov/news/traffic-fatality-15-2",
-        "Location": "11600 block of Burnet Rd.",
-        "Notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 15th fatal traffic crash of 2017. At this time in 2016, there were 14 fatal traffic crashes and 14 traffic fatalities.",
-        "Time": "2:30 a.m."
+        "case": "19-0400694",
+        "crash": 7,
+        "date": "2019-02-09",
+        "fatalities": [{
+            "age": 13,
+            "dob": "2005-12-05",
+            "ethnicity": "Black",
+            "first": "Messiah",
+            "gender": "Male",
+            "generation": "",
+            "last": "Mouton",
+            "middle": ""
+        }],
+        "latitude": 30.303625,
+        "link": "http://austintexas.gov/news/traffic-fatality-7-4",
+        "location": "6000 block of Springdale Road",
+        "longitude": -97.67139,
+        "notes": "The preliminary investigation shows that the driver of a 1997, red BMW was traveling northbound in the 6000 block of Springdale Road and lost control. The vehicle skidded sideways before flipping and striking a utility pole.\n\n\tThe passenger in the vehicle, Messiah Zion Mouton, was pronounced deceased at the scene.",
+        "time": "12:48:00"
     },
     {
-        "Age": 59,
-        "Case": "17-0710136",
-        "DOB": "12/21/1957",
-        "Date": "03/12/2017",
-        "Ethnicity": "Hispanic",
-        "Fatal crashes this year": "14",
-        "First Name": "Tomas",
-        "Gender": "male",
-        "Last Name": "Garcia-Servin",
-        "Link": "http://austintexas.gov/news/traffic-fatality-14-3",
-        "Location": "10010 N. Lamar Blvd.",
-        "Notes": "The preliminary investigation shows that a white 2015 Ford Focus was traveling southbound in the inside lane of the 10010 block of N. Lamar Blvd. A pedestrian was crossing mid-block westbound when he was struck by the Ford\u2019s left front side. The pedestrian was transported to University Medical Center at Brackenridge Hospital with critical injuries. He died as a result of his injuries on Monday, March 20, 2017.",
-        "Time": "1:21 a.m."
+        "case": "19-0150158",
+        "crash": 1,
+        "date": "2019-01-15",
+        "fatalities": [{
+            "age": 31,
+            "dob": "1987-07-09",
+            "ethnicity": "White",
+            "first": "David",
+            "gender": "Male",
+            "generation": "",
+            "last": "Sell",
+            "middle": ""
+        }],
+        "latitude": 0.0,
+        "link": "http://austintexas.gov/news/traffic-fatality-1-4",
+        "location": "10500 block of N IH 35 SB",
+        "longitude": 0.0,
+        "notes": "The preliminary investigation shows that a 2000 Peterbilt semi truck was travelling southbound in the center lane on IH 35 when it struck pedestrian David Sell. The driver stopped as soon as it was possible to do so and remained on scene. He reported not seeing the pedestrian prior to impact given that it was still dark at the time of the crash. Sell was pronounced deceased at the scene at 6:24 a.m. No charges are expected to be filed.",
+        "time": "06:20:00"
     },
-    {
-        "Case": "17-0770668",
-        "Date": "March 18, 2017",
-        "Fatal crashes this year": "13",
-        "Link": "http://austintexas.gov/news/traffic-fatality-13-2",
-        "Location": "4200 block of Southwest Parkway",
-        "Time": "8:07 a.m."
-    }
 ]
-"""
+
+FINAL = [
+    model.Report(
+        case="19-0400694",
+        crash=7,
+        date=datetime.date(2019, 2, 9),
+        fatalities=[
+            model.Fatality(
+                age=13,
+                dob=datetime.date(2005, 12, 5),
+                ethnicity=model.Ethnicity.black,
+                first="Messiah",
+                gender=model.Gender.male,
+                generation="",
+                last="Mouton",
+                middle="",
+            ),
+        ],
+        latitude=30.303625,
+        link="http://austintexas.gov/news/traffic-fatality-7-4",
+        location="6000 block of Springdale Road",
+        longitude=-97.67139,
+        notes=
+        "The preliminary investigation shows that the driver of a 1997, red BMW was traveling northbound in the 6000 block of Springdale Road and lost control. The vehicle skidded sideways before flipping and striking a utility pole.\n\n\tThe passenger in the vehicle, Messiah Zion Mouton, was pronounced deceased at the scene.",
+        time="12:48:00"),
+    model.Report(
+        case="19-0150158",
+        crash=1,
+        date="2019-01-15",
+        fatalities=[
+            model.Fatality(
+                age=31,
+                dob="1987-07-09",
+                ethnicity=model.Ethnicity.white,
+                first="David",
+                gender=model.Gender.male,
+                generation="",
+                last="Sell",
+                middle="",
+            ),
+        ],
+        latitude=0.0,
+        link="http://austintexas.gov/news/traffic-fatality-1-4",
+        location="10500 block of N IH 35 SB",
+        longitude=0.0,
+        notes=
+        "The preliminary investigation shows that a 2000 Peterbilt semi truck was travelling southbound in the center lane on IH 35 when it struck pedestrian David Sell. The driver stopped as soon as it was possible to do so and remained on scene. He reported not seeing the pedestrian prior to impact given that it was still dark at the time of the crash. Sell was pronounced deceased at the scene at 6:24 a.m. No charges are expected to be filed.",
+        time="06:20:00",
+    ),
+]
