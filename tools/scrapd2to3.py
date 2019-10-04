@@ -54,11 +54,9 @@ def load_scrapd2(entry):
     """
     Load a ScrAPD 2 entry and returns a ScrAPD3 one.
     """
-    r = model.Report(case=entry['Case'])
+    r = model.Report(case=entry['Case'], date=date_utils.parse_date(entry.get('Date')))
     if entry.get('Fatal crashes this year'):
         r.crash = int(entry.get('Fatal crashes this year'))
-    if entry.get('Date'):
-        r.date = date_utils.parse_date(entry.get('Date'))
     if entry.get('Link'):
         r.link = entry.get('Link')
     if entry.get('Latitude'):
