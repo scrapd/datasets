@@ -51,7 +51,7 @@ def merge(scrapd, socrata, extras=False):
     :rtype: list(dict)
     """
     # Read the scrapd values.
-    scrapd_dict = {entry['Case']: entry for entry in scrapd}
+    scrapd_dict = {entry['case']: entry for entry in scrapd}
 
     # Map a Socrata entry to ScrAPD entry.
     socrata_dict = {}
@@ -60,27 +60,13 @@ def merge(scrapd, socrata, extras=False):
         longitude_value = entry.get('x_coord') or entry.get('xcoord') or entry.get('coord_x', '') or ''
 
         d = {
-            # Common fields.
-            'Case': entry.get('case_number', '').lower().strip(),
-            'Date': clean_date(entry.get('date', '').lower().strip()),
-            'Latitude': clean_coordinates(latitude_value.strip()),
-            'Location': entry.get('location', '').lower().strip(),
-            'Longitude': clean_coordinates(longitude_value.strip()),
-            'Time': clean_time(entry.get('time', '').lower().strip()),
-
-            # Extra fields.
-            'Charge': entry.get('charge', '').lower().strip(),
-            'Drivers license status': entry.get('dl_status_incident', '').lower().strip(),
-            'Hit and run': entry.get('failure_to_stop_and_render_aid', '').lower().strip(),
-            'Impairment': entry.get('suspected_impairment', '').lower().strip(),
-            'Killed': entry.get('killed_driver_pass', '').lower().strip(),
-            'Ran light/stop': entry.get('ran_red_light_or_stop_sign', '').lower().strip(),
-            'Restraint': entry.get('restraint_type', '').lower().strip(),
-            'Road type': entry.get('type_of_road', '').strip(),
-            'Speeding': entry.get('speeding', '').lower().strip(),
-            'Type': entry.get('type', '').lower().strip(),
+            'case': entry.get('case_number', '').lower().strip(),
+            'latitude': clean_coordinates(latitude_value.strip()),
+            'location': entry.get('location', '').lower().strip(),
+            'longitude': clean_coordinates(longitude_value.strip()),
+            'time': clean_time(entry.get('time', '').lower().strip()),
         }
-        socrata_dict[d.get('Case')] = {k: v for k, v in d.items() if v}
+        socrata_dict[d.get('case')] = {k: v for k, v in d.items() if v}
 
     # Merge the results.
     final_dict = {}
@@ -109,7 +95,7 @@ def clean_time(time):
     except ValueError:
         return ''
     else:
-        return t.strftime("%I:%M %p").lower()
+        return t.strftime("%H:%M:%S").lower()
 
 
 def clean_date(date):
@@ -123,7 +109,7 @@ def clean_date(date):
     except ValueError:
         return ''
     else:
-        return datetime.datetime.strftime(dt, "%m/%d/%Y")
+        return datetime.datetime.strftime(dt, "%Y-%m-%d")
 
 
 def clean_coordinates(coordinate):
@@ -151,7 +137,7 @@ class TestMerge:
         assert actual == expected
 
     @pytest.mark.parametrize('input_,expected', [
-        ('2018-01-04T00:00:00.000', '01/04/2018'),
+        ('2018-01-04T00:00:00.000', '2018-01-04'),
         ('01/04/2018', ''),
     ])
     def test_clean_date_00(self, input_, expected):
@@ -168,9 +154,9 @@ class TestMerge:
         assert actual == expected
 
     @pytest.mark.parametrize('input_,expected', [
-        ('22:15', '10:15 pm'),
-        ('8:57', '08:57 am'),
-        ('2018-01-04T00:00:00.000', '12:00 am'),
+        ('22:15', '22:15:00'),
+        ('8:57', '08:57:00'),
+        ('2018-01-04T00:00:00.000', '00:00:00'),
     ])
     def test_clean_time_00(self, input_, expected):
         actual = clean_time(input_)
@@ -181,19 +167,11 @@ class TestMerge:
 SCRAPD = """
 [
     {
-        "Age": 23,
-        "Case": "18-0041689",
-        "DOB": "11/27/1994",
-        "Date": "01/04/2018",
-        "Ethnicity": "Hispanic",
-        "Fatal crashes this year": "1",
-        "First Name": "Ashley",
-        "Gender": "female",
-        "Last Name": "Martinez",
-        "Link": "http://austintexas.gov/news/traffic-fatality-1-3",
-        "Location": "5600 N IH 35 Northbound",
-        "Notes": "Eloy Herrera, Hispanic male (D.O.B. 4-9-02)",
-        "Time": "11:57 p.m."
+        "case": "18-0041689",
+        "date": "01/04/2018",
+        "link": "http://austintexas.gov/news/traffic-fatality-1-3",
+        "location": "5600 N IH 35 Northbound",
+        "time": "11:57 p.m."
     }
 ]
 """
@@ -257,22 +235,11 @@ SOCRATA = """
 FINAL = """
 [
     {
-        "Case": "18-0041689",
-        "Charge": "pending",
-        "Date": "01/04/2018",
-        "Drivers license status": "suspended",
-        "Impairment": "driver",
-        "Killed": "driver and passenger",
-        "Hit and run":"n",
-        "Latitude": 30.315355,
-        "Location": "5600 block n ih 35 nb",
-        "Longitude": -97.70766,
-        "Ran light/stop": "n",
-        "Restraint": "unknown",
-        "Road type": "IH35",
-        "Speeding": "n",
-        "Time": "11:25 pm",
-        "Type": "motor vehicle"
+        "case": "18-0041689",
+        "latitude": 30.315355,
+        "location": "5600 block n ih 35 nb",
+        "longitude": -97.70766,
+        "time": "23:25:00"
     }
 ]
 """
