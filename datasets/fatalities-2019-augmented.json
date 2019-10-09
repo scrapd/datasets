@@ -980,10 +980,13 @@
   {
     "Age": 15,
     "Case": "19-2711895",
+    "DOB": "05/16/2004",
     "Date": "09/28/2019",
     "Ethnicity": "Black",
     "Fatal crashes this year": "62",
+    "First Name": "Billy",
     "Gender": "male",
+    "Last Name": "III",
     "Latitude": 30.395716,
     "Link": "http://austintexas.gov/news/traffic-fatality-62-4",
     "Location": "600 block of E. Yager Ln.",
@@ -994,13 +997,33 @@
   {
     "Age": 19,
     "Case": "19-2732043",
+    "DOB": "11/22/1999",
     "Date": "09/30/2019",
     "Ethnicity": "Hispanic",
     "Fatal crashes this year": "63",
+    "First Name": "Mario",
     "Gender": "male",
+    "Last Name": "Granado-Godoy",
     "Link": "http://austintexas.gov/news/traffic-fatality-63-4",
     "Location": "7400 block S. IH-35 southbound proper",
     "Notes": "The preliminary investigation shows that a 2007 white, Ford Mustang was stopped in the center lane of southbound IH 35 in the 7400 block. A 2017 white, Peterbuilt Truck Tractor was traveling southbound in the center lane and struck the back of the Mustang. The driver of the Mustang was pronounced deceased on the scene.\n\n\tThe driver of the Peterbuilt Tractor Truck remained on scene and cooperated. No charges are expected to be filed at this time.",
     "Time": "11:58 PM"
+  },
+  {
+    "Age": 58,
+    "Case": "19-2761969",
+    "DOB": "09/20/1961",
+    "Date": "10/03/2019",
+    "Ethnicity": "Hispanic",
+    "Fatal crashes this year": "64",
+    "First Name": "Mauricio",
+    "Gender": "male",
+    "Last Name": "Garcia",
+    "Latitude": 30.326126,
+    "Link": "http://austintexas.gov/news/traffic-fatality-64-4",
+    "Location": "7200 block of Cameron Rd.",
+    "Longitude": -97.69232,
+    "Notes": "The preliminary investigation shows that a pedestrian was in the middle of the inside lane in the 7200 block of Cameron Rd. A white, 2012 Ford F-150 was heading northbound in the inside lane and struck the pedestrian. The pedestrian was pronounced deceased at the scene. He has been identified as 58-year-old Mauricio Garcia.",
+    "Time": "09:50 PM"
   }
 ]
