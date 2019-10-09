@@ -41,7 +41,7 @@ for YEAR in {2017..2019}; do
   echo -e "\t- Applying augmentations (1st pass)..."
   for AUGMENTATION in "${AUGMENTATION_DIR}"/*.json; do
     echo -e "\t\t- $(basename ${AUGMENTATION})"
-    python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
+    [ -f ${AUGMENTATION} ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
   done
 
   # Generate the augmentations.
@@ -59,7 +59,7 @@ for YEAR in {2017..2019}; do
   echo -e "\t- Applying augmentations (2nd pass)..."
   for AUGMENTATION in "${AUGMENTATION_DIR}"/*.json; do
     echo -e "\t\t- $(basename ${AUGMENTATION})"
-    python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
+    [ -f ${AUGMENTATION} ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
   done
 done
 

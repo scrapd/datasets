@@ -30,7 +30,8 @@ def main():
     # Merge the data.
     entries = json.loads(args.infile.read())
     results = asyncio.run(async_update_entries(entries))
-    results_str = json.dumps(results, sort_keys=True, indent=2)
+    sorted_results = sorted(results, key=lambda x: x['case'])
+    results_str = json.dumps(sorted_results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
     if args.in_place:
