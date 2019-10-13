@@ -1,303 +1,578 @@
 [
   {
     "case": "17-0480200",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 10,
+    "date": "2017-02-17",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1989-07-20",
+        "ethnicity": "Hispanic",
+        "first": "Monica",
+        "gender": "Female",
+        "generation": "",
+        "last": "Rodriguez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.302634,
-    "link": "",
-    "location": "ed bluestein boulevard and loyola lane",
+    "link": "http://austintexas.gov/news/traffic-fatality-10-2",
+    "location": "Ed Bluestein Boulevard and Loyola Lane",
     "longitude": -97.660994,
     "notes": "",
     "time": "02:48:00"
   },
   {
     "case": "17-0501713",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 8,
+    "date": "2017-02-19",
+    "fatalities": [
+      {
+        "age": 56,
+        "dob": "2060-11-30",
+        "ethnicity": "White",
+        "first": "Patricia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Ulloa",
+        "middle": ""
+      }
+    ],
     "latitude": 30.371658,
-    "link": "",
-    "location": "capital of texas hwy/lakewood dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-8-2",
+    "location": "N. Capital of Texas Hwy. and Lakewood Dr.",
     "longitude": -97.78569,
     "notes": "",
     "time": "23:14:00"
   },
   {
     "case": "17-0531085",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 9,
+    "date": "2017-02-22",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.321594,
-    "link": "",
-    "location": "6100 e. us highway 290",
+    "link": "http://austintexas.gov/news/traffic-fatality-9-2",
+    "location": "6100 E. US Highway 290",
     "longitude": -97.708229,
     "notes": "",
     "time": "15:15:00"
   },
   {
     "case": "17-0701330",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 11,
+    "date": "2017-03-10",
+    "fatalities": [
+      {
+        "age": 37,
+        "dob": "1979-07-19",
+        "ethnicity": "Hispanic",
+        "first": "Contreras",
+        "gender": "Male",
+        "generation": "",
+        "last": "Vasquez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.197431,
-    "link": "",
-    "location": "fleter ln/burleson road",
+    "link": "http://austintexas.gov/news/traffic-fatality-11-2",
+    "location": "Felter Lane and Burleson Road",
     "longitude": -97.704747,
     "notes": "",
-    "time": "20:44:00"
+    "time": "18:38:00"
   },
   {
     "case": "17-0710136",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 14,
+    "date": "2017-03-12",
+    "fatalities": [
+      {
+        "age": 59,
+        "dob": "1957-12-21",
+        "ethnicity": "Hispanic",
+        "first": "Tomas",
+        "gender": "Male",
+        "generation": "",
+        "last": "Garcia-Servin",
+        "middle": ""
+      }
+    ],
     "latitude": 30.370097,
-    "link": "",
-    "location": "10010 n lamar blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-14-3",
+    "location": "10010 N. Lamar Blvd.",
     "longitude": -97.693053,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white 2015 Ford Focus was traveling southbound in the inside lane of the 10010 block of N. Lamar Blvd. A pedestrian was crossing mid-block westbound when he was struck by the Ford\u2019s left front side. The pedestrian was transported to University Medical Center at Brackenridge Hospital with critical injuries. He died as a result of his injuries on Monday, March 20, 2017.",
     "time": "01:21:00"
   },
   {
     "case": "17-0732104",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 12,
+    "date": "2017-03-14",
+    "fatalities": [
+      {
+        "age": 53,
+        "dob": "1963-03-31",
+        "ethnicity": "Black",
+        "first": "Charlie",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bunton",
+        "middle": ""
+      }
+    ],
     "latitude": 30.286215,
-    "link": "",
-    "location": "4800 blk # mlk blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-12-2",
+    "location": "4800 block E. Martin Luther King Jr. Blvd.",
     "longitude": -97.678834,
     "notes": "",
     "time": "23:42:00"
   },
   {
     "case": "17-0770668",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 13,
+    "date": "2017-03-18",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.239929,
-    "link": "",
-    "location": "4200 southwest pkwy",
+    "link": "http://austintexas.gov/news/traffic-fatality-13-2",
+    "location": "4200 block of Southwest Parkway",
     "longitude": -97.826565,
-    "notes": "",
+    "notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 13th fatal traffic crash of 2017. At this time in 2016, there were 13 fatal traffic crashes.",
     "time": "08:07:00"
   },
   {
     "case": "17-0780309",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 15,
+    "date": "2017-03-19",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1994-11-08",
+        "ethnicity": "Black",
+        "first": "Lamar",
+        "gender": "Male",
+        "generation": "",
+        "last": "Jackson",
+        "middle": ""
+      }
+    ],
     "latitude": 30.401852,
-    "link": "",
-    "location": "11600 burnet",
+    "link": "http://austintexas.gov/news/traffic-fatality-15-2",
+    "location": "11600 block of Burnet Rd.",
     "longitude": -97.717858,
-    "notes": "",
-    "time": "02:31:00"
+    "notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 15th fatal traffic crash of 2017. At this time in 2016, there were 14 fatal traffic crashes and 14 traffic fatalities.",
+    "time": "02:30:00"
   },
   {
     "case": "17-0830563",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 16,
+    "date": "2017-03-24",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.332499,
-    "link": "",
-    "location": "1830 e. anderson ln wb",
+    "link": "http://austintexas.gov/news/traffic-fatality-16-2",
+    "location": "1830 block E. Anderson Ln.",
     "longitude": -97.68631,
-    "notes": "",
-    "time": "11:56:00"
+    "notes": "Hall had five previous convictions of Pedestrian in the Roadway offenses.",
+    "time": "08:56:00"
   },
   {
     "case": "17-0871629",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 17,
+    "date": "2017-03-28",
+    "fatalities": [
+      {
+        "age": 47,
+        "dob": "1969-04-14",
+        "ethnicity": "White",
+        "first": "Frank",
+        "gender": "Male",
+        "generation": "",
+        "last": "Machacek",
+        "middle": ""
+      }
+    ],
     "latitude": 30.24743,
-    "link": "",
-    "location": "1803 s. 1st street",
+    "link": "http://austintexas.gov/news/traffic-fatality-17-2",
+    "location": "1800 block of S. 1st St.",
     "longitude": -97.755834,
-    "notes": "",
-    "time": "19:26:00"
+    "notes": "The bicyclist failed to yield right of way, crossed the northbound lanes and continued as he rode in front of the Subaru. The driver of the Subaru immediately stopped and remained on scene after hitting the bicyclist. After further investigation by a DWI Enforcement Officer, the driver of the Subaru was arrested for DWI. The bicyclist was pronounced deceased at the scene.",
+    "time": "19:25:00"
   },
   {
     "case": "17-0890705",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 18,
+    "date": "2017-03-30",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.321868,
-    "link": "",
-    "location": "us hwy 290 wb frontage/cameron road",
+    "link": "http://austintexas.gov/news/traffic-fatality-18-2",
+    "location": "U.S. Highway 290 westbound frontage at Cameron Rd.",
     "longitude": -97.694956,
-    "notes": "",
+    "notes": "The passenger was pronounced deceased shortly after arriving to the hospital. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5576. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 18th fatal traffic crash of 2017. At this time in 2016, there were 15 fatal traffic crashes and 15 traffic fatalities.",
     "time": "11:12:00"
   },
   {
     "case": "17-0941734",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 19,
+    "date": "2017-04-04",
+    "fatalities": [
+      {
+        "age": 56,
+        "dob": "1960-12-09",
+        "ethnicity": "White",
+        "first": "Sam",
+        "gender": "Male",
+        "generation": "",
+        "last": "Rhea",
+        "middle": ""
+      }
+    ],
     "latitude": 30.191007,
-    "link": "",
-    "location": "800 e william cannon",
+    "link": "http://austintexas.gov/news/traffic-fatality-19-3",
+    "location": "700 block of East William Cannon Dr.",
     "longitude": -97.771719,
-    "notes": "",
+    "notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 19th fatal traffic crash of 2017. At this time in 2016, there were 16 fatal traffic crashes and 16 traffic fatalities.",
     "time": "21:06:00"
   },
   {
     "case": "17-0980238",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 20,
+    "date": "2017-04-08",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1979-03-15",
+        "ethnicity": "Hispanic",
+        "first": "Luna",
+        "gender": "Male",
+        "generation": "",
+        "last": "Abel",
+        "middle": ""
+      }
+    ],
     "latitude": 30.199905,
-    "link": "",
-    "location": "3400 s sh130 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-20-2",
+    "location": "3400 block of South SH 130",
     "longitude": -97.622752,
-    "notes": "",
-    "time": "04:43:00"
+    "notes": "Intoxication is suspected as being a factor in this crash.",
+    "time": "03:09:00"
   },
   {
     "case": "17-0980393",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 21,
+    "date": "2017-04-08",
+    "fatalities": [
+      {
+        "age": 59,
+        "dob": "1957-12-02",
+        "ethnicity": "Hispanic",
+        "first": "Hernandez-Vasquez",
+        "gender": "Male",
+        "generation": "",
+        "last": "Aurelio",
+        "middle": ""
+      }
+    ],
     "latitude": 30.257222,
-    "link": "",
-    "location": "9100 w sh71",
+    "link": "http://austintexas.gov/news/traffic-fatality-21-1",
+    "location": " ",
     "longitude": -97.904446,
-    "notes": "",
+    "notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 21st fatal traffic crash of 2017. At this time in 2016, there were 18 fatal traffic crashes and 18 traffic fatalities.",
     "time": "09:52:00"
   },
   {
     "case": "17-1071522",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 22,
+    "date": "2017-04-17",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1995-12-11",
+        "ethnicity": "White",
+        "first": "David",
+        "gender": "Female",
+        "generation": "",
+        "last": "Nancy-Jane",
+        "middle": ""
+      }
+    ],
     "latitude": 30.290123,
-    "link": "",
-    "location": "3730 manor rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-22-1",
+    "location": " ",
     "longitude": -97.694928,
-    "notes": "",
+    "notes": "This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-6935. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 22nd fatal traffic crash of 2017. At this time in 2016, there were 18 fatal traffic crashes and 18 traffic fatalities.",
     "time": "19:21:00"
   },
   {
     "case": "17-1170279",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 25,
+    "date": "2017-04-27",
+    "fatalities": [
+      {
+        "age": 48,
+        "dob": "1968-05-24",
+        "ethnicity": "White",
+        "first": "Duke",
+        "gender": "Male",
+        "generation": "",
+        "last": "Joe",
+        "middle": ""
+      }
+    ],
     "latitude": 30.193826,
-    "link": "",
-    "location": "2500 e stassney ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-25-2",
+    "location": "2500 block E. Stassney Ln.",
     "longitude": -97.7472,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a Capital Metro bus was traveling westbound in the 2500 block of E. Stassney Ln. in the outside lane and had just stopped at a bus stop.",
     "time": "06:23:00"
   },
   {
     "case": "17-1191031",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 24,
+    "date": "2017-04-29",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1988-03-28",
+        "ethnicity": "Hispanic",
+        "first": "Lugo",
+        "gender": "Male",
+        "generation": "",
+        "last": "Anthony",
+        "middle": ""
+      }
+    ],
     "latitude": 30.184113,
-    "link": "",
-    "location": "4500 blk e william cannon",
+    "link": "http://austintexas.gov/news/traffic-fatality-24-3",
+    "location": "4500 block E. William Cannon Dr.",
     "longitude": -97.754884,
-    "notes": "",
-    "time": "13:52:00"
+    "notes": "The preliminary investigation shows that a 1999 Chevrolet Silverado was traveling westbound in the 4500 block of William Cannon Dr. at a high rate of speed. The driver lost control, causing the vehicle to roll and come to rest upside down. The driver was pronounced deceased at the scene. Alcohol is suspected to be a factor in this crash.",
+    "time": "15:52:00"
   },
   {
     "case": "17-1210792",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 26,
+    "date": "2017-05-01",
+    "fatalities": [
+      {
+        "age": 52,
+        "dob": "1965-01-06",
+        "ethnicity": "Hispanic",
+        "first": "Halsell",
+        "gender": "Female",
+        "generation": "",
+        "last": "Ann",
+        "middle": ""
+      }
+    ],
     "latitude": 30.321727,
-    "link": "",
-    "location": "3800 airport blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-26-1",
+    "location": "3800 block of Airport Blvd.",
     "longitude": -97.703222,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2014 purple Freightliner truck was traveling southbound in the 3800 block of Airport Blvd. in the center lane and slowing to stop for a red light at the intersection of 38 1\u20442 St. A 2011 white Ford Expedition failed to keep assured clear distance and struck the Freightliner\u2019s trailer from behind.",
     "time": "12:02:00"
   },
   {
     "case": "17-1501748",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 27,
+    "date": "2017-05-30",
+    "fatalities": [
+      {
+        "age": 34,
+        "dob": "1983-03-04",
+        "ethnicity": "Hispanic",
+        "first": "Ramirez",
+        "gender": "Male",
+        "generation": "",
+        "last": "Castro",
+        "middle": ""
+      }
+    ],
     "latitude": 30.192018,
-    "link": "",
-    "location": "400 e wm cannon",
+    "link": "http://austintexas.gov/news/traffic-fatality-27-2",
+    "location": " ",
     "longitude": -97.775425,
-    "notes": "",
+    "notes": "The driver, who was identified as Emmanuel Castro Ramirez, was transported to St. David\u2019s South Austin Hospital by Austin-Travis County EMS, where he succumbed to injuries sustained in the crash on Wednesday, May 31, 2017 at 4:03 p.m.",
     "time": "21:18:00"
   },
   {
     "case": "17-1560274",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 28,
+    "date": "2017-06-05",
+    "fatalities": [
+      {
+        "age": 46,
+        "dob": "1971-01-29",
+        "ethnicity": "Hispanic",
+        "first": "Garcia",
+        "gender": "Male",
+        "generation": "",
+        "last": "Narciso",
+        "middle": ""
+      }
+    ],
     "latitude": 30.203154,
-    "link": "",
-    "location": "fm 973/sh 71 wb svrd",
+    "link": "http://austintexas.gov/news/traffic-fatality-28-1",
+    "location": " ",
     "longitude": -97.639116,
-    "notes": "",
+    "notes": "The driver of the Mustang, Juan Narciso Garcia, was pronounced deceased at the scene.",
     "time": "06:15:00"
   },
   {
     "case": "17-1611733",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 29,
+    "date": "2017-06-10",
+    "fatalities": [
+      {
+        "age": 58,
+        "dob": "1958-07-22",
+        "ethnicity": "White",
+        "first": "Daniel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sullins",
+        "middle": ""
+      }
+    ],
     "latitude": 30.350281,
-    "link": "",
-    "location": "1300 blk anderson ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-29-1",
+    "location": " ",
     "longitude": -97.718512,
-    "notes": "",
-    "time": "22:28:00"
+    "notes": "The driver of the Civic, Daniel R. Sullins, was pronounced deceased at the scene.",
+    "time": "22:27:00"
   },
   {
     "case": "17-1890048",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 31,
+    "date": "2017-07-08",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1985-12-27",
+        "ethnicity": "White",
+        "first": "Daniel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Rayos",
+        "middle": ""
+      }
+    ],
     "latitude": 30.382159,
-    "link": "",
-    "location": "8500 fm 2222",
+    "link": "http://austintexas.gov/news/traffic-fatality-31-1",
+    "location": "8500 FM 2222",
     "longitude": -97.81214,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver 2008 Nissan Sentra was traveling southbound in the 8500 block of FM 2222 when it drifted off the right side of the roadway and struck the end of the guard rail head-on. The driver was pronounced deceased at the scene.",
     "time": "00:30:00"
   },
   {
     "case": "17-1941615",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 32,
+    "date": "2017-07-13",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1987-11-10",
+        "ethnicity": "White",
+        "first": "Robert",
+        "gender": "Male",
+        "generation": "",
+        "last": "Register",
+        "middle": ""
+      }
+    ],
     "latitude": 30.352448,
-    "link": "",
-    "location": "capital of texas hwy/courtyard dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-32-3",
+    "location": "N. Capital of Texas Highway and Courtyard Drive",
     "longitude": -97.795281,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white 2007 Kenworth Dump Truck was traveling southbound in the left lane of N. Capital of Texas Highway when it struck a gray 2016 Ford Mustang on the passenger side at the intersection of N. Capital of Texas Highway and Courtyard Drive. The dump truck and the mustang continued southbound through the intersection and struck a parked, unattended, gray 2006 Dodge Grand Caravan before coming to its final rest.\nThe driver of the mustang, Robert David Register, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 11:05 a.m. on Friday, July 14, 2017. This case is still being investigated.",
     "time": "20:59:00"
   },
   {
     "case": "17-1981784",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 33,
+    "date": "2017-07-17",
+    "fatalities": [
+      {
+        "age": 34,
+        "dob": "1982-10-26",
+        "ethnicity": "Hispanic",
+        "first": "Michael",
+        "gender": "Male",
+        "generation": "",
+        "last": "Trujillo",
+        "middle": ""
+      }
+    ],
     "latitude": 30.376949,
-    "link": "",
-    "location": "e braker/ih35 svrd",
+    "link": "http://austintexas.gov/news/traffic-fatality-33-3",
+    "location": "800 East Braker Lane",
     "longitude": -97.675583,
-    "notes": "",
-    "time": "22:58:00"
+    "notes": "The preliminary investigation shows that a red 2008 Ford Escape was traveling westbound in the left lane of East Braker Ln. Two pedestrians crossed in front of the Escape, one of the pedestrians was hit by the vehicle. The pedestrians were crossing mid-block. There was not an intersection or crosswalk for them to be in.\n\tTrujillo, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 12:48 a.m. on Thursday, July 27, 2017.\n\tThis case is still being investigated.",
+    "time": "22:57:00"
   },
   {
     "case": "17-2080",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 34,
+    "date": "2017-07-27",
+    "fatalities": [
+      {
+        "age": 88,
+        "dob": "1929-02-16",
+        "ethnicity": "White",
+        "first": "George",
+        "gender": "Male",
+        "generation": "",
+        "last": "Melvin",
+        "middle": ""
+      }
+    ],
     "latitude": 30.23184,
-    "link": "",
-    "location": "",
+    "link": "http://austintexas.gov/news/traffic-fatality-34-2",
+    "location": "800 Bastrop Highway",
     "longitude": -97.68383,
-    "notes": "",
-    "time": null
+    "notes": "The preliminary investigation shows that a 2001 International dump truck and a 2003 gold Buick LeSabre were traveling southbound on Bastrop Highway. The International dump truck changed lanes to the right and struck the Buick LeSabre causing it to spin out of control into the median between north and south bound Bastrop Highway. Melvin, the passenger in the LeSabre, was transported to Dell Seton Medical Center by Austin-Travis County E.M.S. He died as a result of his injuries at 4:10 p.m. on Monday, July 31, 2017.\n\tThis case is still being investigated.",
+    "time": "22:57:00"
   },
   {
     "case": "17-214",
@@ -347,386 +622,738 @@
   },
   {
     "case": "17-2171698",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 37,
+    "date": "2017-08-05",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1995-10-13",
+        "ethnicity": "Hispanic",
+        "first": "Melvin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Chacon",
+        "middle": ""
+      }
+    ],
     "latitude": 30.187706,
-    "link": "",
-    "location": "elm creek dr / e william cannon dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-37-2",
+    "location": "William Cannon Drive and Elm Creek Drive",
     "longitude": -97.76287,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2009 black Chevrolet Silverado was traveling eastbound in the left lane of William Cannon Drive at a very high rate of speed when it hit the driver\u2019s side of a 2010 black Nissan Altima. The Nissan Altima was attempting to turn left on William Cannon Drive from Elm Creek Drive. After the crash, the driver of the Silverado was observed leaving the scene. The driver of the Altima was pronounced deceased at the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5576. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 37th fatal traffic crash and the 39th fatality of 2017. At this time in 2016, there were 39 fatal traffic crashes and 39 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "23:06:00"
   },
   {
     "case": "17-2180064",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 38,
+    "date": "2017-08-06",
+    "fatalities": [
+      {
+        "age": 34,
+        "dob": "1983-02-03",
+        "ethnicity": "White",
+        "first": "Adam",
+        "gender": "Male",
+        "generation": "",
+        "last": "Webb",
+        "middle": ""
+      }
+    ],
     "latitude": 30.246489,
-    "link": "",
-    "location": "2500 s lamar",
+    "link": "http://austintexas.gov/news/traffic-fatality-38-1",
+    "location": "2500 S. Lamar Blvd.",
     "longitude": -97.778115,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2013 black and red Triumph Motorcycle was traveling southbound on S. Lamar Blvd. when a 2009 black Honda Odyssey was attempting to turn left onto S. Lamar Blvd. from Montclaire St. The Honda failed to yield right of way to the motorcycle. The driver of the motorcycle was transported to St. David\u2019s South Austin Hospital where he died as a result of his injuries. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5576. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 38th fatal traffic crash and the 40th fatality of 2017. At this time in 2016, there were 39 fatal traffic crashes and 39 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "00:33:00"
   },
   {
     "case": "17-2190051",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 39,
+    "date": "2017-08-07",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1986-07-15",
+        "ethnicity": "Hispanic",
+        "first": "Juan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tziquin-Guarcha",
+        "middle": ""
+      }
+    ],
     "latitude": 30.228058,
-    "link": "",
-    "location": "3600 s congress",
+    "link": "http://austintexas.gov/news/traffic-fatality-39-2",
+    "location": "3600 S. Congress Avenue",
     "longitude": -97.761191,
-    "notes": "",
-    "time": "01:48:00"
+    "notes": "The preliminary investigation shows that a dark, unidentified SUV was traveling eastbound on a paved alleyway that leads from the south side of a business on Congress Avenue to South Congress Avenue. The vehicle entered the alleyway from a rear parking lot and struck a pedestrian who was lying down in the alleyway. The vehicle fled the scene after hitting the pedestrian and headed southbound on South Congress Avenue. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 39th fatal traffic crash and the 41st fatality of 2017. At this time in 2016, there were 39 fatal traffic crashes and 39 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "time": "00:35:00"
   },
   {
     "case": "17-2260242",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 40,
+    "date": "2017-08-14",
+    "fatalities": [
+      {
+        "age": 25,
+        "dob": "1992-01-25",
+        "ethnicity": "White",
+        "first": "Alexander",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hopkins",
+        "middle": ""
+      }
+    ],
     "latitude": 30.336702,
-    "link": "",
-    "location": "6900 n lamar",
+    "link": "http://austintexas.gov/news/traffic-fatality-40-2",
+    "location": "6900 N. Lamar Blvd.",
     "longitude": -97.719555,
-    "notes": "",
-    "time": "05:32:00"
+    "notes": "The preliminary investigation shows that a gray 2006 Mazda 6 was traveling southbound on N. Lamar Blvd. at a high rate of speed when the driver lost control, exited the west side of the roadway and struck the building at 6900 N. Lamar Blvd. The driver was ejected from the vehicle and was pronounced deceased at the scene. He was not wearing a seatbelt. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 40th fatal traffic crash and the 42nd fatality of 2017. At this time in 2016, there were 41 fatal traffic crashes and 41 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "time": "05:31:00"
   },
   {
     "case": "17-2350340",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 41,
+    "date": "2017-08-23",
+    "fatalities": [
+      {
+        "age": 20,
+        "dob": "1997-02-20",
+        "ethnicity": "Hispanic",
+        "first": "Matthew",
+        "gender": "Male",
+        "generation": "",
+        "last": "Ramos",
+        "middle": ""
+      }
+    ],
     "latitude": 30.203971,
-    "link": "",
-    "location": "3100 us 183 hwy sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-41-2",
+    "location": "3100 block of U.S. Highway 183",
     "longitude": -97.683536,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a pedestrian was in the outside lane of traffic in the 3100 block of U.S. Highway 183 southbound when he was struck by an unknown vehicle. The suspect that struck the pedestrian did not stop and render aid. The pedestrian was pronounced deceased at the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 41st fatal traffic crash and the 43rd fatality of 2017. At this time in 2016, there were 44 fatal traffic crashes and 44 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "07:14:00"
   },
   {
     "case": "17-2361605",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 45,
+    "date": "2017-08-24",
+    "fatalities": [
+      {
+        "age": 87,
+        "dob": "1930-07-22",
+        "ethnicity": "White",
+        "first": "Frances",
+        "gender": "Female",
+        "generation": "",
+        "last": "Berry",
+        "middle": ""
+      }
+    ],
     "latitude": 30.240816,
-    "link": "",
-    "location": "1600 blk s ih35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-45-2",
+    "location": "1600 block of IH-35",
     "longitude": -97.736871,
-    "notes": "",
-    "time": "20:27:00"
+    "notes": "The preliminary investigation shows that a 2002 white Dodge Dakota was traveling in the middle lane of northbound IH-35 when the driver struck a trailer being towed by a truck tractor.",
+    "time": "20:28:00"
   },
   {
     "case": "17-2450905",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 47,
+    "date": "2017-09-02",
+    "fatalities": [
+      {
+        "age": 77,
+        "dob": "1940-08-28",
+        "ethnicity": "Hispanic",
+        "first": "Josefa",
+        "gender": "Female",
+        "generation": "",
+        "last": "Torres",
+        "middle": ""
+      }
+    ],
     "latitude": 30.23768,
-    "link": "",
-    "location": "willow creek/e riverside dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-47-3",
+    "location": "East Riverside Dr. and Willow Creek Dr.",
     "longitude": -97.725656,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white 2013 Honda CRV was traveling westbound on East Riverside Dr. A tan 2003 Nissan Altima was traveling eastbound on East Riverside Drive and attempting to turn northbound into a private driveway at the Willow Creek intersection. The Altima failed to yield right of way turning left. The Honda CRV struck the Altima\u2019s right side with its front.\n\tThe passenger of the vehicle was transported to Dell Seton Medical Center where she died as a result of her injures on Thursday, September 21, 2017.  \nThis case is still being investigated.",
     "time": "14:00:00"
   },
   {
     "case": "17-2460227",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 42,
+    "date": "2017-09-03",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1984-07-12",
+        "ethnicity": "Black",
+        "first": "Spencer",
+        "gender": "Male",
+        "generation": "",
+        "last": "II",
+        "middle": ""
+      }
+    ],
     "latitude": 30.465592,
-    "link": "",
-    "location": "13800 n us 183 hwy nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-42-2",
+    "location": "North U.S. Highway 183 nb service road and Pecan Park Blvd.",
     "longitude": -97.795248,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2007 beige Kia Spectra was traveling northbound on the U.S. Highway 183 service road, drove through the intersection of Pecan Park Boulevard and struck the steel utility pole at the Northwest corner of the intersection. The driver of the vehicle was pronounced deceased at the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 42nd fatal traffic crash and the 44th fatality of 2017. At this time in 2016, there were 47 fatal traffic crashes and 47 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "02:22:00"
   },
   {
     "case": "17-2471532",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 43,
+    "date": "2017-09-04",
+    "fatalities": [
+      {
+        "age": 37,
+        "dob": "1980-01-26",
+        "ethnicity": "White",
+        "first": "Richard",
+        "gender": "Male",
+        "generation": "",
+        "last": "Stader",
+        "middle": ""
+      }
+    ],
     "latitude": 30.44026,
-    "link": "",
-    "location": "1598 w wells branch pkwy",
+    "link": "http://austintexas.gov/news/traffic-fatality-43-2",
+    "location": "1500 block of Wells Branch Parkway",
     "longitude": -97.669327,
-    "notes": "",
-    "time": "21:44:00"
+    "notes": "The pedestrian, Richard Stacy Stader, was pronounced deceased at the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8255. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 43rd fatal traffic crash and the 45th fatality of 2017. At this time in 2016, there were 47 fatal traffic crashes and 47 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "time": "21:40:00"
   },
   {
     "case": "17-2481396",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 44,
+    "date": "2017-09-05",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1989-05-28",
+        "ethnicity": "Black",
+        "first": "Ashley",
+        "gender": "Female",
+        "generation": "",
+        "last": "Clark",
+        "middle": ""
+      }
+    ],
     "latitude": 30.188846,
-    "link": "",
-    "location": "4300 s us 183 hwy sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-44-2",
+    "location": "4300 Block of U.S. Highway 183 Southbound",
     "longitude": -97.685973,
-    "notes": "",
-    "time": "22:18:00"
+    "notes": "The preliminary investigation shows that a silver 2006 Jeep Liberty was traveling southbound on U.S. Highway 183 when it struck a blue 2006 Chevrolet Silverado, left the roadway and crashed through residential fences.",
+    "time": "19:16:00"
   },
   {
     "case": "17-2500282",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 46,
+    "date": "2017-09-07",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1978-12-03",
+        "ethnicity": "Black",
+        "first": "Sterlin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Milam",
+        "middle": ""
+      }
+    ],
     "latitude": 30.438991,
-    "link": "",
-    "location": "6600 blk mcneil dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-46-3",
+    "location": "6600 block of McNeil Dr.",
     "longitude": -97.755406,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white 2012 Dodge Ram was traveling westbound in the 6600 block of McNeil Drive in the outside lane. A pedestrian, identified as Sterlin Adreon Milam, was standing in the roadway when he was struck by the Dodge Ram\u2019s left front. Sterlin Adreon Milam was pronounced deceased at the scene. The driver remained at the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8164. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 46th fatal traffic crash and the 48th fatality of 2017. At this time in 2016, there were 47 fatal traffic crashes and 47 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "05:49:00"
   },
   {
     "case": "17-2850475",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 51,
+    "date": "2017-10-12",
+    "fatalities": [
+      {
+        "age": 49,
+        "dob": "1949-06-09",
+        "ethnicity": "White",
+        "first": "Delta",
+        "gender": "Female",
+        "generation": "",
+        "last": "Olin",
+        "middle": ""
+      }
+    ],
     "latitude": 30.263801,
-    "link": "",
-    "location": "e cesar chavez/nb i-35 svrd",
+    "link": "http://austintexas.gov/news/traffic-fatality-51-1",
+    "location": "E. Cesar Chavez/NB I-35 Ramp",
     "longitude": -97.735255,
-    "notes": "",
-    "time": "10:37:00"
+    "notes": "The preliminary investigation shows that a dark-colored 1999 Ford Van and a white 2016 VW Station Wagon were travelling northbound in the 100 block of the east frontage road when they entered the intersection against a yellow light to turn left on to westbound E. Cesar Chavez at which time the van struck the station wagon. The van lost control and breached the raised curb on the northwest corner fatally striking the victim who was sleeping under the I-35 overpass. The driver remained at the scene.\nThis case is still being investigated.",
+    "time": "08:35:00"
   },
   {
     "case": "17-2861375",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 52,
+    "date": "2017-10-13",
+    "fatalities": [
+      {
+        "age": 61,
+        "dob": "1956-04-07",
+        "ethnicity": "Hispanic",
+        "first": "Epifanio",
+        "gender": "Male",
+        "generation": "",
+        "last": "Jimenez-Garcia",
+        "middle": ""
+      }
+    ],
     "latitude": 30.255787,
-    "link": "",
-    "location": "100 blk robert t martinez jr. street",
+    "link": "http://austintexas.gov/news/traffic-fatality-52-2",
+    "location": "100 block of Robert T. Martinez Jr. St.",
     "longitude": -97.720683,
-    "notes": "",
-    "time": "19:36:00"
+    "notes": "The preliminary investigation shows that a white, 2013 Chevrolet Malibu was traveling northbound in the 100 block of Robert T. Martinez Jr. Street, when a pedestrian walked into its path. The pedestrian was crossing from east to west without looking to see if vehicles were approaching.\nThe pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Saturday, October 14, 2017, at 10:28 a.m.\nThis case is still being investigated.",
+    "time": "17:42:00"
   },
   {
     "case": "17-2890294",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 53,
+    "date": "2017-10-16",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "2019-06-28",
+        "ethnicity": "Hispanic",
+        "first": "David",
+        "gender": "Male",
+        "generation": "",
+        "last": "Castro",
+        "middle": ""
+      }
+    ],
     "latitude": 30.19363,
-    "link": "",
-    "location": "5000 blk e stassney ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-53-2",
+    "location": "5000 block of E. Stassney Lane",
     "longitude": -97.739666,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a black, 2013 Nissan Pathfinder, traveling eastbound, in the inside lane of the 5000 block of E. Stassney Lane, struck and killed Castro who was lying in the roadway along the north curb line. The driver remained at the scene.\nThis case is still being investigated.",
     "time": "05:57:00"
   },
   {
     "case": "17-3001690",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 54,
+    "date": "2017-10-27",
+    "fatalities": [
+      {
+        "age": 34,
+        "dob": "1983-06-20",
+        "ethnicity": "Black",
+        "first": "Jasper",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bailey",
+        "middle": ""
+      }
+    ],
     "latitude": 30.240842,
-    "link": "",
-    "location": "3401 s lamar blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-54-1",
+    "location": "3400 block of South Lamar",
     "longitude": -97.78614,
-    "notes": "",
+    "notes": "The pedestrian was pronounced deceased at the scene.",
     "time": "21:00:00"
   },
   {
     "case": "17-3021271",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 55,
+    "date": "2017-10-29",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "2019-06-29",
+        "ethnicity": "White",
+        "first": "Starlite",
+        "gender": "Male",
+        "generation": "",
+        "last": "Stewart",
+        "middle": ""
+      }
+    ],
     "latitude": 30.263954,
-    "link": "",
-    "location": "comal/7th street",
+    "link": "http://austintexas.gov/news/traffic-fatality-55-1",
+    "location": "Intersection of E. 7th and Comal Street",
     "longitude": -97.726138,
-    "notes": "",
-    "time": "18:13:00"
+    "notes": "The preliminary investigation shows that a silver, 2010 Toyota Corolla was traveling southbound on Comal Street when the driver, who had a green light, entered the intersection to turn left on to 7th Street when the green, 2011 Triumph Motorcycle driven by Stewart ran the red light hitting the left front side of the Toyota. Stewart was transported by EMS to Dell Seton Hospital where he was pronounced deceased shortly after arriving.",
+    "time": "18:14:00"
   },
   {
     "case": "17-3041428",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 56,
+    "date": "2017-10-31",
+    "fatalities": [
+      {
+        "age": 45,
+        "dob": "1972-08-30",
+        "ethnicity": "Hispanic",
+        "first": "Marcos",
+        "gender": "Male",
+        "generation": "",
+        "last": "Morales",
+        "middle": ""
+      }
+    ],
     "latitude": 30.256208,
-    "link": "",
-    "location": "willow/chicon",
+    "link": "http://austintexas.gov/news/traffic-fatality-56-2",
+    "location": "Chicon and Willow streets",
     "longitude": -97.725024,
-    "notes": "",
-    "time": "20:35:00"
+    "notes": "The preliminary investigation shows that a blue, Ford pickup truck was driving southbound on Chicon Street when it struck a pedestrian who was walking in a southeast direction in the intersection of Chicon and Willow streets. After striking the pedestrian, the Ford truck briefly stopped but then fled the scene southbound on Chicon St. without stopping and rendering aid to the pedestrian. The pedestrian, identified as Mauricio Marcos Morales, was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.",
+    "time": "20:38:00"
   },
   {
     "case": "17-3090297",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 57,
+    "date": "2017-11-05",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1991-04-27",
+        "ethnicity": "White",
+        "first": "Zachary",
+        "gender": "Male",
+        "generation": "",
+        "last": "Alexander-Ball",
+        "middle": ""
+      }
+    ],
     "latitude": 30.222797,
-    "link": "",
-    "location": "1308 thornberry",
+    "link": "http://austintexas.gov/news/traffic-fatality-57-1",
+    "location": "1300 block of Thornberry Rd.",
     "longitude": -97.664369,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a blue, 2002 Yamaha motorcycle was driving northbound in the 1300 block of Thornberry Rd. at a high rate of speed. The driver of the motorcycle failed to navigate a sharp curve to head east on to Crozier Ln. and struck a metal gate along the north side of Crozier Ln.",
     "time": "02:19:00"
   },
   {
     "case": "17-3091672",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 58,
+    "date": "2017-11-05",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.422528,
-    "link": "",
-    "location": "spicewood springs/scotland well dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-58-1",
+    "location": "Spicewood Springs Rd. and Scotland Well Dr.",
     "longitude": -97.793613,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a red, 2007 Mazda 6 was driving southbound on Spicewood Springs Rd. at a high rate of speed. The vehicle lost control and struck a traffic light pole, which is located on the southwest corner of Spicewood Springs Rd. and Scotland Well Dr.",
     "time": "22:19:00"
   },
   {
     "case": "17-3150989",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 59,
+    "date": "2017-11-11",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1938-06-09",
+        "ethnicity": "White",
+        "first": "Latulippe",
+        "gender": "Female",
+        "generation": "",
+        "last": "Nancy",
+        "middle": ""
+      }
+    ],
     "latitude": 30.386784,
-    "link": "",
-    "location": "9400 blk research blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-59-update",
+    "location": "9400 block of Research Blvd.",
     "longitude": -97.743921,
-    "notes": "",
-    "time": "15:32:00"
+    "notes": "Latulippe, Jackson, White male, 14 years of age\nLatulippe, Scott, White male, 41 years of age\n \nUPDATE: The APD Vehicular Homicide Unit is asking for anyone with information about the events leading up to the fatal November 11, 2017 crash on Research Blvd to contact them at (512) 974-6935 if they have not already done so.    \n \nOriginal Narrative:\nThe preliminary investigation shows that 41-year-old Guy Brasted was driving a black, Jeep Wrangler northbound on Research Blvd., when he lost control, leaving the roadway and resulting in a head on collision with a White, Fiat 500, that was traveling southbound. A third vehicle sustained front-end damage from the continuation of the initial impact of the Jeep and Fiat.\n\tBrasted was ejected from his vehicle. Nancy Latulippe, 38, who was driving the Fiat, and passenger Jackson Latulippe, 14, were pronounced deceased at the scene.\n\tTwo other passengers in the Fiat were transported to the hospital \u2014 an adult male with life-threatening injuries and a female child with non-life threatening injuries. The driver from the third vehicle was not transported for injuries.\n\tBrasted was initially transported to Dell Seton Medical Center with life-threatening injuries, but was later determined to be non-life threatening. He is facing two counts of intoxication manslaughter and one count of intoxication assault.\n\tThis case is still being investigated.",
+    "time": "15:31:00"
   },
   {
     "case": "17-3151167",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 60,
+    "date": "2017-11-11",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "1999-07-19",
+        "ethnicity": "Hispanic",
+        "first": "Anderson",
+        "gender": "Male",
+        "generation": "",
+        "last": "Palma-Rodriguez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.224027,
-    "link": "",
-    "location": "riverside/vargas rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-60-1",
+    "location": "6500 block of E Riverside Dr.",
     "longitude": -97.701118,
-    "notes": "",
-    "time": "22:37:00"
+    "notes": "Brianna Moreno, Hispanic female (D.O.B. 9-7-98)",
+    "time": "17:54:00"
   },
   {
     "case": "17-3241448",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 61,
+    "date": "2017-11-20",
+    "fatalities": [
+      {
+        "age": 36,
+        "dob": "1981-05-09",
+        "ethnicity": "White",
+        "first": "Christopher",
+        "gender": "Male",
+        "generation": "",
+        "last": "Gorman",
+        "middle": ""
+      }
+    ],
     "latitude": 30.311346,
-    "link": "",
-    "location": "5300 blk ih35 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-61-1",
+    "location": "5300 block of N IH 35 southbound",
     "longitude": -97.70943,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2010 Jaguar was driving southbound on IH 35 in the 5300 block when a pedestrian ran across the southbound lanes of IH 35. The Jaguar hit the pedestrian. The pedestrian died at the scene. The driver of the Jaguar remained on scene and cooperated. No charges are expected to be filed against the driver.",
     "time": "19:44:00"
   },
   {
     "case": "17-3271177",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 62,
+    "date": "2017-11-23",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1990-08-14",
+        "ethnicity": "White",
+        "first": "Miranda",
+        "gender": "Female",
+        "generation": "",
+        "last": "Stark",
+        "middle": ""
+      }
+    ],
     "latitude": 30.284871,
-    "link": "",
-    "location": "4200 e mlk jr blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-62-1",
+    "location": "4200 E. MLK Jr. Blvd.",
     "longitude": -97.688968,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2001 Lexus was traveling westbound in the 4200 block of E. MLK Jr. Blvd. at a high rate of speed when, for unknown reasons, the vehicle left the roadway at the north curb line and drove partially on the grassy shoulder. The vehicle then went back onto the roadway and crossed both westbound lanes of E. MLK Jr. Blvd. and into the path of an eastbound, grey, Nissan Cube. The driver of the Lexus was ejected from the vehicle. Both drivers were transported to the hospital and the driver of the Lexus died as a result of her injuries. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 62nd fatal traffic crash and the 67th fatality of 2017. At this time in 2016, there were 67 fatal traffic crashes and 69 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "22:39:00"
   },
   {
     "case": "17-3281208",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 63,
+    "date": "2017-11-24",
+    "fatalities": [
+      {
+        "age": 30,
+        "dob": "1987-07-06",
+        "ethnicity": "White",
+        "first": "Sean",
+        "gender": "Male",
+        "generation": "",
+        "last": "Gayle",
+        "middle": ""
+      }
+    ],
     "latitude": 30.174032,
-    "link": "",
-    "location": "800 blk w slaughter",
+    "link": "http://austintexas.gov/news/traffic-fatality-63-1",
+    "location": "800 block of W. Slaughter.",
     "longitude": -97.805879,
-    "notes": "",
+    "notes": "The preliminary investigation shows that the driver of a black, 2017 Ford Fusion was traveling eastbound in the center lane in the 800 block of W. Slaughter Lane when the motorist struck Sean Gayle, who was crossing midblock. The pedestrian was pronounced deceased at the crash site. The motorist remained on scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 63rd fatal traffic crash and the 68th fatality of 2017. At this time in 2016, there were 68 fatal traffic crashes and 70 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "20:01:00"
   },
   {
     "case": "17-3281397",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 64,
+    "date": "2017-11-25",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1962-09-08",
+        "ethnicity": "Hispanic",
+        "first": "Juan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Estrada",
+        "middle": ""
+      }
+    ],
     "latitude": 30.100462,
-    "link": "",
-    "location": "13900 s ih 35 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-64-1",
+    "location": "13900 S. IH-35.",
     "longitude": -97.812755,
-    "notes": "",
+    "notes": "The preliminary investigation shows that the driver of a silver, 2008 Toyota Highlander had just existed the SH-45 ramp and was attempting to merge onto S. IH-35 southbound when the motorist struck Juan Estrada, who was standing in the road. The pedestrian was pronounced deceased at the site of the crash. The driver remained on scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 64th fatal traffic crash and the 69th fatality of 2017. At this time in 2016, there were 69 fatal traffic crashes and 71 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "22:14:00"
   },
   {
     "case": "17-3370167",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 65,
+    "date": "2017-12-03",
+    "fatalities": [
+      {
+        "age": 36,
+        "dob": "1981-10-08",
+        "ethnicity": "White",
+        "first": "Christopher",
+        "gender": "Male",
+        "generation": "",
+        "last": "Peterson",
+        "middle": ""
+      }
+    ],
     "latitude": 30.376617,
-    "link": "",
-    "location": "10700 n lamar blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-65-1",
+    "location": "10700 N. Lamar Blvd.",
     "longitude": -97.689372,
-    "notes": "",
-    "time": "01:21:00"
+    "notes": "The preliminary investigation shows that the driver of a silver, 1979 Vespa Moped was traveling southbound on N. Lamar Blvd. The Moped crossed into oncoming traffic and was hit by a 2017 Toyota Corolla that was traveling northbound on N. Lamar Blvd. The driver of the Moped died at the scene.\nThis case is still being investigated.",
+    "time": "01:20:00"
   },
   {
     "case": "17-3371099",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 66,
+    "date": "2017-12-03",
+    "fatalities": [
+      {
+        "age": 15,
+        "dob": "2001-12-19",
+        "ethnicity": "Eastern",
+        "first": "Sajjad",
+        "gender": "Male",
+        "generation": "",
+        "last": "Middle",
+        "middle": ""
+      }
+    ],
     "latitude": 30.414601,
-    "link": "",
-    "location": "13100 n ih 35 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-66-1",
+    "location": "13100 block N. I-35 Southbound",
     "longitude": -97.673273,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2017 Kia Sorento was traveling southbound in the far left lane of the 13100 block of N. I-35. The pedestrian was running across I-35 towards the northbound lanes, when he was struck by the Sorento.",
     "time": "16:25:00"
   },
   {
     "case": "17-3380841",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 67,
+    "date": "2017-12-04",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "1999-10-17",
+        "ethnicity": "White",
+        "first": "Edwin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Proenza-Benedit",
+        "middle": ""
+      }
+    ],
     "latitude": 30.355643,
-    "link": "",
-    "location": "8300 research blvd svrd",
+    "link": "http://austintexas.gov/news/traffic-fatality-67-1",
+    "location": "8200 Research Blvd. NB Service Road",
     "longitude": -97.715069,
-    "notes": "",
+    "notes": "The preliminary investigation indicates that the 2007 Suzuki GSX-R Motorcycle operated by Proenza-Benedit was in the left lane of the Research Blvd. service road traveling at a high rate of speed when the driver of a 2004 GMC 2500 truck turned from Jamestown Drive on to the service road. The motorcycle struck the right rear tire of the truck and lost control. The motorcyclist was pronounced deceased at the scene.\n\tThis case is still being investigated.",
     "time": "13:10:00"
   },
   {
     "case": "17-3390056",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 68,
+    "date": "2017-12-05",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1993-12-21",
+        "ethnicity": "Black",
+        "first": "Deion",
+        "gender": "Male",
+        "generation": "",
+        "last": "Odom",
+        "middle": ""
+      }
+    ],
     "latitude": 30.266275,
-    "link": "",
-    "location": "800 w cesar chavez",
+    "link": "http://austintexas.gov/news/traffic-fatality-68-1",
+    "location": "800 Block of W. Cesar Chavez.",
     "longitude": -97.754409,
-    "notes": "",
-    "time": "00:40:00"
+    "notes": "The preliminary investigation indicates that a 2017 Harley Davidson motorcycle was traveling westbound on Cesar Chavez when the driver lost control, left the roadway and struck several objects. The driver was pronounced deceased at the scene.",
+    "time": "00:45:00"
   },
   {
     "case": "17-3410022",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 69,
+    "date": "2017-12-07",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1988-10-29",
+        "ethnicity": "Black",
+        "first": "Dominique",
+        "gender": "Male",
+        "generation": "",
+        "last": "Gaines",
+        "middle": ""
+      }
+    ],
     "latitude": 30.308889,
-    "link": "",
-    "location": "3302 northeast",
+    "link": "http://austintexas.gov/news/traffic-fatality-69-1",
+    "location": "3300 block of Northeast Dr.",
     "longitude": -97.67093,
-    "notes": "",
-    "time": "00:19:00"
+    "notes": "The preliminary investigation indicates that a 2010, blue Hyundai was traveling southbound on Northeast Dr. The driver of the vehicle lost control, left the roadway and struck a telephone pole. The passenger, Dominique Gaines, was pronounced deceased at the scene. The driver of the vehicle was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries.\n\tThis case is still being investigated.",
+    "time": "00:18:00"
   },
   {
     "case": "17-3460912",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 70,
+    "date": "2017-12-12",
+    "fatalities": [
+      {
+        "age": 62,
+        "dob": "1955-01-22",
+        "ethnicity": "White",
+        "first": "Robert",
+        "gender": "Male",
+        "generation": "",
+        "last": "Trewitt",
+        "middle": ""
+      }
+    ],
     "latitude": 30.356976,
-    "link": "",
-    "location": "8400 research blvd sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-70-0",
+    "location": "8400 block of Research Blvd. Southbound",
     "longitude": -97.715831,
-    "notes": "",
+    "notes": "The preliminary investigation indicates that a 2002, blue, Chevrolet truck was traveling southbound in the 8400 block of Research Blvd. in the inside lane when it swerved into the right lane to avoid a collision. When the Chevrolet entered the right lane, it struck a 1998 BMW motorcycle from behind, knocking the driver off the bike and over a retaining wall. The driver fell to the frontage road where he sustained serious injuries. The driver of the motorcycle was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Wednesday, December 13, 2017.\n\tThis case is still being investigated.",
     "time": "14:13:00"
   },
   {
     "case": "17-3550122",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 71,
+    "date": "2017-12-21",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1984-06-18",
+        "ethnicity": "White",
+        "first": "Shane",
+        "gender": "Male",
+        "generation": "",
+        "last": "Goldstein",
+        "middle": ""
+      }
+    ],
     "latitude": 30.233746,
-    "link": "",
-    "location": "2000 burton dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-71-0",
+    "location": "2100 block of Burton Drive",
     "longitude": -97.731792,
-    "notes": "",
-    "time": "01:38:00"
+    "notes": "The preliminary investigation indicates that a maroon, 1997 Honda CRV was traveling southbound in the 2100 block of Burton Drive when the driver lost control, drove off the left side of the roadway and struck a concrete retaining wall. The driver of the vehicle, Shane Carson Goldstein, was pronounced deceased on the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 71st fatal traffic crash and the 76th fatality of 2017. At this time in 2016, there were 75 fatal traffic crashes and 77 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "time": "13:38:00"
   }
 ]

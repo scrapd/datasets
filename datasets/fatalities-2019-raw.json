@@ -35,7 +35,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Sell",
-        "middle": "Hilburn"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -127,7 +127,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Ralston",
-        "middle": "James"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -150,7 +150,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Mouton",
-        "middle": "Zion"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -196,7 +196,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Tamez",
-        "middle": "\u201cRudy\u201d"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -219,7 +219,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Esparza",
-        "middle": "Emanuel Ni\u00f1o"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -288,7 +288,7 @@
         "gender": "Female",
         "generation": "",
         "last": "Saathoff",
-        "middle": "Rae"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -309,7 +309,7 @@
         "ethnicity": "Hispanic",
         "first": "Carlos",
         "gender": "Male",
-        "generation": "Jr.",
+        "generation": "",
         "last": "Cardenas",
         "middle": ""
       }
@@ -328,20 +328,20 @@
     "fatalities": [
       {
         "age": 27,
-        "dob": "1991-11-13",
+        "dob": "1991-06-24",
         "ethnicity": "White",
         "first": "Garrett",
         "gender": "Male",
         "generation": "",
         "last": "Davis",
-        "middle": "Evan"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-15-4",
     "location": "517 E. Slaughter Lane",
     "longitude": 0.0,
-    "notes": "The preliminary investigation indicated that Garrett Davis, the driver of the 2017 Subaru Forester, was traveling eastbound in the 500 block of E. Slaughter Lane when he attempted to turn left and collided with a 1996 Chevrolet truck that was traveling westbound. Mr. Davis was attempting to enter the apartment complex on the south side of the road when he failed to yield right of way. The truck made contact with the passenger side of the Forester, killing both the driver and passenger, Keaton Carnley. There were no other occupants in the Subaru. The driver of the truck suffered minor injuries. All parties were wearing their seatbelts. No charges are expected to be filed.",
+    "notes": "Keaton Michael Carnley | White male | 11/13/1991                  \n\n\tThe preliminary investigation indicated that Garrett Davis, the driver of the 2017 Subaru Forester, was traveling eastbound in the 500 block of E. Slaughter Lane when he attempted to turn left and collided with a 1996 Chevrolet truck that was traveling westbound. Mr. Davis was attempting to enter the apartment complex on the south side of the road when he failed to yield right of way. The truck made contact with the passenger side of the Forester, killing both the driver and passenger, Keaton Carnley. There were no other occupants in the Subaru. The driver of the truck suffered minor injuries. All parties were wearing their seatbelts. No charges are expected to be filed.",
     "time": "22:01:00"
   },
   {
@@ -380,7 +380,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Chou",
-        "middle": "Cheung"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -403,7 +403,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Guiling",
-        "middle": "Monroe"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -426,7 +426,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Bourgeois",
-        "middle": "Taylor"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -466,7 +466,7 @@
     "fatalities": [
       {
         "age": 19,
-        "dob": null,
+        "dob": "2019-06-19",
         "ethnicity": "Hispanic",
         "first": "",
         "gender": "Male",
@@ -495,7 +495,7 @@
         "gender": "Female",
         "generation": "",
         "last": "Trujillo",
-        "middle": "Cadena"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -541,7 +541,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Salmeron",
-        "middle": "Rogelio Andres"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -564,7 +564,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Medrano",
-        "middle": "John"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -633,7 +633,7 @@
         "gender": "Female",
         "generation": "",
         "last": "Serrano",
-        "middle": "Sage"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -656,14 +656,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Ervin",
-        "middle": "Leonard"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-29-3",
     "location": "12100 N. IH-35 NB Service road",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a tan Hyundai Elantra and a white Toyota Camry were traveling northbound near the 12100 block of N. IH-35. The driver of the Camry tried to take over the lane that the Elantra driver was in and lost control of the vehicle. Both cars slid off the roadway and the Elantra struck a tree. The driver of the Elantra, Patrick Leonard Ervin, died at the scene. The driver of the Camry was transported to a local hospital with non-life threatening injuries.",
+    "notes": "30, 1966",
     "time": "23:34:00"
   },
   {
@@ -725,7 +725,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Hendricks",
-        "middle": "Glen"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -748,7 +748,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Martinez-Vertiz",
-        "middle": "Fernando"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -771,7 +771,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Smith",
-        "middle": "Christopher"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -794,7 +794,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Walker",
-        "middle": "Wade"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -817,7 +817,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Palacios",
-        "middle": "Padilla"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -863,7 +863,7 @@
         "gender": "Male",
         "generation": "",
         "last": "O\u2019Connor",
-        "middle": "James"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -908,8 +908,8 @@
         "first": "Justin",
         "gender": "Male",
         "generation": "",
-        "last": "Smith",
-        "middle": "Allen"
+        "last": "White",
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -932,7 +932,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Forrest",
-        "middle": "Lee"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1047,7 +1047,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Vogelsass",
-        "middle": "Joseph"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1068,9 +1068,9 @@
         "ethnicity": "White",
         "first": "Daryl",
         "gender": "Male",
-        "generation": "Jr.",
+        "generation": "",
         "last": "Anderson",
-        "middle": "Wayne"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1093,7 +1093,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Lovelace",
-        "middle": "Glen"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1140,23 +1140,13 @@
         "generation": "",
         "last": "Benson",
         "middle": ""
-      },
-      {
-        "age": 27,
-        "dob": "1992-01-26",
-        "ethnicity": "Asian",
-        "first": "Aamna",
-        "gender": "Female",
-        "generation": "",
-        "last": "Najam",
-        "middle": ""
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-50-3",
-    "location": "4500 FM 2222/Mount Bonnell Road",
+    "location": "4500 FM 2222/Mount Bonnell Road Deceased",
     "longitude": 0.0,
-    "notes": "The preliminary investigation yielded testimony from witnesses who reported seeing the BMW motorcycle driven by Cedric Benson traveling at a high rate of speed westbound in the left lane of FM 2222. A white, 2014 Dodge van was stopped at the T-intersection of Mount Bonnell Road and FM 2222. After checking for oncoming traffic, the van attempted to turn left on to FM 2222 when it was struck by the oncoming motorcycle.\n\n\tThe driver of the van was evaluated by EMS on scene and refused transport. The passenger of the van and a bystander at the scene attempted to render aid to Mr. Benson and his passenger Aamna Najam. Cedric Benson and Aamna Najam were both pronounced on scene.\n\n\tThe van driver remained on scene and is cooperating with the ongoing investigation.\n\n\tThe family of Cedric Benson respectfully requests privacy during this difficult time and asks that media refrain from contacting them.",
+    "notes": "Deceased 2:  Aamna Najam | Asian female | 01/26/1992\n\tThe preliminary investigation yielded testimony from witnesses who reported seeing the BMW motorcycle driven by Cedric Benson traveling at a high rate of speed westbound in the left lane of FM 2222. A white, 2014 Dodge van was stopped at the T-intersection of Mount Bonnell Road and FM 2222. After checking for oncoming traffic, the van attempted to turn left on to FM 2222 when it was struck by the oncoming motorcycle.\n\n\tThe driver of the van was evaluated by EMS on scene and refused transport. The passenger of the van and a bystander at the scene attempted to render aid to Mr. Benson and his passenger Aamna Najam. Cedric Benson and Aamna Najam were both pronounced on scene.\n\n\tThe van driver remained on scene and is cooperating with the ongoing investigation.\n\n\tThe family of Cedric Benson respectfully requests privacy during this difficult time and asks that media refrain from contacting them.",
     "time": "22:20:00"
   },
   {
@@ -1195,7 +1185,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Washington",
-        "middle": "Wayne"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1218,7 +1208,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Velasquez",
-        "middle": "Roque &quot;Rocky&quot;"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1236,11 +1226,11 @@
       {
         "age": 25,
         "dob": "1993-09-16",
-        "ethnicity": "Hispanic",
+        "ethnicity": "Undefined",
         "first": "Felipe",
-        "gender": "Male",
+        "gender": "Undefined",
         "generation": "",
-        "last": "Ramirez",
+        "last": "Hispanic",
         "middle": ""
       }
     ],
@@ -1333,7 +1323,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Ogg",
-        "middle": "H."
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1386,7 +1376,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-60-4",
     "location": "9000 block of S. Congress Avenue",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that the white, 2018 Toyota RAV-4 driven by Callison was traveling southbound in the outside lane in the 9000 block of S. Congress when she struck Christian Livingson. Mr. Livingston was walking in the roadway rather than on the east curb line sidewalk available to him. He was pronounced deceased at the scene.\n\n\tDebrah Callison remained on scene. She was found to be intoxicated and was arrested for DWI. There are no additional charges anticipated at this time.\n Debrah Callison",
+    "notes": "Arrested:      Debrah Callison | White female | 69 years of age\n\tThe preliminary investigation shows that the white, 2018 Toyota RAV-4 driven by Callison was traveling southbound in the outside lane in the 9000 block of S. Congress when she struck Christian Livingson. Mr. Livingston was walking in the roadway rather than on the east curb line sidewalk available to him. He was pronounced deceased at the scene.\n\n\tDebrah Callison remained on scene. She was found to be intoxicated and was arrested for DWI. There are no additional charges anticipated at this time.\n Debrah Callison",
     "time": "20:23:00"
   },
   {
@@ -1402,7 +1392,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Woosley",
-        "middle": "Jay"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1425,7 +1415,7 @@
         "gender": "Male",
         "generation": "",
         "last": "III",
-        "middle": "Dewayne Brewster"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
@@ -1448,7 +1438,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Granado-Godoy",
-        "middle": "Antonio"
+        "middle": ""
       }
     ],
     "latitude": 0.0,
