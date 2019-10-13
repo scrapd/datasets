@@ -68,8 +68,7 @@ def merge(old, new, update):
     for entry in old_dict:
         old_entry = old_dict.get(entry)
         new_entry = new_dict.pop(entry, None)
-        if new_entry:
-            old_entry = new_entry.copy()
+        old_entry.update(new_entry)
         final_dict[entry] = old_entry
 
     final_dict.update(new_dict)

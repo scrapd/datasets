@@ -1,87 +1,164 @@
 [
   {
     "case": "18-0041689",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 1,
+    "date": "2018-01-04",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1994-11-27",
+        "ethnicity": "Hispanic",
+        "first": "Ashley",
+        "gender": "Female",
+        "generation": "",
+        "last": "Martinez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.315355,
-    "link": "",
-    "location": "5600 block n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-1-2",
+    "location": "5600 N IH 35 Northbound",
     "longitude": -97.70766,
-    "notes": "",
-    "time": "23:25:00"
+    "notes": "Eloy Herrera, Hispanic male (D.O.B. 4-9-02)",
+    "time": "23:57:00"
   },
   {
     "case": "18-0241249",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 3,
+    "date": "2018-01-24",
+    "fatalities": [
+      {
+        "age": 54,
+        "dob": "1963-07-20",
+        "ethnicity": "White",
+        "first": "Manuel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Gouveia",
+        "middle": ""
+      }
+    ],
     "latitude": 30.414118,
-    "link": "",
-    "location": "500 blk e howard ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-3-3",
+    "location": "508 E. Howard Lane",
     "longitude": -97.654502,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a red, 1998 Ford F-150 was traveling westbound on Howard Lane in the left lane. A black, 2011 Harley Davidson Motorcycle came out of a private drive located at 508 E. Howard lane. There is an intersection at this location and a stop sign. As the motorcycle exited the private driveway, it pulled directly in front of the F-150. The F-150 tried to avoid hitting the motorcycle by slamming on the brakes, but was not successful. The driver of the motorcycle was transported to Round Rock Hospital but was pronounced deceased shortly after arriving. \n\n\tThis case is still being investigated.",
     "time": "18:31:00"
   },
   {
     "case": "18-0280382",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 4,
+    "date": "2018-01-28",
+    "fatalities": [
+      {
+        "age": 42,
+        "dob": "1975-11-25",
+        "ethnicity": "Black",
+        "first": "Charles",
+        "gender": "Male",
+        "generation": "",
+        "last": "Kagai",
+        "middle": ""
+      }
+    ],
     "latitude": 30.245719,
-    "link": "",
-    "location": "3600 s mopac expy sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-4-5",
+    "location": "3600 S. Mopac Frontage Rd Sb",
     "longitude": -97.807409,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2011 Toyota 4Runner was traveling southbound on the frontage road of Mopac in the 3600 block when it left the roadway. The 4Runner continued southbound in the grass median until it hit several trees that eventually stopped the vehicle. The vehicle caught fire as a result of the crash killing the driver who was the only occupant.\n\tThis case is still being investigated.",
     "time": "05:00:00"
   },
   {
     "case": "18-0290542",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 6,
+    "date": "2018-01-29",
+    "fatalities": [
+      {
+        "age": 58,
+        "dob": "1959-10-14",
+        "ethnicity": "Hispanic",
+        "first": "Leonel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hernandez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.195555,
-    "link": "",
-    "location": "4805 teri rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-6-5",
+    "location": "4800 block of Teri Rd.",
     "longitude": -97.741091,
-    "notes": "",
-    "time": "12:18:00"
+    "notes": "On Monday, January 29, 2018 at approximately 10:42 a.m., officers and EMS responded to an injured bicyclist lying in a yard in the 4800 block of Teri Rd. Officers assisted as EMS attended to the victim who had significant trauma to his head. Witnesses reported seeing the victim dragging a damaged bicycle just prior to him collapsing. Based on the preliminary investigation, detectives believe Hernandez was likely struck by a vehicle.\n\n\tThe victim, who has been identified as Leonel Hernandez, died at a local hospital on Wednesday, January 31, 2018.\n\n\tThis case is still being investigated.",
+    "time": "10:42:00"
   },
   {
     "case": "18-0301394",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 5,
+    "date": "2018-01-30",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1989-08-30",
+        "ethnicity": "Hispanic",
+        "first": "Alma",
+        "gender": "Female",
+        "generation": "",
+        "last": "Hernandez-Jaimes",
+        "middle": ""
+      }
+    ],
     "latitude": 30.337206,
-    "link": "",
-    "location": "1650 e anderson ln eb",
+    "link": "http://austintexas.gov/news/traffic-fatality-5-6",
+    "location": "1650 E. Anderson Lane",
     "longitude": -97.696643,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a gray, 2000 Lexus stopped for unknown reasons on the US Hwy 290 E. Toll entrance ramp with no vehicle lights illuminated. The driver of the Lexus was seen standing on the passenger side of her vehicle near the opened passenger door. A red, 2013 Nissan Altima struck the Lexus, which forced the driver of the Lexus into the stopped vehicle.\n\tThe driver of the Lexus sustained serious bodily injuries requiring emergency medical transport. The driver of the Altima and their passenger sustained non-life threatening injuries.\n\tThe driver of the Lexus who has been identified as, Alma Rosa Hernandez-Jaimes, succumbed to her injuries on Thursday, February 1, 2018.\n\tThis case is still being investigated.",
     "time": "22:49:00"
   },
   {
     "case": "18-0371243",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 8,
+    "date": "2018-02-06",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1979-11-17",
+        "ethnicity": "Hispanic",
+        "first": "Mark",
+        "gender": "Male",
+        "generation": "",
+        "last": "Rodriguez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.220213,
-    "link": "",
-    "location": "7300 e riverside dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-8-3",
+    "location": "7300 block E. Riverside Dr.",
     "longitude": -97.693544,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a yellow, 2013 Chrysler 300 was traveling eastbound in the 7300 block of E. Riverside Dr. in the center lane. A pedestrian was crossing mid-block walking southbound across E. Riverside Dr. when he was struck by the Chrysler 300.\nThe pedestrian who has been identified as, Mark Antonio Rodriguez was transported to South Austin Medical Center where he later succumbed to his injuries on Wednesday, February 14, 2018.\nThis case is still being investigated.",
     "time": "19:07:00"
   },
   {
     "case": "18-0400212",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 7,
+    "date": "2018-02-09",
+    "fatalities": [
+      {
+        "age": 45,
+        "dob": "1972-10-15",
+        "ethnicity": "White",
+        "first": "Timothy",
+        "gender": "Male",
+        "generation": "",
+        "last": "Boykin",
+        "middle": ""
+      }
+    ],
     "latitude": 30.293554,
-    "link": "",
-    "location": "red river st / luther ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-7-3",
+    "location": "3400 block Red River Street",
     "longitude": -97.725208,
-    "notes": "",
-    "time": "03:07:00"
+    "notes": "Arrested:       Olivia Madeleine Hamalainen Gruwell, White female (21 years of age)\n\tThe preliminary investigation shows that a maroon, 1996 Yamaha moped was traveling northbound in the right lane of the 3400 block of Red River Street. A silver, 2012 Jeep Wrangler was also northbound in the right lane of Red River Street. The Wrangler failed to maintain an assured clear distance, striking the moped and failing to stop and render aid. The Wrangler continued driving northbound on Red River Street.\n\n\tThe Wrangler driver was later located in the 900 block of E. 37th Street. The driver, who officers determined to be intoxicated, has been identified as 21-year-old Olivia Madeleine Hamalainen Gruwell. Gruwell has been charged with failure to stop and render aid and intoxication manslaughter.\n\n\tThe moped driver identified as Timothy Wayne Boykin, was located in the 3500 block of Red River Street, where he was pronounced deceased.\n\n\tThis case is still being investigated.",
+    "time": "03:05:00"
   },
   {
     "case": "18-0481",
@@ -131,770 +208,1474 @@
   },
   {
     "case": "18-0541731",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 10,
+    "date": "2018-02-23",
+    "fatalities": [
+      {
+        "age": 20,
+        "dob": "1997-06-28",
+        "ethnicity": "Other",
+        "first": "Josman",
+        "gender": "Male",
+        "generation": "",
+        "last": "James",
+        "middle": ""
+      }
+    ],
     "latitude": 30.289229,
-    "link": "",
-    "location": "6500 decker ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-10-3",
+    "location": "6400 block of Decker Lane",
     "longitude": -97.629246,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a tan, 2004 Cadillac CTS and a maroon, 2005 Nissan Murano driven by Josman James were both northbound on Decker Lane approaching Loyola when the Cadillac struck the Murano, pushing it into the southbound lanes where it collided with a maroon, 2006 Cadillac DTS.\n\n\tThe driver of the 2004 Cadillac CTS, Ashley Shelsea Rodriguez-Dominguez, age 19, fled on foot, but was later located by patrol officers. She has been charged with Accident Involving Death (Failure to Stop and Render Aid).\n\n\tJames was transported to Dell Seton where he was pronounced deceased.\n Ashley Shelsea Rodriguez-Dominguez\n\tThe case is still being investigated at this time.",
     "time": "22:32:00"
   },
   {
     "case": "18-0700966",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 15,
+    "date": "2018-03-11",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.315459,
-    "link": "",
-    "location": "1100 n capital of texas hwy nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-15-3",
+    "location": "1100 N Capital of Texas Highway NB",
     "longitude": -97.826068,
-    "notes": "",
-    "time": "14:38:00"
+    "notes": "The preliminary investigation shows that the unidentified male was driving a 2003, Honda Accord when he struck a light pole at the corner of N Capital of Texas Highway and Pascal Lane at approximately 2:35 p.m. The driver was pronounced deceased at the scene. \n\n\tThe case is still being investigated at this time.",
+    "time": "14:35:00"
   },
   {
     "case": "18-0721247",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 12,
+    "date": "2018-03-13",
+    "fatalities": [
+      {
+        "age": 50,
+        "dob": "1967-05-18",
+        "ethnicity": "White",
+        "first": "Jack",
+        "gender": "Male",
+        "generation": "",
+        "last": "Krupski",
+        "middle": ""
+      }
+    ],
     "latitude": 30.419407,
-    "link": "",
-    "location": "w howard ln / mc callen pass",
+    "link": "http://austintexas.gov/news/traffic-fatality-12-3",
+    "location": "500 W. Howard Ln.",
     "longitude": -97.660947,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a red, 1981 Chevrolet Corvette veered left for an unknown reason in the 500 block of W Howard Ln. The Corvette struck the raised curb before sliding across a large median, clearing a well-established tree as it did so. The Corvette re-entered the roadway perpendicular to the eastbound side of W. Howard Ln. at which point a dark grey, 2015 Chevrolet Colorado struck the passenger side. The significant distance covered by the Corvette indicates the victim, identified as Jack Krupski, was travelling at a high rate of speed.\n\n\tJack Krupski was transported to Round Rock Hospital, where he was pronounced deceased. The driver of the Chevrolet Colorado sustained minor injuries that did not require medical treatment.\n\n\tThe case is still being investigated at this time.",
     "time": "16:31:00"
   },
   {
     "case": "18-0741868",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 13,
+    "date": "2018-03-15",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.252381,
-    "link": "",
-    "location": "20 block ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-13-3",
+    "location": "20 N. IH-35 Northbound",
     "longitude": -97.736178,
-    "notes": "",
-    "time": "20:45:00"
+    "notes": "Officers responded to a report of a deceased, Hispanic male, lying in the middle lane of 20 N. IH-35 Northbound. The trauma to the victim\u2019s body was consistent with being struck by a motor vehicle. The vehicle did not remain on scene and no witnesses have come forward with information.\n\n\tThe case is still being investigated at this time.",
+    "time": "20:48:00"
   },
   {
     "case": "18-0840342",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 14,
+    "date": "2018-03-25",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1994-06-09",
+        "ethnicity": "Black",
+        "first": "Zachary",
+        "gender": "Male",
+        "generation": "",
+        "last": "McBride",
+        "middle": ""
+      }
+    ],
     "latitude": 30.190415,
-    "link": "",
-    "location": "10300 s mopac expy nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-14-4",
+    "location": "10200 S Mopac Expressway Northbound",
     "longitude": -97.873301,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Zachary Douglas McBride was travelling southbound in the northbound lane of S. Mopac in a red, 1985 Chevrolet Pickup when he struck a concrete construction barricade near La Crosse Avenue. McBride was pronounced deceased at the scene.    \n\n\tThe case is still being investigated at this time.",
     "time": "04:31:00"
   },
   {
     "case": "18-0990064",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 16,
+    "date": "2018-04-09",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "1999-11-15",
+        "ethnicity": "Hispanic",
+        "first": "Juan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Luna",
+        "middle": ""
+      }
+    ],
     "latitude": 30.193076,
-    "link": "",
-    "location": "6600 s congress ave",
+    "link": "http://austintexas.gov/news/traffic-fatality-16-3",
+    "location": "6600 S. Congress Avenue",
     "longitude": -97.778818,
-    "notes": "",
+    "notes": "The preliminary investigation shows that the 2010, Infiniti G37 driven by Luna was traveling north in the 6600 block of S. Congress when he lost control and struck a bus stop. Speed is believed to be a contributing factor. The driver was pronounced deceased at the scene and the passenger was transported to a local hospital with serious injuries.\n\n\tThe case is still being investigated at this time.",
     "time": "01:09:00"
   },
   {
     "case": "18-1010078",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 17,
+    "date": "2018-04-11",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1985-02-05",
+        "ethnicity": "Hispanic",
+        "first": "Afshin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sustaita",
+        "middle": ""
+      }
+    ],
     "latitude": 30.168472,
-    "link": "",
-    "location": "8900 block s ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-17-3",
+    "location": "8900 block of S. I-35 NB",
     "longitude": -97.784918,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Afshin Sustaita attempted to cross eastbound in the 8900 block of S. I-35 NB on foot when he was struck by a 2009, blue Nissan Altima travelling northbound in the outside lane of traffic. Sustaita was transported to a local hospital where he was pronounced deceased.\n\n\tThe case is still being investigated at this time.",
     "time": "01:15:00"
   },
   {
     "case": "18-1021241",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 18,
+    "date": "2018-04-12",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1992-02-23",
+        "ethnicity": "White",
+        "first": "Ethan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Childress",
+        "middle": ""
+      }
+    ],
     "latitude": 30.247001,
-    "link": "",
-    "location": "8220 w sh 71",
+    "link": "http://austintexas.gov/news/traffic-fatality-18-3",
+    "location": "8200 block of W. SH 71",
     "longitude": -97.888308,
-    "notes": "",
+    "notes": "The preliminary investigation shows that the blue, 1999 Yamaha motorcycle operated by Ethan Childress was travelling westbound when it collided with a grey, 2001 Toyota Rav4. The driver of the Rav4 failed to yield right of way while attempting to turn left (southbound to eastbound) out of a private drive. Childress was transported to a local hospital where he would pronounced deceased.\n\n\tThe case is still being investigated at this time.",
     "time": "17:39:00"
   },
   {
     "case": "18-1060143",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 19,
+    "date": "2018-04-16",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1990-10-17",
+        "ethnicity": "White",
+        "first": "Dean",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hood",
+        "middle": ""
+      }
+    ],
     "latitude": 30.26123,
-    "link": "",
-    "location": "n ih 35 svrd sb / e cesar chavez",
+    "link": "http://austintexas.gov/news/traffic-fatality-19-4",
+    "location": "100 block of N. IH-35 frontage SB",
     "longitude": -97.736767,
-    "notes": "",
-    "time": "02:24:00"
+    "notes": "The preliminary investigation shows that a red, 2013 Volvo 4-door was travelling southbound in the center lane approaching the Cesar Chavez intersection in the 100 block of N. IH-35 frontage followed by a black, 2016 Hyundai Elantra driven by Kelsi Weatherby. A red, 2013 Chrysler 200 4-door, driven by Devin Nethery, struck the Elantra from behind causing damage to all three vehicles.\n\n\tNethery and Weatherby were both transported to a local hospital with non-life threatening injuries. Dean Hood was pronounced deceased at the scene.\n\n\tDevin Nethery, age 22, has been charged with intoxication manslaughter. Kelsi Weatherby, age 27, was arrested for DWI. Nethery\u2019s booking photo is not yet available. Weatherby\u2019s is included below.\n\n\tThe case is still being investigated at this time.",
+    "time": "02:43:00"
   },
   {
     "case": "18-1110273",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 20,
+    "date": "2018-04-21",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1986-06-24",
+        "ethnicity": "White",
+        "first": "Dystany",
+        "gender": "Female",
+        "generation": "",
+        "last": "Farrias",
+        "middle": ""
+      }
+    ],
     "latitude": 30.175964,
-    "link": "",
-    "location": "8110 s ih 35 svrd sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-20-3",
+    "location": "8110 S. IH 35 southbound service road",
     "longitude": -97.780688,
-    "notes": "",
-    "time": "05:37:00"
+    "notes": "The preliminary investigation shows that a pedestrian was walking southbound in the 8100 block of South IH 35 service road near the right shoulder but partially in the lane of travel. A 2001, silver Chevrolet pickup was traveling southbound in the right lane when it struck the pedestrian with the right, front quarter panel area of the vehicle. The pedestrian was pronounced deceased at the scene. The driver remained on scene and did not sustain any injuries.\n\n\tThe case is still being investigated.",
+    "time": "03:41:00"
   },
   {
     "case": "18-1210147",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 21,
+    "date": "2018-05-01",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1990-06-09",
+        "ethnicity": "White",
+        "first": "Marissa",
+        "gender": "Female",
+        "generation": "",
+        "last": "Rodriguez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.208448,
-    "link": "",
-    "location": "700 w stassney ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-21-2",
+    "location": "700 W. Stassney Ln.",
     "longitude": -97.781513,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a blue, 2004 Nissan Maxima was traveling westbound in the 700 block of West Stassney Lane when it left the roadway for unknown reasons and struck a utility pole. The driver was transported to St. David\u2019s South Austin Hospital with life-threatening injuries. She died later that morning. The case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-5576. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s twenty-first fatal traffic crash of 2018, resulting in twenty-two fatalities this year. At this time in 2017, there were twenty-five fatal traffic crashes and twenty-six traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
     "time": "02:50:00"
   },
   {
     "case": "18-1270120",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 22,
+    "date": "2018-05-07",
+    "fatalities": [
+      {
+        "age": 60,
+        "dob": "1957-11-07",
+        "ethnicity": "White",
+        "first": "Robert",
+        "gender": "Male",
+        "generation": "",
+        "last": "Copeland",
+        "middle": ""
+      }
+    ],
     "latitude": 30.342328,
-    "link": "",
-    "location": "7800 n ih 35 svrd sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-22-2",
+    "location": "7900 N. IH 35 service road southbound",
     "longitude": -97.698495,
-    "notes": "",
+    "notes": "Arrested:       Rafael Padilla, Hispanic male (28 years of age)\n\n\tThe preliminary investigation shows that a black 2012 Jeep Grand Cherokee was traveling southbound in the right lane of the N. IH 35 southbound service road just south of Wonsley Dr. and struck a man in a wheelchair. The victim was in the right lane of travel on the service road. It is unknown why he was in the roadway. The victim was pronounced deceased at the scene. The driver of the Jeep fled the scene and was arrested at a later time based on a CrimeStoppers Tip.\n\n\tThe case is still being investigated.",
     "time": "02:10:00"
   },
   {
     "case": "18-1410188",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 23,
+    "date": "2018-05-21",
+    "fatalities": [
+      {
+        "age": 48,
+        "dob": "1969-07-08",
+        "ethnicity": "Black",
+        "first": "Carolyn",
+        "gender": "Female",
+        "generation": "",
+        "last": "Conner",
+        "middle": ""
+      }
+    ],
     "latitude": 30.31843,
-    "link": "",
-    "location": "5800 n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-23-2",
+    "location": "5800 block of North IH 35, northbound proper",
     "longitude": -97.707128,
-    "notes": "",
-    "time": "04:23:00"
+    "notes": "The preliminary investigation shows that a 2011, Peterbuilt 18-wheeler was traveling northbound in the right lane of the 5800 block of N. IH 35, northbound. It appears that a pedestrian was crossing the highway from west to east and was struck by the front left portion of the 18-wheeler. The female was pronounced deceased at the scene. The driver of the 18-wheeler stopped and stayed on scene. No charges are expected to be filed at this time.\n\n\tThe case is still being investigated.",
+    "time": "04:22:00"
   },
   {
     "case": "18-1460542",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 24,
+    "date": "2018-05-26",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "1999-07-14",
+        "ethnicity": "Black",
+        "first": "Sean",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bodie",
+        "middle": ""
+      }
+    ],
     "latitude": 30.280828,
-    "link": "",
-    "location": "7600 fm 969 rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-24-4",
+    "location": "7600 block of FM 969",
     "longitude": -97.647999,
-    "notes": "",
-    "time": "09:42:00"
+    "notes": "The preliminary investigation shows that a tan, 2000, Toyota Camry was traveling eastbound on FM 969 when it hit the rail road tracks at a high rate of speed and lost control. The vehicle entered into the westbound lanes where it was struck by a white, 2011, Ford F-250.\n\n\tThe driver of the Toyota Camry was pronounced deceased at the scene.\n\n\tThe occupants of the Ford F-250 were taken to area hospitals for what are believed to be minor.\n\n\tThe case is still being investigated.",
+    "time": "09:41:00"
   },
   {
     "case": "18-1581683",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 25,
+    "date": "2018-06-07",
+    "fatalities": [
+      {
+        "age": 57,
+        "dob": "1960-12-28",
+        "ethnicity": "White",
+        "first": "Bret",
+        "gender": "Male",
+        "generation": "",
+        "last": "Treadway",
+        "middle": ""
+      }
+    ],
     "latitude": 30.26561,
-    "link": "",
-    "location": "airport / springdale",
+    "link": "http://austintexas.gov/news/traffic-fatality-25-3",
+    "location": "Airport Blvd. and Springdale Rd.",
     "longitude": -97.695509,
-    "notes": "",
-    "time": "21:19:00"
+    "notes": "The preliminary investigation shows that a white, 2009 Buick was traveling southbound on Airport Blvd., in the outside lane, approaching a green light at the intersection of Springdale Rd. A pedestrian entered the roadway north of the intersection and was struck by the Buick. Bret Treadway was transported to Dell Seton Medical Center at the University of Texas and was pronounced deceased at 9:52 p.m.\n\n\tThe driver of the Buick stopped and stayed on scene. No charges are expected at this time.\n\n\tThe case is still being investigated.",
+    "time": "21:18:00"
   },
   {
     "case": "18-1591949",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 28,
+    "date": "2018-06-09",
+    "fatalities": [
+      {
+        "age": 56,
+        "dob": "1961-07-20",
+        "ethnicity": "White",
+        "first": "Cheryl",
+        "gender": "Female",
+        "generation": "",
+        "last": "Kelly",
+        "middle": ""
+      }
+    ],
     "latitude": 30.302631,
-    "link": "",
-    "location": "7700 decker",
+    "link": "http://austintexas.gov/news/traffic-fatality-28-2",
+    "location": "7700 block of Decker Lane",
     "longitude": -97.620607,
-    "notes": "",
-    "time": "22:41:00"
+    "notes": "The preliminary investigation shows that a black, Harley Davidson motorcycle, was northbound, inside lane, near the 7700 block of Decker Lane. An orange Harley Davidson was also traveling northbound and slowed to make a U-turn. The black motorcycle struck the orange motorcycle from behind.\n\n\tThe driver of the black motorcycle was taken to the hospital with non-life threatening injuries. His passenger, identified as Cheryl Kelly, 56, was transported to Dell Seton with critical injuries. Kelly succumbed to her injuries June 12, 2018, and was pronounced deceased at 3:43 p.m.\n\n\tAlcohol was not considered a factor in the collision. This is Austin\u2019s 28th fatal traffic crash of 2018, resulting in 29 fatalities this year. At this time in 2017, there were 29 fatal traffic crashes and 31 traffic fatalities.",
+    "time": "22:20:00"
   },
   {
     "case": "18-160882",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 2,
+    "date": "2018-01-16",
+    "fatalities": [
+      {
+        "age": 57,
+        "dob": "1961-01-22",
+        "ethnicity": "White",
+        "first": "Eva",
+        "gender": "Female",
+        "generation": "",
+        "last": "Gonzales",
+        "middle": ""
+      }
+    ],
     "latitude": 30.173933,
-    "link": "",
-    "location": "",
+    "link": "http://austintexas.gov/news/traffic-fatality-2-2",
+    "location": "1500 W. Slaughter Lane",
     "longitude": -97.81806,
-    "notes": "",
-    "time": null
+    "notes": "(passenger)",
+    "time": "17:14:00"
   },
   {
     "case": "18-1610266",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 27,
+    "date": "2018-06-10",
+    "fatalities": [
+      {
+        "age": 50,
+        "dob": "1967-10-22",
+        "ethnicity": "White",
+        "first": "Mark",
+        "gender": "Male",
+        "generation": "",
+        "last": "Capistran",
+        "middle": ""
+      }
+    ],
     "latitude": 30.298567,
-    "link": "",
-    "location": "7300 decker ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-27-3",
+    "location": "7300 block Decker Lane",
     "longitude": -97.623247,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2011 Harley Davidson motorcycle stopped facing westbound in the 7300 block of Decker Lane. A tan, 2011, Buick Lacrosse was traveling northbound in the 7300 block of Decker Lane when it struck the motorcycle. The driver of the motorcycle, Mark Capistran, was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries. He passed away on Monday, June 11, 2018 at 1:21 p.m.\n\n\tThe driver of the Buick stopped and stayed on scene. No charges are expected at this time.\n\n\tThe case is still being investigated.",
     "time": "03:03:00"
   },
   {
     "case": "18-1611120",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 26,
+    "date": "2018-06-10",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1995-07-23",
+        "ethnicity": "Hispanic",
+        "first": "Jonathan",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.335029,
-    "link": "",
-    "location": "harris branch pkwy / e us 290 hwy svrd wb",
+    "link": "http://austintexas.gov/news/traffic-fatality-26-2",
+    "location": "E US 290 and Harris Branch Parkway",
     "longitude": -97.607618,
-    "notes": "",
-    "time": "16:48:00"
+    "notes": "The preliminary investigation shows that a black, 2004 Infiniti G35 traveling northbound on Harris Branch Parkway collided with a white, 18-wheeler on the westbound 290 frontage road. The crash occurred in an intersection controlled by a traffic light. The male driving the G35 died at the scene while the driver of the 18-wheeler was transported with non-life threatening injuries.\n\n\tThe case is still being investigated.",
+    "time": "16:47:00"
   },
   {
     "case": "18-1642041",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 29,
+    "date": "2018-06-13",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1980-05-21",
+        "ethnicity": "Black",
+        "first": "Michael",
+        "gender": "Male",
+        "generation": "",
+        "last": "Watson",
+        "middle": ""
+      }
+    ],
     "latitude": 30.276482,
-    "link": "",
-    "location": "springdale / webberville",
+    "link": "http://austintexas.gov/news/traffic-fatality-29-2",
+    "location": "Intersection of Springdale Road and Webberville Road",
     "longitude": -97.688539,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Michael Watson lost control of the black, 2018 Indian motorcycle he was driving northbound, on Springdale Road. He struck the west curb of Springdale Road before hitting the north curb on Webberville Road and then crashed into a utility pole. Watson was thrown from the motorcycle.\n\n\tHe was transported to Dell Seton Medical Center at the University of Texas, but succumbed to his injuries and was pronounced deceased at 11:22 a.m. on Wednesday, June 20, 2018.",
     "time": "23:26:00"
   },
   {
     "case": "18-1901077",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 31,
+    "date": "2018-07-09",
+    "fatalities": [
+      {
+        "age": 30,
+        "dob": "1988-04-28",
+        "ethnicity": "Asian",
+        "first": "Pinkeshkumar",
+        "gender": "Male",
+        "generation": "",
+        "last": "Patel",
+        "middle": ""
+      }
+    ],
     "latitude": 30.269339,
-    "link": "",
-    "location": "1389 w cesar chavez",
+    "link": "http://austintexas.gov/news/traffic-fatality-31-2",
+    "location": "1500 W Cesar Chavez St.",
     "longitude": -97.761409,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a blue 2009 Honda Civic was traveling eastbound on W. Cesar Chavez St. A black 2015 Ford F150 truck was traveling westbound on W. Cesar Chavez. The Honda Civic lost control in the 1500 block and veered into the path of the Ford F150.\n\n\tThe driver of the Honda Civic, Pinkeshkumar Dineshbhai Patel, was pronounced dead at the scene.\n\n\tThe driver of the Ford F150 was trasported to Dell Seton Medical Center at the University of Texas with minor injuries.",
     "time": "15:43:00"
   },
   {
     "case": "18-1941661",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 32,
+    "date": "2018-07-13",
+    "fatalities": [
+      {
+        "age": 58,
+        "dob": "1960-07-06",
+        "ethnicity": "White",
+        "first": "Troy",
+        "gender": "Male",
+        "generation": "",
+        "last": "Fisher",
+        "middle": ""
+      }
+    ],
     "latitude": 30.36487,
-    "link": "",
-    "location": "800 rutland dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-32-4",
+    "location": "800 block of Rutland Dr.",
     "longitude": -97.695997,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 1997 Toyota 4Runner was traveling westbound in the outside lane of traffic in the 800 block of Rutland Dr.\n\n\tA pedestrian, identified as Troy Dean Fisher, was attempting to cross Rutland Drive north curb southbound to the south curb. He was not in the crosswalk and was struck by the Toyota 4Runner.\n\n\tTroy Dean Fisher was transported to Dell Seton Medical Center at the University of Texas and was pronounced deceased at 9:38 p.m.",
     "time": "21:05:00"
   },
   {
     "case": "18-1960333",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 35,
+    "date": "2018-07-15",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1990-01-02",
+        "ethnicity": "Black",
+        "first": "Jacoby",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bailey",
+        "middle": ""
+      }
+    ],
     "latitude": 30.294971,
-    "link": "",
-    "location": "3500 block n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-35-2",
+    "location": "3500 N IH 35",
     "longitude": -97.719588,
-    "notes": "",
-    "time": "07:14:00"
+    "notes": "The preliminary investigation shows that a 2005 white Infinity and a white 2015 International pulling a white 2006 trailer were traveling southbound on N IH 35 in the lower deck. The Infinity failed to maintain an assured clear distance and struck the trailer.\n\n\tThe driver of the Infinity was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries on Monday, July 23, 2018.\n\n\tNo charges are expected against the driver of the trailer.",
+    "time": "04:01:00"
   },
   {
     "case": "18-2040297",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 33,
+    "date": "2018-07-23",
+    "fatalities": [
+      {
+        "age": 37,
+        "dob": "1981-03-20",
+        "ethnicity": "Other",
+        "first": "Scott",
+        "gender": "Male",
+        "generation": "",
+        "last": "Whiting",
+        "middle": ""
+      }
+    ],
     "latitude": 30.439205,
-    "link": "",
-    "location": "5700 w parmer lane",
+    "link": "http://austintexas.gov/news/traffic-fatality-33-4",
+    "location": "5700 W. Parmer Ln.",
     "longitude": -97.738552,
-    "notes": "",
-    "time": "06:29:00"
+    "notes": "The preliminary investigation shows that a pedestrian was walking eastbound on the south curb line of the 5700 block of Parmer Lane when an unknown vehicle, also traveling eastbound, struck him. It is unknown if the pedestrian was walking in the bicycle lane or the grassy shoulder when he was struck.\n\n\tThe vehicle that struck the pedestrian fled the scene and remains unidentified. The pedestrian, identified as Scott Gerald Whiting, died on scene.",
+    "time": "06:30:00"
   },
   {
     "case": "18-2041737",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 34,
+    "date": "2018-07-23",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1992-02-29",
+        "ethnicity": "Other",
+        "first": "Brandon",
+        "gender": "Male",
+        "generation": "",
+        "last": "Buentello",
+        "middle": ""
+      }
+    ],
     "latitude": 30.174329,
-    "link": "",
-    "location": "7612 bluff springs",
+    "link": "http://austintexas.gov/news/traffic-fatality-34-3",
+    "location": "7612 Bluff Springs Rd.",
     "longitude": -97.769418,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white 1989 Honda motorcycle was traveling southbound on Bluff Springs Road when a blue 2012 Toyota Prius turned in front of it. The Prius was traveling northbound on Bluff Springs Road and attempting to turn left into the convenience store parking lot located in the 7600 block. The driver of the motorcycle was transported to St. David\u2019s South Austin Hospital where he died as a result of his injuries.\n\n\tThe driver of the motorcycle, Brandon Thomas Buentello, was transported to St. David\u2019s South Austin Hospital where he later died as a result of his injuries.\n\n\tNo charges are pending against the driver of the Prius.",
     "time": "22:20:00"
   },
   {
     "case": "18-2070435",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 36,
+    "date": "2018-07-26",
+    "fatalities": [
+      {
+        "age": 50,
+        "dob": "1967-10-12",
+        "ethnicity": "Hispanic",
+        "first": "Luis",
+        "gender": "Male",
+        "generation": "",
+        "last": "Landeros",
+        "middle": ""
+      }
+    ],
     "latitude": 30.336078,
-    "link": "",
-    "location": "1000 block e anderson ln eb svrd",
+    "link": "http://austintexas.gov/news/traffic-fatality-36-2",
+    "location": "1100 block E. Anderson Ln. westbound service road",
     "longitude": -97.693189,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a pedestrian was walking eastbound on the side walk along the north curb line of E. Anderson Ln. A 2018 black Mitsubishi Mirage was traveling westbound on E. Anderson Ln. when the driver of the vehicle lost control. The vehicle jumped the curb and struck the pedestrian with its right front.\n\n\tThe pedestrian was transported to Dell Seton Medical center, and was later identified as Luis Cristobal Landeros. Mr. Landeros succumbed to his injuries shortly after and was pronounced deceased at 9:19 a.m.",
     "time": "08:40:00"
   },
   {
     "case": "18-2080287",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 37,
+    "date": "2018-07-27",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1994-11-04",
+        "ethnicity": "White",
+        "first": "David",
+        "gender": "Male",
+        "generation": "",
+        "last": "O\u2019Beirne",
+        "middle": ""
+      }
+    ],
     "latitude": 30.26398,
-    "link": "",
-    "location": "500 blk of n ih 35 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-37-3",
+    "location": "500 block N IH 35 southbound",
     "longitude": -97.735372,
-    "notes": "",
-    "time": "21:17:00"
+    "notes": "The preliminary investigation shows that a pedestrian was walking westbound across the 500 block of N IH 35 proper. The pedestrian was then struck by a 2007 green Mack truck tractor that was traveling southbound in the outside lane.\n\n\tThe pedestrian, identified as David O\u2019Berine, was pronounced deceased at the scene.",
+    "time": "05:29:00"
   },
   {
     "case": "18-2101672",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 38,
+    "date": "2018-07-29",
+    "fatalities": [
+      {
+        "age": 63,
+        "dob": "1955-07-03",
+        "ethnicity": "Black",
+        "first": "Tennie",
+        "gender": "Male",
+        "generation": "",
+        "last": "Ross",
+        "middle": ""
+      }
+    ],
     "latitude": 30.153267,
-    "link": "",
-    "location": "manchaca rd / fort view rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-38-2",
+    "location": "11600 block Manchaca Rd.",
     "longitude": -97.833266,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a pedestrian was standing in the southbound lane of traffic in the 11600 block of Manchaca Rd. when he was struck by a 2005 white Chevorlet pickup traveling southbound in the same lane.\n\n\tThe pedestrian, identified as Tennie Ross, and was pronounced deceased at the scene.",
     "time": "22:36:00"
   },
   {
     "case": "18-2130392",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 39,
+    "date": "2018-08-01",
+    "fatalities": [
+      {
+        "age": 40,
+        "dob": "1977-11-15",
+        "ethnicity": "Hispanic",
+        "first": "Ernesto",
+        "gender": "Male",
+        "generation": "",
+        "last": "Garcia",
+        "middle": ""
+      }
+    ],
     "latitude": 30.226975,
-    "link": "",
-    "location": "600 w ben white blvd svrd eb",
+    "link": "http://austintexas.gov/news/traffic-fatality-39-3",
+    "location": "600 block of W. Ben White",
     "longitude": -97.76918,
-    "notes": "",
+    "notes": "Both the suspect vehicle and suspect are now in the Austin Police Department's (APD) custody from yesterday's fatal crash incident that occurred in the 600 block of W. Ben White. Suspect Darrell Smitty, 52, booking photo is pictured below. He's being charged with failure to stop and render aid. \n\tNote: Booking photo is from a 2016 arrest. \n\n\n\tThe preliminary investigation shows that a pedestrian, identified as 40-year-old Ernesto Garcia, was walking westbound near a bus stop in the 600 block of W. Ben White Service Road. The suspect driver was westbound on the service road in the right turn lane. The suspect drove straight through the intersection, onto the sidewalk, between the bus stop and a Capital Metro bus that had stopped to pick up passengers, striking the pedestrian. \n\tErnesto Garcia was pronounced deceased at the scene. \n\tThe truck came to a stop in a driveway the driver walked to where Garcia lay, then walked back to his truck and drove away. \n\tThis is Austin's 39th fatal traffic crash and 40th traffic fatality of 2018. At this time in 2017, there were 34 fatal traffic crashes and 26 traffic fatalities. This case is still being investigated.",
     "time": "07:58:00"
   },
   {
     "case": "18-2191531",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 40,
+    "date": "2018-08-07",
+    "fatalities": [
+      {
+        "age": 46,
+        "dob": "1972-06-13",
+        "ethnicity": "Black",
+        "first": "Patrick",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hilliard",
+        "middle": ""
+      }
+    ],
     "latitude": 30.319215,
-    "link": "",
-    "location": "7400 vintage hills dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-40-3",
+    "location": "7400 block of Vintage Hills Dr.",
     "longitude": -97.666009,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2005 Honda motorcycle was traveling northbound on Vintage Hills Dr. when the driver lost control and struck a dumpster. The driver of the motorcycle was transported to Dell Seton Medical Center at the University of Texas where he was pronounced deceased at 7:48 p.m.",
     "time": "18:52:00"
   },
   {
     "case": "18-2271613",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 45,
+    "date": "2018-08-15",
+    "fatalities": [
+      {
+        "age": 63,
+        "dob": "1955-01-12",
+        "ethnicity": "White",
+        "first": "Thomas",
+        "gender": "Male",
+        "generation": "",
+        "last": "Craig",
+        "middle": ""
+      }
+    ],
     "latitude": 30.334759,
-    "link": "",
-    "location": "6900 block guadalupe st",
+    "link": "http://austintexas.gov/news/traffic-fatality-45-4",
+    "location": "6900 Guadalupe Street",
     "longitude": -97.716408,
-    "notes": "",
-    "time": "21:17:00"
+    "notes": "The preliminary investigation shows that a 2018, silver Mitsubishi was traveling northbound in the 6900 block of Guadalupe Street when the driver collided with a pedestrian, Thomas Edward Craig, just north of the Kenniston Drive intersection. Mr. Craig was transported to Dell Seton Medical Center at the University of Texas \u2013 Seton Healthcare where he succumbed to his injuries on August 24, 2018. The driver of the vehicle remained on scene.",
+    "time": "20:17:00"
   },
   {
     "case": "18-2290031",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 41,
+    "date": "2018-08-17",
+    "fatalities": [
+      {
+        "age": 48,
+        "dob": "1969-09-10",
+        "ethnicity": "Black",
+        "first": "Felecia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Daniels",
+        "middle": ""
+      }
+    ],
     "latitude": 30.394254,
-    "link": "",
-    "location": "12100 n ih 35 svrd nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-41-3",
+    "location": "12151 N. IH-35 service road northbound",
     "longitude": -97.671294,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a white, 2012 Infinity was traveling northbound at high rate of speed in the 12000 block of N. IH-35 service rd. It left the roadway for unknown reasons, causing the vehicle to flip several times. The driver and lone occupant of the vehicle was transported to Round Rock Hospital where she died as a result of her injuries.",
     "time": "00:27:00"
   },
   {
     "case": "18-2300199",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 49,
+    "date": "2018-08-18",
+    "fatalities": [
+      {
+        "age": 19,
+        "dob": "1999-04-13",
+        "ethnicity": "Black",
+        "first": "Deemora",
+        "gender": "Female",
+        "generation": "",
+        "last": "Benson",
+        "middle": ""
+      }
+    ],
     "latitude": 30.26685,
-    "link": "",
-    "location": "720 n ih 35 svrd sb #700",
+    "link": "http://austintexas.gov/news/traffic-fatality-49-4",
+    "location": "700 N. IH 35 southbound frontage rd.",
     "longitude": -97.734654,
-    "notes": "",
-    "time": "02:33:00"
+    "notes": "Arrested:      Felipe Hernandez, Hispanic male (21 years of age)\n\n\tThe preliminary investigation shows that a pedestrian ran into the roadway after being asked if she could run fast in high heels. A 2007, maroon, GMC Yukon, traveling southbound on the frontage rd. of IH 35, approaching 7th St. struck the pedestrian, in the left lane. The Yukon left the scene but returned a short time later. The pedestrian was transported to Dell Seton Medical Center at the University of Texas for emergency medical care. Officers arrested the driver of the Yukon and charged him with fail to stop and render aid.\n\n\tThe pedestrian, Deemora Benson, died as a result of her injuries on Sunday, September 2, 2018.",
+    "time": "02:32:00"
   },
   {
     "case": "18-2330203",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 46,
+    "date": "2018-08-21",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1995-07-12",
+        "ethnicity": "White",
+        "first": "Kendall",
+        "gender": "Female",
+        "generation": "",
+        "last": "Dezelle",
+        "middle": ""
+      }
+    ],
     "latitude": 30.371187,
-    "link": "",
-    "location": "10700 n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-46-5",
+    "location": "10700 block of N. IH-35 Northbound",
     "longitude": -97.679711,
-    "notes": "",
-    "time": "06:00:00"
+    "notes": "The preliminary investigation shows that a white, 2004 Chevrolet Trailblazer was traveling northbound in the 10700 block of N. IH-35 when the vehicle left the roadway for unknown reasons and began to roll. The driver, Kendall Taylor Dezelle, and her passenger were ejected. They were both transported to Dell Seton Medical Center at the University of Texas \u2013 Seton Healthcare where the driver died on August 27, 2018.",
+    "time": "06:01:00"
   },
   {
     "case": "18-2330240",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 42,
+    "date": "2018-08-21",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1985-07-14",
+        "ethnicity": "White",
+        "first": "Jarrod",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sowers",
+        "middle": ""
+      }
+    ],
     "latitude": 30.246111,
-    "link": "",
-    "location": "500 s pleasant valley rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-42-3",
+    "location": "500 S. Pleasant Valley Rd.",
     "longitude": -97.714946,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2012 Hyundai was traveling southbound in the 500 block of S. Pleasant Valley Rd. when it crossed the center yellow line and into the northbound lanes for unknown reasons. A 2009 Toyota and a 2016 Toyota were traveling northbound in the 500 block of S. Pleasant Valley Rd. when the Hyundai crashed head on into the 2009 Toyota. The 2016 Toyota could not stop in time and crashed into the 2009 Toyota. The drivers of both Toyotas were transported to a local hospital with non-life threatening injuries. The driver of the Hyundai was pronounced deceased at the scene.",
     "time": "06:35:00"
   },
   {
     "case": "18-2341687",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 43,
+    "date": "2018-08-22",
+    "fatalities": [
+      {
+        "age": 24,
+        "dob": "1993-10-28",
+        "ethnicity": "White",
+        "first": "Brianna",
+        "gender": "Female",
+        "generation": "",
+        "last": "Polzine",
+        "middle": ""
+      }
+    ],
     "latitude": 30.324017,
-    "link": "",
-    "location": "n ih 35 svrd nb / e us 290 hwy svrd eb",
+    "link": "http://austintexas.gov/news/traffic-fatality-43-4",
+    "location": "N IH 35 SB frontage road and U.S. 290 EB service road",
     "longitude": -97.70577,
-    "notes": "",
+    "notes": "Arrested:     Justin Dakota Ayers, White male (26 years of age)\n\n\tThe preliminary investigation shows that a 2004, white Acura TL was traveling southbound on the N. IH 35 southbound frontage road in the outside lane. The driver of the Acura ran the red light at the U.S. 290 eastbound service road. A 2009 black, Nissan Altima was traveling eastbound on the U.S. 290 eastbound service road in the inside lane. The Altima collided with the front right side of the Acura causing the Acura to then strike a 3rd vehicle, a 2016 white Ford Fusion.\n\n\tThe female passenger in the Acura was pronounced deceased at the scene. The drivers of the Altima and Fusion were transported to a local hospital with non-life threatening injuries.\n\n\tThe driver of the Acura, Justin Dakota Ayers, has been arrested and charged with the following:\n\n\t\tintoxication manslaughter\n\n\t\tintoxication assault\n\n\t\tfail to stop and render aid",
     "time": "20:50:00"
   },
   {
     "case": "18-2370139",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 44,
+    "date": "2018-08-25",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1997-01-07",
+        "ethnicity": "Hispanic",
+        "first": "Juvenal",
+        "gender": "Male",
+        "generation": "",
+        "last": "Martinez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.222321,
-    "link": "",
-    "location": "1500 e sh 71 eb",
+    "link": "http://austintexas.gov/news/traffic-fatality-44-4",
+    "location": "1500 block of E. SH 71 eastbound",
     "longitude": -97.678288,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2004 green Ford Explorer Sport Trac was traveling eastbound in the 1500 block of E. SH 71. The driver lost control, causing the vehicle to roll. The passenger in the vehicle was pronounced deceased at the scene. The driver of the vehicle was transported to a local hospital with critical injuries.",
     "time": "01:24:00"
   },
   {
     "case": "18-2450389",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 47,
+    "date": "2018-09-02",
+    "fatalities": [
+      {
+        "age": 40,
+        "dob": "1978-06-16",
+        "ethnicity": "Black",
+        "first": "Michael",
+        "gender": "Male",
+        "generation": "",
+        "last": "Reed-Harper",
+        "middle": ""
+      }
+    ],
     "latitude": 30.386275,
-    "link": "",
-    "location": "12200 dessau rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-47-5",
+    "location": "12200 Dessau Rd.",
     "longitude": -97.648821,
-    "notes": "",
-    "time": "07:44:00"
+    "notes": "The preliminary investigation shows that patrol officers were dispatched to the 12200 block of Dessau Rd. in reference to a person down in the roadway. They located a deceased male in the road with obvious traumatic injuries consistent with being struck by a vehicle.",
+    "time": "04:21:00"
   },
   {
     "case": "18-2451655",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 48,
+    "date": "2018-09-02",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.234999,
-    "link": "",
-    "location": "4200 block s lamar blvd sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-48-5",
+    "location": "4200 S. Lamar Blvd.",
     "longitude": -97.794904,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2011 Toyota Corolla was traveling southbound in the 4200 block of S. Lamar Blvd. when a pedestrian ran in front of the vehicle. The pedestrian was running eastbound across S. Lamar from the Brodie Oaks shopping center, not within the crosswalk. The pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died a short time later. \n\tThe driver of the Toyota Corolla stayed at the scene cooperated. No charges are expected at this time.",
     "time": "22:12:00"
   },
   {
     "case": "18-2541731",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 50,
+    "date": "2018-09-11",
+    "fatalities": [
+      {
+        "age": 46,
+        "dob": "1972-04-24",
+        "ethnicity": "Hispanic",
+        "first": "Ramon",
+        "gender": "Male",
+        "generation": "",
+        "last": "Pesina",
+        "middle": ""
+      }
+    ],
     "latitude": 30.220067,
-    "link": "",
-    "location": "1800 e 71 wb",
+    "link": "http://austintexas.gov/news/traffic-fatality-50-2",
+    "location": "1800 E. SH 71, westbound",
     "longitude": -97.67175,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a pedestrian attempted to cross a high-speed roadway from northbound to southbound. A 2018, red, Dodge Durango was traveling westbound and struck the pedestrian in the roadway. The pedestrian, Ramon Javier Pesina, was pronounced deceased at the scene at 10:41 p.m. The driver of the Durango remained at the scene and there were no signs of impairment.",
     "time": "22:29:00"
   },
   {
     "case": "18-2631843",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 52,
+    "date": "2018-09-20",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1988-12-09",
+        "ethnicity": "Hispanic",
+        "first": "Andrew",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sanchez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.33063,
-    "link": "",
-    "location": "1000 e st johns ave",
+    "link": "http://austintexas.gov/news/traffic-fatality-52-4",
+    "location": "1000 E. St. Johns Blvd.",
     "longitude": -97.699319,
-    "notes": "",
-    "time": "23:36:00"
+    "notes": "The preliminary investigation shows that a pedestrian was laying down in the westbound lanes of St. Johns Blvd. for unknown reasons. A Capital Metro bus was heading west on St. Johns Blvd. and was unable to see the pedestrian, Andrew Sanchez, laying in the road. The bus ran Sanchez and he was pronounced deceased at the scene. The driver of the bus stayed at the scene and cooperated.",
+    "time": "23:31:00"
   },
   {
     "case": "18-2650690",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 51,
+    "date": "2018-09-22",
+    "fatalities": [
+      {
+        "age": 10,
+        "dob": "2007-11-12",
+        "ethnicity": "Hispanic",
+        "first": "Luis",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tinoco",
+        "middle": ""
+      }
+    ],
     "latitude": 30.336722,
-    "link": "",
-    "location": "e us 290 eb to n 130 nb ramp / e us 290 hwy eb",
+    "link": "http://austintexas.gov/news/traffic-fatality-51-3",
+    "location": "E 290 eastbound service rd. &amp; SH 130 northbound service rd.",
     "longitude": -97.6005,
-    "notes": "",
-    "time": "10:28:00"
+    "notes": "The preliminary investigation shows that a 2001 Dodge truck was traveling eastbound on the 290 service road approaching the intersection of the SH 130 northbound service road. The Dodge ran the red light and struck a 2013 Nissan Altima on its left side. An unrestrained, juvenile male, in the back seat of the Nissan, died at the scene.",
+    "time": "23:30:00"
   },
   {
     "case": "18-2760038",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 53,
+    "date": "2018-10-03",
+    "fatalities": [
+      {
+        "age": 40,
+        "dob": "1978-05-21",
+        "ethnicity": "Black",
+        "first": "Michael",
+        "gender": "Male",
+        "generation": "",
+        "last": "Green",
+        "middle": ""
+      }
+    ],
     "latitude": 30.286215,
-    "link": "",
-    "location": "2500 n ih 35 sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-53-5",
+    "location": "2500 N IH-35 Southbound",
     "longitude": -97.725174,
-    "notes": "",
-    "time": "00:24:00"
+    "notes": "The preliminary investigation shows that a 2009 Freightliner truck and attached trailer was stopped in traffic in the 2500 block of N IH-35, in the left lane, when a 2001 Toyota Avalon struck the back side of the trailer, at a high rate of speed. The driver of the Toyota Avalon was pronounced deceased at the scene.",
+    "time": "00:27:00"
   },
   {
     "case": "18-2830122",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 54,
+    "date": "2018-10-10",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1989-02-23",
+        "ethnicity": "Hispanic",
+        "first": "Jonathan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Deleon",
+        "middle": ""
+      }
+    ],
     "latitude": 30.256432,
-    "link": "",
-    "location": "elkhart st / e cesar chavez st",
+    "link": "http://austintexas.gov/news/traffic-fatality-54-3",
+    "location": "2000 block of East Cesar Chavez",
     "longitude": -97.722648,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Jonathan Deleon was standing near the rear driver\u2019s side of a parked vehicle in the 2000 block of East Cesar Chavez when a white van or some type of SUV travelling westbound struck him before fleeing. Mr. Deleon was transported to Dell Seton Medical Center at the University of Texas where he was pronounced deceased.",
     "time": "02:05:00"
   },
   {
     "case": "18-2850362",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 55,
+    "date": "2018-10-12",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.325331,
-    "link": "",
-    "location": "7200 n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-55-3",
+    "location": "6300 block of N IH 35 northbound",
     "longitude": -97.706183,
-    "notes": "",
-    "time": "06:32:00"
+    "notes": "The preliminary investigation shows that a 2015 Dodge Ram truck was traveling northbound in the 6300 block of IH 35 when the driver struck a pedestrian who was standing in the inside lane. The driver did not see the pedestrian as it was dark at the time of the crash. The pedestrian was pronounced deceased at the scene. The driver stayed on scene and showed no signs of impairment.",
+    "time": "06:31:00"
   },
   {
     "case": "18-2851504",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 56,
+    "date": "2018-10-12",
+    "fatalities": [
+      {
+        "age": 52,
+        "dob": "1965-11-25",
+        "ethnicity": "Black",
+        "first": "Ronald",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hadnot",
+        "middle": ""
+      }
+    ],
     "latitude": 30.431523,
-    "link": "",
-    "location": "12700 research blvd svrd sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-56-4",
+    "location": "12700 block of Research Blvd., frontage rd.",
     "longitude": -97.764931,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2013, grey Nissan Altima exited a private drive in the 12700 block of Research Blvd frontage road. The Altima attempted to change lanes into the far left lane. A 2011, grey Ford Escape was traveling southbound in the far left lane of the frontage road. The Altima struck the Escape. The front seat passenger of the Escape, Ronald Hadnot, was transported to Dell Seton Medical Center at the University of Texas, but succumbed to his injuries on Tuesday, October 16, 2018. The driver of the Escape was transported to the hospital with non-life-threatening injuries.\n\tThe driver of the Altima remained at the scene and showed no signs of impairment.",
     "time": "17:52:00"
   },
   {
     "case": "18-2891458",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 57,
+    "date": "2018-10-16",
+    "fatalities": [
+      {
+        "age": 75,
+        "dob": "1943-03-03",
+        "ethnicity": "White",
+        "first": "Steven",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tibbetts",
+        "middle": ""
+      }
+    ],
     "latitude": 30.166851,
-    "link": "",
-    "location": "4000 e sh 71 svrd wb",
+    "link": "http://austintexas.gov/news/traffic-fatality-57-3",
+    "location": "S SH 130 service road NB and E SH 71 service road WB",
     "longitude": -97.786208,
-    "notes": "",
-    "time": "19:52:00"
+    "notes": "The preliminary investigation shows that a silver, 2017 Honda Accord was traveling northbound on SH 130 service road at the intersection of SH 71. A black, 2006 Ford F-250 was traveling westbound at this intersection. The driver of the Honda admitted to running the red light. He was transported to Dell Seton Medical Center at the University of Texas where he died at 10:52 p.m. that evening.\n\n\tBoth drivers remained on scene and intoxication is not suspected to be a factor in this crash.",
+    "time": "20:00:00"
   },
   {
     "case": "18-2900992",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 58,
+    "date": "2018-10-17",
+    "fatalities": [
+      {
+        "age": 61,
+        "dob": "1957-08-21",
+        "ethnicity": "White",
+        "first": "John",
+        "gender": "Male",
+        "generation": "",
+        "last": "Herrera",
+        "middle": ""
+      }
+    ],
     "latitude": 30.11288,
-    "link": "",
-    "location": "1200 fm 1327 rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-58-3",
+    "location": "1200 FM 1327",
     "longitude": -97.801692,
-    "notes": "",
-    "time": "15:07:00"
+    "notes": "The preliminary investigation shows that a silver, 2002 Nissan was traveling westbound in FM 1327. A white, 1992 Peterbuilt, tractor trailer, was traveling eastbound in FM 1327. The Nissan drifted to the left and into the eastbound lanes. The tractor/trailer pulled to the right in an attempt to avoid the crash but was struck by the Nissan. The driver of the Nissan was pronounced deceased at the scene.",
+    "time": "14:53:00"
   },
   {
     "case": "18-2920183",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 59,
+    "date": "2018-10-19",
+    "fatalities": [
+      {
+        "age": 24,
+        "dob": "1994-01-11",
+        "ethnicity": "White",
+        "first": "Seth",
+        "gender": "Male",
+        "generation": "",
+        "last": "Mendoza",
+        "middle": ""
+      }
+    ],
     "latitude": 30.246924,
-    "link": "",
-    "location": "2400 s lamar blvd",
+    "link": "http://austintexas.gov/news/traffic-fatality-59-3",
+    "location": "2500 block of S. Lamar Blvd.",
     "longitude": -97.777183,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a gold, 2005 Toyota Highlander, was traveling southbound on South Lamar Boulevard, just south of Bluebonnet Lane. There are sidewalks on both sides of S. Lamar and a controlled crosswalk at Bluebonnet Lane.\n\n\tFor an unknown reason, a pedestrian identified as Seth Mendoza was in the southbound lanes of travel, not in the crosswalk or on the sidewalk. Mendoza was struck by the Toyota Highlander and was pronounced deceased on scene, at 2:32 a.m.\n\n\tThe driver, who stayed on scene, was identified as 23-year-old William Roy. Roy admitted to drinking and was arrested for DWI. No additional charges are expected at this time.",
     "time": "02:20:00"
   },
   {
     "case": "18-3011849",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 61,
+    "date": "2018-10-28",
+    "fatalities": [
+      {
+        "age": 32,
+        "dob": "1986-10-12",
+        "ethnicity": "White",
+        "first": "Anthony",
+        "gender": "Male",
+        "generation": "",
+        "last": "Zangara",
+        "middle": ""
+      }
+    ],
     "latitude": 30.245127,
-    "link": "",
-    "location": "1200 block w oltorf st",
+    "link": "http://austintexas.gov/news/traffic-fatality-61-3",
+    "location": "1200 block W. Oltorf Street",
     "longitude": -97.767831,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a red, Mazda RX-8 was traveling east bound in the 1200 block of West Oltorf Street at a high rate of speed, when it lost control and struck a tree along the south side of the street.\n\n\tThe driver of the vehicle, Anthony Zangara, 32, was transported to St. David\u2019s South Austin Medical Center, where he later succumbed to his injuries. Zangara was pronounced deceased on October 30, 2018 at 5:38 p.m.",
     "time": "22:46:00"
   },
   {
     "case": "18-3030060",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 60,
+    "date": "2018-10-30",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1980-07-06",
+        "ethnicity": "White",
+        "first": "Stefanie",
+        "gender": "Female",
+        "generation": "",
+        "last": "Torres",
+        "middle": ""
+      }
+    ],
     "latitude": 30.344394,
-    "link": "",
-    "location": "8200 n ih 35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-60-3",
+    "location": "8200 block of N IH-35 NB",
     "longitude": -97.696678,
-    "notes": "",
-    "time": "03:50:00"
+    "notes": "The preliminary investigation shows that a 2017 White, Volvo Truck Tractor was traveling northbound in the 8200 block of N IH-35 NB proper, in the outside lane. A pedestrian, identified as Stefanie Marie Torres, 38, was attempting to cross the highway when the vehicle struck her.\n\n\tTorres was pronounced deceased on the scene.\n\n\tThe truck driver stayed on scene. No charges will be filed at this time.",
+    "time": "01:19:00"
   },
   {
     "case": "18-3060392",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 62,
+    "date": "2018-11-02",
+    "fatalities": [
+      {
+        "age": 68,
+        "dob": "1968-06-09",
+        "ethnicity": "Black",
+        "first": "",
+        "gender": "Female",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 30.210518,
-    "link": "",
-    "location": "machaca rd / berkett dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-62-3",
+    "location": "6200 Manchaca Rd.",
     "longitude": -97.803619,
-    "notes": "",
-    "time": "11:52:00"
+    "notes": "The preliminary investigation shows that a pedestrian was crossing Manchaca Rd. from the bus stop located at the west curb line to the bus stop located at the east curb line. The area has sidewalks on both sides of Manchaca Rd. but no crosswalk is available at Manchaca and Berkett Dr. The pedestrian was struck by a white, 2014 Nissan that was traveling southbound on Manchaca Rd. when she was crossing.\n\n\tThe driver of the Nissan stayed at the scene and cooperated. Neither intoxication nor impairment are suspected to be factors in this crash. No charges are expected to be filed at this time.",
+    "time": "07:22:00"
   },
   {
     "case": "18-3070057",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 63,
+    "date": "2018-11-03",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1990-12-05",
+        "ethnicity": "White",
+        "first": "Aaron",
+        "gender": "Male",
+        "generation": "",
+        "last": "Weir",
+        "middle": ""
+      }
+    ],
     "latitude": 30.402582,
-    "link": "",
-    "location": "11400 n mopac expy sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-63-3",
+    "location": "11300 N. Mopac southbound",
     "longitude": -97.728448,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Aaron Ross Weir was standing in the roadway in the 11300 block of N. Mopac when a silver, 2014 Nissan, traveling southbound, struck him.\n\n\tAaron Ross Weir, was transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries at 3:35 a.m.\n\n\tThe driver of the Nissan stayed at the scene and cooperated. Neither intoxication nor impairment are suspected to be factors in this crash. No charges are expected to be filed at this time.",
     "time": "00:33:00"
   },
   {
     "case": "18-3080613",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 64,
+    "date": "2018-11-04",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1997-08-15",
+        "ethnicity": "White",
+        "first": "Brett",
+        "gender": "Male",
+        "generation": "",
+        "last": "Lambert",
+        "middle": ""
+      }
+    ],
     "latitude": 30.271853,
-    "link": "",
-    "location": "1100 n ih35 nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-64-3",
+    "location": "1100 N IH-35 NB (proper)",
     "longitude": -97.732256,
-    "notes": "",
-    "time": "01:40:00"
+    "notes": "The preliminary investigation shows that Brett Lambert was in the roadway near the 1100 block of N IH-35 northbound proper. An unknown vehicle struck Lambert in the early morning of November 4, 2018. The driver left the scene without rendering aid or calling 9-1-1.\n\n\tAt approximately 6:44 a.m., a passerby contacted 9-1-1 and reported seeing Lambert\u2019s body. Police arrived and located him with obvious trauma, from an apparent auto-pedestrian crash. He was pronounced deceased on scene.",
+    "time": "06:44:00"
   },
   {
     "case": "18-3131550",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 66,
+    "date": "2018-11-09",
+    "fatalities": [
+      {
+        "age": 17,
+        "dob": "2001-01-29",
+        "ethnicity": "Asian",
+        "first": "Minh-Tan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Pham",
+        "middle": ""
+      }
+    ],
     "latitude": 30.388337,
-    "link": "",
-    "location": "1602 e parmer ln",
+    "link": "http://austintexas.gov/news/traffic-fatality-66-3",
+    "location": "1600 block of E Parmer Lane WB",
     "longitude": -97.650619,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Minh-Tan Pham was biking northbound on Yager Lane when he disregarded posted stop and yield signs and drove across the 1600 block of E Parmer Lane. As Pham began to enter the left lane of westbound traffic, a stretch of roadway with a 60 mph limit, he crossed in front of a blue, 2012 Toyota Camry.\n\n\tMinh-Tan Pham was transported by Austin-Travis Count EMS to St. David\u2019s Round Rock Medical Center where he succumbed to his injuries on November 10, 2018. The driver of the Camry remained on scene.",
     "time": "18:23:00"
   },
   {
     "case": "18-3131903",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 65,
+    "date": "2018-11-09",
+    "fatalities": [
+      {
+        "age": 25,
+        "dob": "1993-03-31",
+        "ethnicity": "Hispanic",
+        "first": "Yesenia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Lopez-Rodriguez",
+        "middle": ""
+      }
+    ],
     "latitude": 30.28507,
-    "link": "",
-    "location": "fm 969 rd / regency dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-65-3",
+    "location": "Intersection of FM 969/Regency Drive",
     "longitude": -97.661974,
-    "notes": "",
+    "notes": "Arrested:       Alan Torres-Yanez, Hispanic male, age 25\n\n\tThe preliminary investigation shows that Alan Torres-Yanez, age 25, was driving a blue, 2000 Honda westbound on FM 969 when it crashed with a white, Ford van that was attempting to pull out from Regency Drive to go eastbound.\n\n\tYesenia Lopez-Rodriguez, the passenger in the Honda, was transported by Austin-Travis County EMS to Dell Seton Medical Center at the University of Texas where she was pronounced deceased at 9:42 p.m. Torres-Yanez was also transported with minor injuries. The driver of the van was uninjured and stayed on scene to cooperate with the investigation.\n\n\tAlan Torres-Yanez was arrested for DWI.",
     "time": "21:43:00"
   },
   {
     "case": "18-3260732",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 67,
+    "date": "2018-11-22",
+    "fatalities": [
+      {
+        "age": 52,
+        "dob": "1966-08-21",
+        "ethnicity": "White",
+        "first": "Mary",
+        "gender": "Female",
+        "generation": "",
+        "last": "Ochoa",
+        "middle": ""
+      }
+    ],
     "latitude": 30.484374,
-    "link": "",
-    "location": "14500 n 183a hwy nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-67-3",
+    "location": "14500 N 183A, northbound",
     "longitude": -97.804553,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a black, 2002 Toyota Avalon was traveling northbound near the 14500 block of N 183 A. The driver lost control of the vehicle and crashed into the center cement divider of the highway. The driver and passenger were transported to St. David\u2019s Round Rock Medical Center and the driver later died due to her injuries.",
     "time": "15:17:00"
   },
   {
     "case": "18-3310794",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 68,
+    "date": "2018-11-27",
+    "fatalities": [
+      {
+        "age": 40,
+        "dob": "1977-12-12",
+        "ethnicity": "Black",
+        "first": "Christopher",
+        "gender": "Male",
+        "generation": "",
+        "last": "Brown",
+        "middle": ""
+      }
+    ],
     "latitude": 30.335968,
-    "link": "",
-    "location": "7509 n ih 35 svrd nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-68-3",
+    "location": "7500 N IH-35 NB",
     "longitude": -97.70157,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Christopher Brown attempted to cross IH-35 on foot from east to west while evading police following a robbery at a nearby convenience store. Mr. Brown jumped over a concrete barrier to cross the heavily-traveled roadway. As he entered the center lane, Brown ran into the rear portion of a passing 18-wheeler. Christopher Brown was transported to Dell Seton Medical Center at the University of Texas where he succumbed to his injuries.\n\n\tThe driver of the 18-wheeler was unaware of the impact and no charges are expected to be filed.",
     "time": "13:46:00"
   },
   {
     "case": "18-3331578",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 69,
+    "date": "2018-11-29",
+    "fatalities": [
+      {
+        "age": 24,
+        "dob": "1994-08-25",
+        "ethnicity": "White",
+        "first": "Matthew",
+        "gender": "Male",
+        "generation": "",
+        "last": "Lutomski",
+        "middle": ""
+      }
+    ],
     "latitude": 30.37397,
-    "link": "",
-    "location": "research blvd svrd sb / mc cann dr",
+    "link": "http://austintexas.gov/news/traffic-fatality-69-3",
+    "location": "Research Blvd SVRD SB/McCann Drive",
     "longitude": -97.728905,
-    "notes": "",
-    "time": "19:48:00"
+    "notes": "The preliminary investigation shows that Mathew Lutomski was driving a 2008 Subaru southbound on Research Blvd when he exited on to the service road just north of McCann Drive. Lutomski appears to have lost control of the vehicle, striking a metal utility pole on the driver\u2019s side. He was pronounced deceased at the scene.",
+    "time": "19:47:00"
   },
   {
     "case": "18-3350146",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 70,
+    "date": "2018-12-01",
+    "fatalities": [
+      {
+        "age": 63,
+        "dob": "1955-11-30",
+        "ethnicity": "White",
+        "first": "Billy",
+        "gender": "Male",
+        "generation": "",
+        "last": "Dickey",
+        "middle": ""
+      }
+    ],
     "latitude": 30.260667,
-    "link": "",
-    "location": "900 springdale rd",
+    "link": "http://austintexas.gov/news/traffic-fatality-70-2",
+    "location": "900 Springdale Road",
     "longitude": -97.698705,
-    "notes": "",
+    "notes": "The preliminary investigation shows that Billy Jack Dickey was struck by a motor vehicle in the 900 block of Springdale Road. Dickey was pronounced deceased at the scene. The driver of the vehicle failed to remain on scene.",
     "time": "01:28:00"
   },
   {
     "case": "18-3381590",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 71,
+    "date": "2018-12-04",
+    "fatalities": [
+      {
+        "age": 54,
+        "dob": "1964-06-01",
+        "ethnicity": "Other",
+        "first": "Barkat",
+        "gender": "Male",
+        "generation": "",
+        "last": "Umatia",
+        "middle": ""
+      }
+    ],
     "latitude": 30.365314,
-    "link": "",
-    "location": "payton gin rd / research blvd svrd nb",
+    "link": "http://austintexas.gov/news/traffic-fatality-71-2",
+    "location": "183 service road westbound and Payton Gin Rd.",
     "longitude": -97.717789,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2004 Honda sedan was traveling northbound on Payton Gin Rd. from a stop. A 2006 Mercedes sedan was traveling westbound on the service road of 183. The Mercedes and the Honda crashed in the intersection. The Honda was damaged on the right side and the Mercedes was damaged on the front end. The driver of the Honda was pronounced deceased at the scene at 8:50 p.m.",
     "time": "20:39:00"
   },
   {
     "case": "18-3551763",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 72,
+    "date": "2018-12-21",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1996-03-29",
+        "ethnicity": "White",
+        "first": "Elijah",
+        "gender": "Male",
+        "generation": "",
+        "last": "Perales",
+        "middle": ""
+      }
+    ],
     "latitude": 30.390881,
-    "link": "",
-    "location": "10200 n mopac expwy sb",
+    "link": "http://austintexas.gov/news/traffic-fatality-72-1",
+    "location": "9500 N Mopac SB",
     "longitude": -97.734239,
-    "notes": "",
-    "time": "20:21:00"
+    "notes": "The preliminary investigation shows that the 2016 Indian motorcycle driven by Elijah Perales was stopped on the right shoulder of N Mopac SB when an SUV, also traveling southbound, drifted to the right and struck Perales. Perales was pronounced deceased at the scene. The driver of the SUV remained on site. Investigators are still working to determine whether charges will be filed.",
+    "time": "20:20:00"
   },
   {
     "case": "18-3640187",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 73,
+    "date": "2018-12-30",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1980-02-09",
+        "ethnicity": "White",
+        "first": "Corbin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sabillon-Garcia",
+        "middle": ""
+      }
+    ],
     "latitude": 30.222337,
-    "link": "",
-    "location": "s us 183 hwy sb / e ben white eb to 183 sb ramp",
+    "link": "http://austintexas.gov/news/traffic-fatality-73-2",
+    "location": "1400 E. Highway 71 eastbound",
     "longitude": -97.678343,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2003 Ford F150 was traveling northbound on the US Highway 183 northbound ramp to E. Highway 71, eastbound. The truck went across the E. Highway 71 and US Highway 183 ramp, rolled and came to a stop north of the roadway.",
     "time": "02:24:00"
   },
   {
     "case": "18-590287",
-    "crash": 0,
-    "date": null,
-    "fatalities": [],
+    "crash": 11,
+    "date": "2018-02-28",
+    "fatalities": [
+      {
+        "age": 14,
+        "dob": "2004-02-14",
+        "ethnicity": "Hispanic",
+        "first": "Daniel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tovar",
+        "middle": ""
+      }
+    ],
     "latitude": 30.174114,
-    "link": "",
-    "location": "",
+    "link": "http://austintexas.gov/news/traffic-fatality-11-3",
+    "location": "800 E. Slaughter Ln.",
     "longitude": -97.805115,
-    "notes": "",
-    "time": null
+    "notes": "The preliminary investigation shows that the victim was walking in a crosswalk from north to south in the 800 block of E. Slaughter Ln. The victim had the right-of-way at the time when a white, 2005 Ford Explorer was traveling westbound on E. Slaughter Ln. approached the intersection of Brandt Rd. The driver of the Explorer entered the intersection against a red light and struck the victim. The driver remained on scene. The victim was transported to the hospital with life-threatening injuries, eventually passing on March 7, 2018 at Dell Children\u2019s Medical Center.\n\n\tThe case is still being investigated at this time.",
+    "time": "06:36:00"
   }
 ]
