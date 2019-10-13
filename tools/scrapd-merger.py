@@ -65,11 +65,14 @@ def merge(old, new, update):
     new_dict = {entry['case']: model.Report(**entry) for entry in new}
     final_dict = {}
 
-    for entry in old_dict:
-        old_entry = old_dict.get(entry)
-        new_entry = new_dict.pop(entry, None)
-        old_entry.update(new_entry)
-        final_dict[entry] = old_entry
+    for case, entry in old_dict.items():
+        old_entry = entry
+        new_entry = new_dict.pop(case, None)
+        if update and new_entry:
+            old_entry = new_entry.copy(deep=True)
+        else:
+            old_entry.update(new_entry)
+        final_dict[case] = old_entry
 
     final_dict.update(new_dict)
     return list(final_dict.values())
