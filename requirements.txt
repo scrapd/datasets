@@ -1,2 +1,2 @@
 pycalver==201903.30
-scrapd==2.1.1
+scrapd==3.0.0
