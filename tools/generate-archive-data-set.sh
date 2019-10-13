@@ -2,7 +2,7 @@
 set -euo pipefail
 
 TOPDIR=$(git rev-parse --show-toplevel)
-TOOL="${TOPDIR}/tools/scrapd-importer-fatalities-socrata.py"
+TOOL="${TOPDIR}/tools/socrata2scrapd-archive.py"
 FAKE_JSON="/tmp/fake.json"
 SOCRATA_ALL_DATASET="${TOPDIR}/external-datasets/socrata-apd-archives/socrata-apd-all.json"
 ARCHIVE_DATASET="${TOPDIR}/datasets/archives-all.json"
