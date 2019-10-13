@@ -880,7 +880,7 @@
     "fatalities": [
       {
         "age": 49,
-        "dob": "1949-06-09",
+        "dob": null,
         "ethnicity": "White",
         "first": "Delta",
         "gender": "Female",
@@ -926,13 +926,13 @@
     "fatalities": [
       {
         "age": 28,
-        "dob": "2019-06-28",
+        "dob": null,
         "ethnicity": "Hispanic",
         "first": "David",
         "gender": "Male",
         "generation": "",
         "last": "Castro",
-        "middle": ""
+        "middle": "Adam"
       }
     ],
     "latitude": 0.0,
@@ -962,7 +962,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-54-1",
     "location": "3400 block of South Lamar",
     "longitude": 0.0,
-    "notes": "The pedestrian was pronounced deceased at the scene.",
+    "notes": "The preliminary investigation shows that a white, 2014 Toyota RAV4 was driving southbound in the center turn lane and a white, 2001 Chevrolet Pickup Truck was driving northbound in the left lane of S. Lamar. The Toyota hit the pedestrian who was wearing all black clothing and standing in the center turn lane. This pushed the pedestrian into the Chevrolet as it passed in the left northbound lane. The drivers of the Toyota and Chevrolet vehicles stopped immediately and called 911, while staying on scene. They have been cooperative with the investigation.",
     "time": "21:00:00"
   },
   {
@@ -972,7 +972,7 @@
     "fatalities": [
       {
         "age": 29,
-        "dob": "2019-06-29",
+        "dob": null,
         "ethnicity": "White",
         "first": "Starlite",
         "gender": "Male",
@@ -985,7 +985,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-55-1",
     "location": "Intersection of E. 7th and Comal Street",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a silver, 2010 Toyota Corolla was traveling southbound on Comal Street when the driver, who had a green light, entered the intersection to turn left on to 7th Street when the green, 2011 Triumph Motorcycle driven by Stewart ran the red light hitting the left front side of the Toyota. Stewart was transported by EMS to Dell Seton Hospital where he was pronounced deceased shortly after arriving.",
+    "notes": "",
     "time": "18:14:00"
   },
   {
@@ -1001,14 +1001,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Morales",
-        "middle": ""
+        "middle": "Mauricio"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-56-2",
     "location": "Chicon and Willow streets",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a blue, Ford pickup truck was driving southbound on Chicon Street when it struck a pedestrian who was walking in a southeast direction in the intersection of Chicon and Willow streets. After striking the pedestrian, the Ford truck briefly stopped but then fled the scene southbound on Chicon St. without stopping and rendering aid to the pedestrian. The pedestrian, identified as Mauricio Marcos Morales, was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.",
+    "notes": "",
     "time": "20:38:00"
   },
   {
@@ -1024,37 +1024,26 @@
         "gender": "Male",
         "generation": "",
         "last": "Alexander-Ball",
-        "middle": ""
+        "middle": "Ryan"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-57-1",
     "location": "1300 block of Thornberry Rd.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a blue, 2002 Yamaha motorcycle was driving northbound in the 1300 block of Thornberry Rd. at a high rate of speed. The driver of the motorcycle failed to navigate a sharp curve to head east on to Crozier Ln. and struck a metal gate along the north side of Crozier Ln.",
+    "notes": "",
     "time": "02:19:00"
   },
   {
     "case": "17-3091672",
     "crash": 58,
     "date": "2017-11-05",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
-        "gender": "Undefined",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-58-1",
     "location": "Spicewood Springs Rd. and Scotland Well Dr.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a red, 2007 Mazda 6 was driving southbound on Spicewood Springs Rd. at a high rate of speed. The vehicle lost control and struck a traffic light pole, which is located on the southwest corner of Spicewood Springs Rd. and Scotland Well Dr.",
+    "notes": "",
     "time": "22:19:00"
   },
   {
@@ -1064,7 +1053,7 @@
     "fatalities": [
       {
         "age": 38,
-        "dob": "1938-06-09",
+        "dob": null,
         "ethnicity": "White",
         "first": "Latulippe",
         "gender": "Female",
@@ -1077,7 +1066,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-59-update",
     "location": "9400 block of Research Blvd.",
     "longitude": 0.0,
-    "notes": "Latulippe, Jackson, White male, 14 years of age\nLatulippe, Scott, White male, 41 years of age\n \nUPDATE: The APD Vehicular Homicide Unit is asking for anyone with information about the events leading up to the fatal November 11, 2017 crash on Research Blvd to contact them at (512) 974-6935 if they have not already done so.    \n \nOriginal Narrative:\nThe preliminary investigation shows that 41-year-old Guy Brasted was driving a black, Jeep Wrangler northbound on Research Blvd., when he lost control, leaving the roadway and resulting in a head on collision with a White, Fiat 500, that was traveling southbound. A third vehicle sustained front-end damage from the continuation of the initial impact of the Jeep and Fiat.\n\tBrasted was ejected from his vehicle. Nancy Latulippe, 38, who was driving the Fiat, and passenger Jackson Latulippe, 14, were pronounced deceased at the scene.\n\tTwo other passengers in the Fiat were transported to the hospital \u2014 an adult male with life-threatening injuries and a female child with non-life threatening injuries. The driver from the third vehicle was not transported for injuries.\n\tBrasted was initially transported to Dell Seton Medical Center with life-threatening injuries, but was later determined to be non-life threatening. He is facing two counts of intoxication manslaughter and one count of intoxication assault.\n\tThis case is still being investigated.",
+    "notes": "Latulippe, Scott, White male, 41 years of age\n \nUPDATE: The APD Vehicular Homicide Unit is asking for anyone with information about the events leading up to the fatal November 11, 2017 crash on Research Blvd to contact them at (512) 974-6935 if they have not already done so.    \n \nOriginal Narrative:\nThe preliminary investigation shows that 41-year-old Guy Brasted was driving a black, Jeep Wrangler northbound on Research Blvd., when he lost control, leaving the roadway and resulting in a head on collision with a White, Fiat 500, that was traveling southbound. A third vehicle sustained front-end damage from the continuation of the initial impact of the Jeep and Fiat.\n\tBrasted was ejected from his vehicle. Nancy Latulippe, 38, who was driving the Fiat, and passenger Jackson Latulippe, 14, were pronounced deceased at the scene.\n\tTwo other passengers in the Fiat were transported to the hospital \u2014 an adult male with life-threatening injuries and a female child with non-life threatening injuries. The driver from the third vehicle was not transported for injuries.\n\tBrasted was initially transported to Dell Seton Medical Center with life-threatening injuries, but was later determined to be non-life threatening. He is facing two counts of intoxication manslaughter and one count of intoxication assault.\n\tThis case is still being investigated.",
     "time": "15:31:00"
   },
   {
@@ -1100,7 +1089,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-60-1",
     "location": "6500 block of E Riverside Dr.",
     "longitude": 0.0,
-    "notes": "Brianna Moreno, Hispanic female (D.O.B. 9-7-98)",
+    "notes": "Brianna Moreno, Hispanic female (D.O.B. 9-7-98)\nThe preliminary investigation shows that Palma-Rodriguez was driving a black, 4-foor Honda and racing another vehicle. He was driving westbound on E. Riverside Dr. at a high rate of speed when he lost control, striking a billboard post. The vehicle then caught fire.\n\tAnderson Palma-Rodriguez and his female passenger, Brianna Moreno, died at the scene. \nThis case is still being investigated.",
     "time": "17:54:00"
   },
   {
@@ -1116,14 +1105,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Gorman",
-        "middle": ""
+        "middle": "Joseph"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-61-1",
     "location": "5300 block of N IH 35 southbound",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a silver, 2010 Jaguar was driving southbound on IH 35 in the 5300 block when a pedestrian ran across the southbound lanes of IH 35. The Jaguar hit the pedestrian. The pedestrian died at the scene. The driver of the Jaguar remained on scene and cooperated. No charges are expected to be filed against the driver.",
+    "notes": "",
     "time": "19:44:00"
   },
   {
@@ -1139,14 +1128,14 @@
         "gender": "Female",
         "generation": "",
         "last": "Stark",
-        "middle": ""
+        "middle": "Ashley"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-62-1",
     "location": "4200 E. MLK Jr. Blvd.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a silver, 2001 Lexus was traveling westbound in the 4200 block of E. MLK Jr. Blvd. at a high rate of speed when, for unknown reasons, the vehicle left the roadway at the north curb line and drove partially on the grassy shoulder. The vehicle then went back onto the roadway and crossed both westbound lanes of E. MLK Jr. Blvd. and into the path of an eastbound, grey, Nissan Cube. The driver of the Lexus was ejected from the vehicle. Both drivers were transported to the hospital and the driver of the Lexus died as a result of her injuries. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 62nd fatal traffic crash and the 67th fatality of 2017. At this time in 2016, there were 67 fatal traffic crashes and 69 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "notes": "",
     "time": "22:39:00"
   },
   {
@@ -1169,7 +1158,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-63-1",
     "location": "800 block of W. Slaughter.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that the driver of a black, 2017 Ford Fusion was traveling eastbound in the center lane in the 800 block of W. Slaughter Lane when the motorist struck Sean Gayle, who was crossing midblock. The pedestrian was pronounced deceased at the crash site. The motorist remained on scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 63rd fatal traffic crash and the 68th fatality of 2017. At this time in 2016, there were 68 fatal traffic crashes and 70 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "notes": "",
     "time": "20:01:00"
   },
   {
@@ -1192,7 +1181,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-64-1",
     "location": "13900 S. IH-35.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that the driver of a silver, 2008 Toyota Highlander had just existed the SH-45 ramp and was attempting to merge onto S. IH-35 southbound when the motorist struck Juan Estrada, who was standing in the road. The pedestrian was pronounced deceased at the site of the crash. The driver remained on scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-8544. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 64th fatal traffic crash and the 69th fatality of 2017. At this time in 2016, there were 69 fatal traffic crashes and 71 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "notes": "",
     "time": "22:14:00"
   },
   {
@@ -1208,7 +1197,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Peterson",
-        "middle": ""
+        "middle": "M"
       }
     ],
     "latitude": 0.0,
@@ -1231,14 +1220,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Middle",
-        "middle": ""
+        "middle": "Zaid Alqassab"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-66-1",
     "location": "13100 block N. I-35 Southbound",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a silver, 2017 Kia Sorento was traveling southbound in the far left lane of the 13100 block of N. I-35. The pedestrian was running across I-35 towards the northbound lanes, when he was struck by the Sorento.",
+    "notes": "The preliminary investigation shows that a silver, 2017 Kia Sorento was traveling southbound in the far left lane of the 13100 block of N. I-35. The pedestrian was running across I-35 towards the northbound lanes, when he was struck by the Sorento.\n\tThe pedestrian, identified as 15-year-old Sajjad Zaid Alqassab, was transported to Round Rock Hospital, where he was pronounced deceased.\n\tThis case is still being investigated.",
     "time": "16:25:00"
   },
   {
@@ -1277,14 +1266,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Odom",
-        "middle": ""
+        "middle": "Lee"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-68-1",
     "location": "800 Block of W. Cesar Chavez.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation indicates that a 2017 Harley Davidson motorcycle was traveling westbound on Cesar Chavez when the driver lost control, left the roadway and struck several objects. The driver was pronounced deceased at the scene.",
+    "notes": "The preliminary investigation indicates that a 2017 Harley Davidson motorcycle was traveling westbound on Cesar Chavez when the driver lost control, left the roadway and struck several objects. The driver was pronounced deceased at the scene.\n\tThis case is still being investigated.",
     "time": "00:45:00"
   },
   {
@@ -1323,7 +1312,7 @@
         "gender": "Male",
         "generation": "",
         "last": "Trewitt",
-        "middle": ""
+        "middle": "Lance"
       }
     ],
     "latitude": 0.0,
@@ -1346,14 +1335,14 @@
         "gender": "Male",
         "generation": "",
         "last": "Goldstein",
-        "middle": ""
+        "middle": "Carson"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-71-0",
     "location": "2100 block of Burton Drive",
     "longitude": 0.0,
-    "notes": "The preliminary investigation indicates that a maroon, 1997 Honda CRV was traveling southbound in the 2100 block of Burton Drive when the driver lost control, drove off the left side of the roadway and struck a concrete retaining wall. The driver of the vehicle, Shane Carson Goldstein, was pronounced deceased on the scene. This case is still being investigated. Anyone with information regarding this incident is asked to call the APD Vehicular Homicide Unit Detectives at (512) 974-4424. You can also submit tips by downloading APD\u2019s mobile app, Austin PD, for free on iPhone and Android. This is Austin\u2019s 71st fatal traffic crash and the 76th fatality of 2017. At this time in 2016, there were 75 fatal traffic crashes and 77 traffic fatalities. These statements are based on the initial assessment of the fatal crash and investigation is still pending. Fatality information may change.",
+    "notes": "",
     "time": "13:38:00"
   }
 ]
