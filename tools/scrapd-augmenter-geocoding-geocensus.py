@@ -30,7 +30,8 @@ def main():
     # Merge the data.
     entries = json.loads(args.infile.read())
     results = asyncio.run(async_update_entries(entries))
-    results_str = json.dumps(results, sort_keys=True, indent=2)
+    sorted_results = sorted(results, key=lambda x: x['case'])
+    results_str = json.dumps(sorted_results, sort_keys=True, indent=2)
 
     # Write the data to `old` file.
     if args.in_place:
@@ -92,7 +93,7 @@ async def fetch_and_update(session, url, params, entry):
     d = {}
 
     # Ensure twe have a case number.
-    case = entry.get('Case')
+    case = entry.get('case')
     if not case:
         return d
 
@@ -105,7 +106,7 @@ async def fetch_and_update(session, url, params, entry):
         return d
 
     # Add the geolocation aumentation.
-    d["Case"] = case
+    d["case"] = case
     d.update(geolocation)
 
     # Return the result.
@@ -124,7 +125,7 @@ async def async_update_entries(entries):
                 session,
                 GEO_CENSUS_URL,
                 {
-                    "street": sanitize(entry.get('Location', '')),
+                    "street": sanitize(entry.get('location', '')),
                     "city": "Austin",
                     "state": "TX",
                     "benchmark": "Public_AR_Census2010",
@@ -164,9 +165,9 @@ def parse_geocensus_response(response):
         latitude = first_match.get('coordinates', {}).get('y', '')
         longitude = first_match.get('coordinates', {}).get('x', '')
         if latitude:
-            d['Latitude'] = latitude
+            d['latitude'] = latitude
         if longitude:
-            d['Longitude'] = longitude
+            d['longitude'] = longitude
 
     return d
 
@@ -185,7 +186,7 @@ class TestGeolocation:
     def test_parse_result_00(self):
         """Ensure a valid geocensus response gets parsed correctly."""
         actual = parse_geocensus_response(json.loads(GEOCENSUS_RESPONSE))
-        expected = {'Latitude': 38.846565, 'Longitude': -76.926956}
+        expected = {'latitude': 38.846565, 'longitude': -76.926956}
         assert actual == expected
 
     def test_parse_result_01(self):
@@ -196,10 +197,10 @@ class TestGeolocation:
 
     @pytest.mark.asyncio
     async def test_async_update_entries_00(self):
-        entries = [{'Case': '19-0400694', 'Location': '8100 Block of N. Lamar Blvd.'}]
+        entries = [{'case': '19-0400694', 'location': '8100 Block of N. Lamar Blvd.'}]
         actual = await async_update_entries(entries)
-        assert actual[0]['Latitude'] == 30.350113
-        assert actual[0]['Longitude'] == -97.710434
+        assert actual[0]['latitude'] == 30.350113
+        assert actual[0]['longitude'] == -97.710434
 
 
 GEOCENSUS_RESPONSE = """
