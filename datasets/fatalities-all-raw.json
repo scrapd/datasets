@@ -4348,6 +4348,29 @@
     "time": "08:42:00"
   },
   {
+    "case": "19-2650413",
+    "crash": 65,
+    "date": "2019-09-22",
+    "fatalities": [
+      {
+        "age": 24,
+        "dob": "1994-11-10",
+        "ethnicity": "White",
+        "first": "Carlos",
+        "gender": "Male",
+        "generation": "",
+        "last": "Alvarez-Recarte",
+        "middle": "Asteven"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/traffic-fatality-65-4",
+    "location": "9900 S. IH-35 NB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the silver, 2004 Dodge Durango driven by Carlos Asteven Alvarez-Recarte was traveling southbound in the northbound lanes on IH-35 proper when the truck struck a light pole. Carlos Asteven Alvarez-Recarte and the passenger in the vehicle were both transported to an area hospital. Carlos Asteven Alvarez-Recarte succumbed to his injuries on October 4, 2019.",
+    "time": "03:56:00"
+  },
+  {
     "case": "19-2661710",
     "crash": 60,
     "date": "2019-09-23",
@@ -4461,5 +4484,28 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a pedestrian was in the middle of the inside lane in the 7200 block of Cameron Rd. A white, 2012 Ford F-150 was heading northbound in the inside lane and struck the pedestrian. The pedestrian was pronounced deceased at the scene. He has been identified as 58-year-old Mauricio Garcia.",
     "time": "21:50:00"
+  },
+  {
+    "case": "19-2861035",
+    "crash": 66,
+    "date": "2019-10-13",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1996-04-08",
+        "ethnicity": "White",
+        "first": "David",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tienda",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/traffic-fatality-66-4",
+    "location": "William Cannon Drive and Emerald Forest Drive",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the driver of a white, 2015 Ford F250 was traveling westbound in the far right lane on William Cannon Drive while David Tienda was attempting to cross northbound on Emerald Forest Drive against the light in a motorized wheelchair. The truck, which had the green light, proceeded through the intersection and struck David Tienda. He was transported to an area hospital with serious injuries where he died on October 16, 2019.\n\n\tThe driver of the truck remained on scene. No charges are expected.",
+    "time": "15:32:00"
   }
 ]
