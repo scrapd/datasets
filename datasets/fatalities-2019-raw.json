@@ -1505,6 +1505,29 @@
     "time": "21:50:00"
   },
   {
+    "case": "19-2830834",
+    "crash": 67,
+    "date": "2019-10-10",
+    "fatalities": [
+      {
+        "age": 77,
+        "dob": "1942-10-10",
+        "ethnicity": "Hispanic",
+        "first": "Lydia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Quintanilla",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-67-4",
+    "location": "IH 35 northbound frontage road and Stassney Ln.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that the driver of a 2005, white Toyota Sienna van was traveling northbound on the frontage road of IH 35, making a left turn onto Stassney Ln. to head westbound. The driver of a 2000, brown Chevrolet van was at the light facing westbound in the inside lane. The driver of a 2014, red Nissan Altima was also facing westbound at the light in the outside lane. The driver of the Chevrolet van and the Nissan Altima said their light turned green and the proceeded through the intersection. The front of the Toyota Sienna van struck the front left of the brown Chevrolet van and then struck the driver side of the Nissan Altima. The Toyota Sienna came to rest on a barrier and had significant front end damage.\n\n\tThe driver and passenger of the Toyota Sienna were transported to a local hospital with non-life threatening injuries. On October 17, 2019, the passenger in the Toyota Sienna passed away as a result of the injuries sustained in the crash.",
+    "time": "11:32:00"
+  },
+  {
     "case": "19-2861035",
     "crash": 66,
     "date": "2019-10-13",
@@ -1526,5 +1549,51 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that the driver of a white, 2015 Ford F250 was traveling westbound in the far right lane on William Cannon Drive while David Tienda was attempting to cross northbound on Emerald Forest Drive against the light in a motorized wheelchair. The truck, which had the green light, proceeded through the intersection and struck David Tienda. He was transported to an area hospital with serious injuries where he died on October 16, 2019.\n\n\tThe driver of the truck remained on scene. No charges are expected.",
     "time": "15:32:00"
+  },
+  {
+    "case": "19-2990061",
+    "crash": 68,
+    "date": "2019-10-26",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1991-02-19",
+        "ethnicity": "White",
+        "first": "Christian",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sharp",
+        "middle": "Taylor"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-68-4",
+    "location": "13600 West State Highway 45 Eastbound Exit Ramp",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2013, black BMW X6 was traveling eastbound on the State Highway 45 toll road. The vehicle exited in the 13600 block for Parmer Lane and approached the tollbooth. The vehicle left the roadway before reaching the tollbooth, crashed into a barrier wall head-on and caught fire.\n\n\tThe driver of the BMW was pronounced deceased at the scene.",
+    "time": "00:23:00"
+  },
+  {
+    "case": "19-3000691",
+    "crash": 69,
+    "date": "2019-10-27",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1998-02-18",
+        "ethnicity": "Hispanic",
+        "first": "Mary",
+        "gender": "Female",
+        "generation": "",
+        "last": "Serrano",
+        "middle": "Grace"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-69-4",
+    "location": "10700 Burnet Road",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2015, maroon Hyundai Sonata was traveling southbound on Burnet Rd. in the 10700 block. The vehicle left the roadway to the right, travelled into and out of a drainage ditch and landed upside down. The female passenger was ejected from the vehicle and was pronounced deceased at the scene.\n\n\tThe driver of the Sonata was transported to a local hospital with serious injuries.",
+    "time": "08:44:00"
   }
 ]
