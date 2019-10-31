@@ -1595,5 +1595,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a 2015, maroon Hyundai Sonata was traveling southbound on Burnet Rd. in the 10700 block. The vehicle left the roadway to the right, travelled into and out of a drainage ditch and landed upside down. The female passenger was ejected from the vehicle and was pronounced deceased at the scene.\n\n\tThe driver of the Sonata was transported to a local hospital with serious injuries.",
     "time": "08:44:00"
+  },
+  {
+    "case": "19-3020781",
+    "crash": 70,
+    "date": "2019-10-29",
+    "fatalities": [
+      {
+        "age": 30,
+        "dob": null,
+        "ethnicity": "White",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-70-3",
+    "location": "4800 block of N IH 35 southbound service road",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2006, blue Toyota Scion was traveling southbound in the 4800 block of the service road of IH 35 when it left the roadway to the right. The vehicle slid into a wooden utility pole.\n\n\tThe driver of the Scion was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.",
+    "time": "12:20:00"
   }
 ]
