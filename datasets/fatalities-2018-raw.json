@@ -5,21 +5,31 @@
     "date": "2018-01-04",
     "fatalities": [
       {
-        "age": 23,
-        "dob": "1994-11-27",
-        "ethnicity": "Hispanic",
-        "first": "Ashley",
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
         "gender": "Female",
         "generation": "",
-        "last": "Martinez",
+        "last": "",
+        "middle": ""
+      },
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
         "middle": ""
       }
     ],
     "latitude": 0.0,
-    "link": "http://austintexas.gov/news/traffic-fatality-1-3",
+    "link": "http://austintexas.gov/news/traffic-fatality-1-2",
     "location": "5600 N IH 35 Northbound",
     "longitude": 0.0,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2018, Kenworth T680 with a 53\u2019 foot box trailer and a 2001, tan, GMC Jimmy were traveling northbound on IH 35. The GMC stopped in the center lane, for unknown reasons, and was rear ended by the Kenworth T680. The GMC then burst into flames, killing both of its occupants.\n\n\tThis case is still being investigated.",
     "time": "23:57:00"
   },
   {
@@ -157,7 +167,7 @@
     "link": "http://austintexas.gov/news/traffic-fatality-7-3",
     "location": "3400 block Red River Street",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a maroon, 1996 Yamaha moped was traveling northbound in the right lane of the 3400 block of Red River Street. A silver, 2012 Jeep Wrangler was also northbound in the right lane of Red River Street. The Wrangler failed to maintain an assured clear distance, striking the moped and failing to stop and render aid. The Wrangler continued driving northbound on Red River Street.\n\n\tThe Wrangler driver was later located in the 900 block of E. 37th Street. The driver, who officers determined to be intoxicated, has been identified as 21-year-old Olivia Madeleine Hamalainen Gruwell. Gruwell has been charged with failure to stop and render aid and intoxication manslaughter.\n\n\tThe moped driver identified as Timothy Wayne Boykin, was located in the 3500 block of Red River Street, where he was pronounced deceased.\n\n\tThis case is still being investigated.",
+    "notes": "Arrested:       Olivia Madeleine Hamalainen Gruwell, White female (21 years of age)\n\tThe preliminary investigation shows that a maroon, 1996 Yamaha moped was traveling northbound in the right lane of the 3400 block of Red River Street. A silver, 2012 Jeep Wrangler was also northbound in the right lane of Red River Street. The Wrangler failed to maintain an assured clear distance, striking the moped and failing to stop and render aid. The Wrangler continued driving northbound on Red River Street.\n\n\tThe Wrangler driver was later located in the 900 block of E. 37th Street. The driver, who officers determined to be intoxicated, has been identified as 21-year-old Olivia Madeleine Hamalainen Gruwell. Gruwell has been charged with failure to stop and render aid and intoxication manslaughter.\n\n\tThe moped driver identified as Timothy Wayne Boykin, was located in the 3500 block of Red River Street, where he was pronounced deceased.\n\n\tThis case is still being investigated.",
     "time": "03:05:00"
   },
   {
@@ -233,12 +243,23 @@
     "case": "18-0700966",
     "crash": 15,
     "date": "2018-03-11",
-    "fatalities": [],
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "White",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-15-3",
     "location": "1100 N Capital of Texas Highway NB",
     "longitude": 0.0,
-    "notes": "",
+    "notes": "The preliminary investigation shows that the unidentified male was driving a 2003, Honda Accord when he struck a light pole at the corner of N Capital of Texas Highway and Pascal Lane at approximately 2:35 p.m. The driver was pronounced deceased at the scene. \n\n\tThe case is still being investigated at this time.",
     "time": "14:35:00"
   },
   {
@@ -268,7 +289,18 @@
     "case": "18-0741868",
     "crash": 13,
     "date": "2018-03-15",
-    "fatalities": [],
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Hispanic",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-13-3",
     "location": "20 N. IH-35 Northbound",
@@ -443,21 +475,21 @@
     "date": "2018-05-07",
     "fatalities": [
       {
-        "age": 28,
-        "dob": null,
-        "ethnicity": "Undefined",
+        "age": 60,
+        "dob": "1957-11-07",
+        "ethnicity": "White",
         "first": "Robert",
-        "gender": "Undefined",
+        "gender": "Male",
         "generation": "",
-        "last": "Hispanic",
-        "middle": "Copeland White male (D.O.B. 11-7-57) Arrested: Rafael Padilla"
+        "last": "Copeland",
+        "middle": ""
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-22-2",
     "location": "7900 N. IH 35 service road southbound",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a black 2012 Jeep Grand Cherokee was traveling southbound in the right lane of the N. IH 35 southbound service road just south of Wonsley Dr. and struck a man in a wheelchair. The victim was in the right lane of travel on the service road. It is unknown why he was in the roadway. The victim was pronounced deceased at the scene. The driver of the Jeep fled the scene and was arrested at a later time based on a CrimeStoppers Tip.\n\n\tThe case is still being investigated.",
+    "notes": "Arrested:       Rafael Padilla, Hispanic male (28 years of age)\n\n\tThe preliminary investigation shows that a black 2012 Jeep Grand Cherokee was traveling southbound in the right lane of the N. IH 35 southbound service road just south of Wonsley Dr. and struck a man in a wheelchair. The victim was in the right lane of travel on the service road. It is unknown why he was in the roadway. The victim was pronounced deceased at the scene. The driver of the Jeep fled the scene and was arrested at a later time based on a CrimeStoppers Tip.\n\n\tThe case is still being investigated.",
     "time": "02:10:00"
   },
   {
@@ -926,21 +958,21 @@
     "date": "2018-08-18",
     "fatalities": [
       {
-        "age": 21,
-        "dob": null,
-        "ethnicity": "Undefined",
+        "age": 19,
+        "dob": "1999-04-13",
+        "ethnicity": "Black",
         "first": "Deemora",
-        "gender": "Undefined",
+        "gender": "Female",
         "generation": "",
-        "last": "Hispanic",
-        "middle": "Benson Black female (D.O.B. 4-13-99) Arrested: Felipe Hernandez"
+        "last": "Benson",
+        "middle": ""
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-49-4",
     "location": "700 N. IH 35 southbound frontage rd.",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a pedestrian ran into the roadway after being asked if she could run fast in high heels. A 2007, maroon, GMC Yukon, traveling southbound on the frontage rd. of IH 35, approaching 7th St. struck the pedestrian, in the left lane. The Yukon left the scene but returned a short time later. The pedestrian was transported to Dell Seton Medical Center at the University of Texas for emergency medical care. Officers arrested the driver of the Yukon and charged him with fail to stop and render aid.\n\n\tThe pedestrian, Deemora Benson, died as a result of her injuries on Sunday, September 2, 2018.",
+    "notes": "Arrested:      Felipe Hernandez, Hispanic male (21 years of age)\n\n\tThe preliminary investigation shows that a pedestrian ran into the roadway after being asked if she could run fast in high heels. A 2007, maroon, GMC Yukon, traveling southbound on the frontage rd. of IH 35, approaching 7th St. struck the pedestrian, in the left lane. The Yukon left the scene but returned a short time later. The pedestrian was transported to Dell Seton Medical Center at the University of Texas for emergency medical care. Officers arrested the driver of the Yukon and charged him with fail to stop and render aid.\n\n\tThe pedestrian, Deemora Benson, died as a result of her injuries on Sunday, September 2, 2018.",
     "time": "02:32:00"
   },
   {
@@ -995,21 +1027,21 @@
     "date": "2018-08-22",
     "fatalities": [
       {
-        "age": 26,
-        "dob": null,
-        "ethnicity": "Undefined",
+        "age": 24,
+        "dob": "1993-10-28",
+        "ethnicity": "White",
         "first": "Brianna",
-        "gender": "Undefined",
+        "gender": "Female",
         "generation": "",
-        "last": "White",
-        "middle": "Nicole Polzine White female (10-28-93) Arrested: Justin Dakota Ayers"
+        "last": "Polzine",
+        "middle": "Nicole"
       }
     ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-43-4",
     "location": "N IH 35 SB frontage road and U.S. 290 EB service road",
     "longitude": 0.0,
-    "notes": "The preliminary investigation shows that a 2004, white Acura TL was traveling southbound on the N. IH 35 southbound frontage road in the outside lane. The driver of the Acura ran the red light at the U.S. 290 eastbound service road. A 2009 black, Nissan Altima was traveling eastbound on the U.S. 290 eastbound service road in the inside lane. The Altima collided with the front right side of the Acura causing the Acura to then strike a 3rd vehicle, a 2016 white Ford Fusion.\n\n\tThe female passenger in the Acura was pronounced deceased at the scene. The drivers of the Altima and Fusion were transported to a local hospital with non-life threatening injuries.\n\n\tThe driver of the Acura, Justin Dakota Ayers, has been arrested and charged with the following:\n\n\t\tintoxication manslaughter\n\n\t\tintoxication assault\n\n\t\tfail to stop and render aid",
+    "notes": "Arrested:     Justin Dakota Ayers, White male (26 years of age)\n\n\tThe preliminary investigation shows that a 2004, white Acura TL was traveling southbound on the N. IH 35 southbound frontage road in the outside lane. The driver of the Acura ran the red light at the U.S. 290 eastbound service road. A 2009 black, Nissan Altima was traveling eastbound on the U.S. 290 eastbound service road in the inside lane. The Altima collided with the front right side of the Acura causing the Acura to then strike a 3rd vehicle, a 2016 white Ford Fusion.\n\n\tThe female passenger in the Acura was pronounced deceased at the scene. The drivers of the Altima and Fusion were transported to a local hospital with non-life threatening injuries.\n\n\tThe driver of the Acura, Justin Dakota Ayers, has been arrested and charged with the following:\n\n\t\tintoxication manslaughter\n\n\t\tintoxication assault\n\n\t\tfail to stop and render aid",
     "time": "20:50:00"
   },
   {
@@ -1062,12 +1094,23 @@
     "case": "18-2451655",
     "crash": 48,
     "date": "2018-09-02",
-    "fatalities": [],
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-48-5",
     "location": "4200 S. Lamar Blvd.",
     "longitude": 0.0,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a silver, 2011 Toyota Corolla was traveling southbound in the 4200 block of S. Lamar Blvd. when a pedestrian ran in front of the vehicle. The pedestrian was running eastbound across S. Lamar from the Brodie Oaks shopping center, not within the crosswalk. The pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died a short time later. \n\tThe driver of the Toyota Corolla stayed at the scene cooperated. No charges are expected at this time.",
     "time": "22:12:00"
   },
   {
@@ -1189,12 +1232,23 @@
     "case": "18-2850362",
     "crash": 55,
     "date": "2018-10-12",
-    "fatalities": [],
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Hispanic",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
     "latitude": 0.0,
     "link": "http://austintexas.gov/news/traffic-fatality-55-3",
     "location": "6300 block of N IH 35 northbound",
     "longitude": 0.0,
-    "notes": "",
+    "notes": "The preliminary investigation shows that a 2015 Dodge Ram truck was traveling northbound in the 6300 block of IH 35 when the driver struck a pedestrian who was standing in the inside lane. The driver did not see the pedestrian as it was dark at the time of the crash. The pedestrian was pronounced deceased at the scene. The driver stayed on scene and showed no signs of impairment.",
     "time": "06:31:00"
   },
   {
