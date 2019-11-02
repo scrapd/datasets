@@ -1603,13 +1603,13 @@
     "fatalities": [
       {
         "age": 30,
-        "dob": null,
-        "ethnicity": "White",
-        "first": "",
+        "dob": "1988-11-17",
+        "ethnicity": "Hispanic",
+        "first": "Juan",
         "gender": "Male",
         "generation": "",
-        "last": "",
-        "middle": ""
+        "last": "Lugo",
+        "middle": "Francisco"
       }
     ],
     "latitude": 0.0,
