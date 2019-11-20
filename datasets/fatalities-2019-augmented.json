@@ -1618,5 +1618,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a 2006, blue Toyota Scion was traveling southbound in the 4800 block of the service road of IH 35 when it left the roadway to the right. The vehicle slid into a wooden utility pole.\n\n\tThe driver of the Scion was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.",
     "time": "12:20:00"
+  },
+  {
+    "case": "19-3102011",
+    "crash": 71,
+    "date": "2019-11-06",
+    "fatalities": [
+      {
+        "age": 34,
+        "dob": "1985-01-06",
+        "ethnicity": "Hispanic",
+        "first": "Armando",
+        "gender": "Male",
+        "generation": "",
+        "last": "Casares",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.200392,
+    "link": "http://austintexas.gov/news/traffic-fatality-71-3",
+    "location": "1413 W. William Cannon Dr.",
+    "longitude": -97.79906,
+    "notes": "The preliminary investigation shows that a 2017, white Lexus RX was traveling eastbound on William Cannon Dr. in the middle lane when the driver struck a pedestrian that was attempting to run across the roadway. The pedestrian was not in a crosswalk and was attempting to cross mid-block over six lanes of traffic.\n\n\tThe driver of the Lexus stayed on scene and is cooperating with the investigation. No charges are expected to be filed at this time.\n\n\tThe pedestrian was transported to St. David\u2019s South Austin Hospital, but he died on November 13, 2019 as a result of his injuries.",
+    "time": "21:40:00"
   }
 ]
