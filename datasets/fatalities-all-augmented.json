@@ -4687,5 +4687,74 @@
     "longitude": -97.79906,
     "notes": "The preliminary investigation shows that a 2017, white Lexus RX was traveling eastbound on William Cannon Dr. in the middle lane when the driver struck a pedestrian that was attempting to run across the roadway. The pedestrian was not in a crosswalk and was attempting to cross mid-block over six lanes of traffic.\n\n\tThe driver of the Lexus stayed on scene and is cooperating with the investigation. No charges are expected to be filed at this time.\n\n\tThe pedestrian was transported to St. David’s South Austin Hospital, but he died on November 13, 2019 as a result of his injuries.",
     "time": "21:40:00"
+  },
+  {
+    "case": "19-3181630",
+    "crash": 72,
+    "date": "2019-11-14",
+    "fatalities": [
+      {
+        "age": 49,
+        "dob": "1970-11-24",
+        "ethnicity": "White",
+        "first": "Rachelle",
+        "gender": "Female",
+        "generation": "",
+        "last": "Covey",
+        "middle": "Velin"
+      }
+    ],
+    "latitude": 30.308647,
+    "link": "http://austintexas.gov/news/traffic-fatality-72-2",
+    "location": "1100 block of E. 51st St.",
+    "longitude": -97.70886,
+    "notes": "The preliminary investigation shows that a 2017, white Jeep Wrangler was traveling eastbound in the inside lane of E. 51st St. when it struck a pedestrian who was attempting to cross the roadway. The pedestrian, Rachelle Velin Covey, was not within a crosswalk and was attempting to cross five lanes of traffic in an area that is dimly lit. The driver of the vehicle remained on scene and is cooperating with the investigation. No charges are expected to be filed at this time.\nThe pedestrian was transported to Dell Seton Medical Center at the University of Texas where she died later that evening as a result of his injuries.",
+    "time": "20:36:00"
+  },
+  {
+    "case": "19-3200312",
+    "crash": 73,
+    "date": "2019-11-16",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1988-01-29",
+        "ethnicity": "Hispanic",
+        "first": "Damir",
+        "gender": "Male",
+        "generation": "",
+        "last": "Perez",
+        "middle": "Herrera"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/traffic-fatality-73-3",
+    "location": "8200 block of E. US 290 Hwy Svrd EB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the white, 2017 Chrysler 200 driven by Damir Hererra Perez was traveling eastbound in the 8200 block of E. US 290 Hwy Svrd at a high rate of speed when it left the roadway for an unknown reason and crashed into a concrete pillar.\n\n\tDamir Hererra Perez was pronounced deceased at the scene.",
+    "time": "05:00:00"
+  },
+  {
+    "case": "19-3201421",
+    "crash": 74,
+    "date": "2019-11-18",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1993-07-29",
+        "ethnicity": "White",
+        "first": "Matthew",
+        "gender": "Male",
+        "generation": "",
+        "last": "Almasi",
+        "middle": "James"
+      }
+    ],
+    "latitude": 30.333675,
+    "link": "http://austintexas.gov/news/traffic-fatality-74-2",
+    "location": "5800 block of Burnet Road",
+    "longitude": -97.73996,
+    "notes": "The preliminary investigation shows that the blue, 2009 Kawasaki Ninja motorcycle driven by Matthew James Almasi was traveling northbound in the outside lane of the 5800 block of Burnet Road at a high rate of speed. A gold, 1997 Honda Odyssey minivan was traveling southbound in the inside lane when the driver attempted to make a lefthand turn at which time the minivan and motorcycle collided.\n\n\tMatthew James Almasi, who was not wearing a helmet or other personal protective gear, was thrown from his motorcycle. He was transported by Austin-Travis County EMS to Dell Seton Medical Center at the University of Texas where he succumbed to his wounds at approximately 8:30 p.m.\n\n\tThe driver of the minivan, who was uninjured in the crash, remained on scene and has been cooperating with investigators. He was issued a traffic citation for fail to yield right of way – left turn. The passenger in the van was treated at the scene for minor injuries.",
+    "time": "19:05:00"
   }
 ]
