@@ -4756,5 +4756,51 @@
     "longitude": -97.73996,
     "notes": "The preliminary investigation shows that the blue, 2009 Kawasaki Ninja motorcycle driven by Matthew James Almasi was traveling northbound in the outside lane of the 5800 block of Burnet Road at a high rate of speed. A gold, 1997 Honda Odyssey minivan was traveling southbound in the inside lane when the driver attempted to make a lefthand turn at which time the minivan and motorcycle collided.\n\n\tMatthew James Almasi, who was not wearing a helmet or other personal protective gear, was thrown from his motorcycle. He was transported by Austin-Travis County EMS to Dell Seton Medical Center at the University of Texas where he succumbed to his wounds at approximately 8:30 p.m.\n\n\tThe driver of the minivan, who was uninjured in the crash, remained on scene and has been cooperating with investigators. He was issued a traffic citation for fail to yield right of way – left turn. The passenger in the van was treated at the scene for minor injuries.",
     "time": "19:05:00"
+  },
+  {
+    "case": "19-3251584",
+    "crash": 75,
+    "date": "2019-11-21",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1964-08-30",
+        "ethnicity": "White",
+        "first": "James",
+        "gender": "Male",
+        "generation": "",
+        "last": "Beasley",
+        "middle": "Lee"
+      }
+    ],
+    "latitude": 30.191051,
+    "link": "http://austintexas.gov/news/traffic-fatality-75-0",
+    "location": "800 block of E. William Cannon Drive",
+    "longitude": -97.77183,
+    "notes": "The preliminary investigation shows James Lee Beasley was attempting to cross midblock in the 800 block of E. William Cannon Drive where there is no crosswalk when he was struck by a gold, 2006 Mercury Mariner that was traveling westbound on E. William Cannon and was in the process of a signaled lane change.\n\n\tThe section of the roadway where James Lee Beasley attempted to cross is heavily congested with vehicular traffic. There is no indication that driver impairment, speed, lighting conditions, or weather/road conditions played a factor.\n\n\tPersonnel from the Austin Fire Department and Austin-Travis County EMS attempted lifesaving measures, but James Beasley died on scene at approximately 7:38 p.m.",
+    "time": "19:18:00"
+  },
+  {
+    "case": "19-3281398",
+    "crash": 76,
+    "date": "2019-11-24",
+    "fatalities": [
+      {
+        "age": 30,
+        "dob": null,
+        "ethnicity": "White",
+        "first": "Risean",
+        "gender": "Female",
+        "generation": "",
+        "last": "Overman",
+        "middle": "Deontay Lee Green | Black male | 10/16/1991 Arrested: Amanda"
+      }
+    ],
+    "latitude": 30.216635,
+    "link": "http://austintexas.gov/news/traffic-fatality-76-0",
+    "location": "1100 block of E. Ben White Blvd WB",
+    "longitude": -97.75379,
+    "notes": "The preliminary investigation shows that Amanda Overman was driving a maroon, 2003 Honda CR-V westbound in the 1100 block of E. Ben White Blvd when she lost control of her vehicle and struck the center median. The vehicle ricocheted back into the roadway where it struck Risean Deontay Lee Green and the black and gold, 2009 Yamaha motorcycle he was riding.\n\n\tOverman pulled into the shopping center located in the 700 block of E. Ben White Blvd at which time officers made contact with her. Officers conducted a DWI investigation on scene that indicated Amanda Overman was intoxicated.\n\n\tRisean Deontay Lee Green was transported to St. David’s South Austin Medical Center with life-threatening injuries. He died there at approximately 7:44 p.m.\n\n\tAmanda Overman has been charged with intoxication manslaughter. Her booking photo is below.",
+    "time": "19:15:00"
   }
 ]
