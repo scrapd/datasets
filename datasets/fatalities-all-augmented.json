@@ -4679,6 +4679,29 @@
     "time": "21:40:00"
   },
   {
+    "case": "19-3161144",
+    "crash": 78,
+    "date": "2019-11-12",
+    "fatalities": [
+      {
+        "age": 75,
+        "dob": "1944-03-23",
+        "ethnicity": "White",
+        "first": "Isaac",
+        "gender": "Male",
+        "generation": "",
+        "last": "Albarran",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.300373,
+    "link": "http://austintexas.gov/news/traffic-fatality-78-0",
+    "location": "6700 block of Johnny Morris Rd.",
+    "longitude": -97.64815,
+    "notes": "The preliminary investigation indicates a 2003, white Toyota Tundra was traveling eastbound in the 6500 block of Loyola Ln. approaching the intersection of Loyola Ln. and Johnny Morris Rd. A 2003, gray Infiniti was traveling westbound in the 6600 block of Loyola Ln. approaching the same intersection. The Tundra began to turn left onto Johnny Morris Rd. and was t-boned by the Infiniti on the passenger side of the vehicle. All of the people involved in this crash were transported to a local hospital. At the time, it was not believed that any of the injuries were life-threatening, however the passenger in the Tundra died as a result of his injuries on Tuesday, December 3, 2019 at 7:44 p.m.\n\n\tThe driver of the Infiniti was cited for having no driver’s license.",
+    "time": "16:33:00"
+  },
+  {
     "case": "19-3181630",
     "crash": 72,
     "date": "2019-11-14",
