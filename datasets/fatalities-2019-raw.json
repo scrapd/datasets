@@ -1756,5 +1756,28 @@
     "longitude": 0.0,
     "notes": "Arrested:      Amanda Overman, White female, 30 years of age\n\n\tThe preliminary investigation shows that Amanda Overman was driving a maroon, 2003 Honda CR-V westbound in the 1100 block of E. Ben White Blvd when she lost control of her vehicle and struck the center median. The vehicle ricocheted back into the roadway where it struck Risean Deontay Lee Green and the black and gold, 2009 Yamaha motorcycle he was riding.\n\n\tOverman pulled into the shopping center located in the 700 block of E. Ben White Blvd at which time officers made contact with her. Officers conducted a DWI investigation on scene that indicated Amanda Overman was intoxicated.\n\n\tRisean Deontay Lee Green was transported to St. David\u2019s South Austin Medical Center with life-threatening injuries. He died there at approximately 7:44 p.m.\n\n\tAmanda Overman has been charged with intoxication manslaughter. Her booking photo is below.",
     "time": "19:15:00"
+  },
+  {
+    "case": "19-3341784",
+    "crash": 77,
+    "date": "2019-11-30",
+    "fatalities": [
+      {
+        "age": 50,
+        "dob": "1969-10-25",
+        "ethnicity": "White",
+        "first": "Mark",
+        "gender": "Male",
+        "generation": "",
+        "last": "Evans",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-77-1",
+    "location": "Ralph Ablanedo Drive/S. Congress Avenue",
+    "longitude": 0.0,
+    "notes": "Arrested:       Michael Boisse | White male | 45 years of age\n\n\tThe preliminary investigation indicates that the grey, 2017 Chrysler 300 driven by Michael Boisse was traveling northbound in the 8500 block of S. Congress Avenue when he attempted to turn left into the parking lot of a local business. A black, 2011 Infinity was southbound when the driver struck the 300 on the right-rear passenger side. Mark Evans, 50, was seated behind Michael Boisse and was directly impacted by the crash. Mark Evans was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries where he died a short time later.\n\n\tMichael Boisse underwent a standardized field sobriety test on scene. He was arrested and is charged with intoxication manslaughter. His booking photo is below.",
+    "time": "23:23:00"
   }
 ]
