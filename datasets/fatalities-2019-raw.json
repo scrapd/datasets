@@ -1802,5 +1802,28 @@
     "longitude": 0.0,
     "notes": "Arrested:       Michael Boisse | White male | 45 years of age\n\n\tThe preliminary investigation indicates that the grey, 2017 Chrysler 300 driven by Michael Boisse was traveling northbound in the 8500 block of S. Congress Avenue when he attempted to turn left into the parking lot of a local business. A black, 2011 Infinity was southbound when the driver struck the 300 on the right-rear passenger side. Mark Evans, 50, was seated behind Michael Boisse and was directly impacted by the crash. Mark Evans was transported to Dell Seton Medical Center at the University of Texas with life-threatening injuries where he died a short time later.\n\n\tMichael Boisse underwent a standardized field sobriety test on scene. He was arrested and is charged with intoxication manslaughter. His booking photo is below.",
     "time": "23:23:00"
+  },
+  {
+    "case": "19-3400361",
+    "crash": 79,
+    "date": "2019-12-06",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1992-04-19",
+        "ethnicity": "White",
+        "first": "Cody",
+        "gender": "Male",
+        "generation": "",
+        "last": "Faust",
+        "middle": "Allen"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-79-0",
+    "location": "8700 block of W. SH 71",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation indicates the grey, 2020 Toyota Camry driven by Cody Allen Faust was traveling eastbound in the 8700 block of W. SH 71 when it crossed into the westbound lanes and struck a white, 2015 Jeep Grand Cherokee head on. Cody Allen Faust was transported to Dell Seton Medical Center at the University of Texas where he died at 12:45 p.m.\n\n\tThe driver of the Jeep Grand Cherokee and the passenger in the Toyota Camry were also transported to an area hospital with non-life threatening injuries.\n\n\tAn autopsy has been performed. We are awaiting toxicology results to determine whether impairment was a factor.",
+    "time": "06:52:00"
   }
 ]
