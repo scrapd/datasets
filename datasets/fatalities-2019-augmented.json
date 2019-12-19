@@ -1871,5 +1871,28 @@
     "longitude": -97.733574,
     "notes": "The preliminary investigation indicates that a blue and silver Capital Metro bus was traveling westbound near the 2000 block of E. Oltorf. The driver stopped and a few passengers exited the rear door of the bus. The unidentified pedestrian exited the bus and was on the sidewalk. As the bus drove away, the pedestrian stumbled backwards, falling between the curb and the bus. The pedestrian was struck by the back portion of the bus. He was transported to Dell Seton Medical Center at the University of Texas and later died as a result of his injuries.",
     "time": "19:34:00"
+  },
+  {
+    "case": "19-3500150",
+    "crash": 82,
+    "date": "2019-12-16",
+    "fatalities": [
+      {
+        "age": 45,
+        "dob": "1974-09-25",
+        "ethnicity": "Black",
+        "first": "Merry",
+        "gender": "Female",
+        "generation": "",
+        "last": "Daye",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.317339,
+    "link": "http://austintexas.gov/news/traffic-fatality-82",
+    "location": "6000 block of Cameron Road",
+    "longitude": -97.699585,
+    "notes": "The preliminary investigation shows that a silver, 2014 Dodge Ram pickup was traveling southbound in the 6000 block of Cameron Road at approximately 2:26 a.m. on Monday, December 16, 2019. The truck struck 45-year-old Merry Daye who was in the designated southbound bike lane. Merry Daye was attempting to address a mechanical issue with her bike when she was hit. She was transported to Dell Seton Medical Center at the University of Texas where she was pronounced deceased.\n\n\tAn autopsy has been performed. The official cause of death is pending.\n\n\tAPD officers located the Dodge Ram that is believed to have been involved. The vehicle was unoccupied. It is currently being processed for evidence.",
+    "time": "02:26:00"
   }
 ]
