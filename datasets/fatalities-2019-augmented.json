@@ -1848,5 +1848,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation indicates that a white, Freightliner truck towing a white, Great Dane semi-trailer was broken down in the outside shoulder in the 9800 block N. IH 35 NB proper. The black, Ford Edge driven by Allison Hollingshead Banks, for an unknown reason, drove into the rear of the tractor trailer. Allison Hollingshead Banks was transported to St. David\u2019s Round Rock Medical Center where she succumbed to her injuries and was pronounced deceased on 12/9/19 at 11:25 a.m.",
     "time": "21:29:00"
+  },
+  {
+    "case": "19-3471756",
+    "crash": 81,
+    "date": "2019-12-13",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Hispanic",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.230906,
+    "link": "http://austintexas.gov/news/traffic-fatality-81",
+    "location": "2000 block of E. Oltorf",
+    "longitude": -97.733574,
+    "notes": "The preliminary investigation indicates that a blue and silver Capital Metro bus was traveling westbound near the 2000 block of E. Oltorf. The driver stopped and a few passengers exited the rear door of the bus. The unidentified pedestrian exited the bus and was on the sidewalk. As the bus drove away, the pedestrian stumbled backwards, falling between the curb and the bus. The pedestrian was struck by the back portion of the bus. He was transported to Dell Seton Medical Center at the University of Texas and later died as a result of his injuries.",
+    "time": "19:34:00"
   }
 ]
