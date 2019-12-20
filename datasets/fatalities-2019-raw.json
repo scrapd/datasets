@@ -1894,5 +1894,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a silver, 2014 Dodge Ram pickup was traveling southbound in the 6000 block of Cameron Road at approximately 2:26 a.m. on Monday, December 16, 2019. The truck struck 45-year-old Merry Daye who was in the designated southbound bike lane. Merry Daye was attempting to address a mechanical issue with her bike when she was hit. She was transported to Dell Seton Medical Center at the University of Texas where she was pronounced deceased.\n\n\tAn autopsy has been performed. The official cause of death is pending.\n\n\tAPD officers located the Dodge Ram that is believed to have been involved. The vehicle was unoccupied. It is currently being processed for evidence.",
     "time": "02:26:00"
+  },
+  {
+    "case": "19-3510124",
+    "crash": 83,
+    "date": "2019-12-17",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1986-06-30",
+        "ethnicity": "White",
+        "first": "Matthew",
+        "gender": "Male",
+        "generation": "",
+        "last": "Smith",
+        "middle": "John"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-83",
+    "location": "Ben White Frontage Rd. westbound and Congress Avenue",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a black, 2012 Ford F-150 pickup truck was traveling westbound on the frontage road of Ben White approaching Congress Avenue. The driver of the truck attempted to make the turnaround for the eastbound Ben White frontage road when he lost control and struck the cement barrier. The vehicle caught on fire. The driver was extracted from the truck and transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries.",
+    "time": "04:44:00"
   }
 ]
