@@ -1050,10 +1050,10 @@
         "middle": "Joseph"
       }
     ],
-    "latitude": 30.191793,
+    "latitude": 30.192728,
     "link": "http://austintexas.gov/news/traffic-fatality-46-6",
     "location": "U.S. Hwy 290 and William Cannon Dr.",
-    "longitude": -97.77453,
+    "longitude": -97.77728,
     "notes": "The preliminary investigation shows that Douglas Joseph Vogelsass was walking on William Cannon Dr. northbound across U.S. Highway 290. He disregarded the pedestrian control device and was struck by a 2013 Ford F150.\n\n\tDouglas Joseph Vogelsass was pronounced deceased at the scene.\n\n\tThe driver of the F150 remained on scene and was cooperative. No charges are expected to be filed.",
     "time": "00:49:00"
   },
@@ -1917,5 +1917,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a black, 2012 Ford F-150 pickup truck was traveling westbound on the frontage road of Ben White approaching Congress Avenue. The driver of the truck attempted to make the turnaround for the eastbound Ben White frontage road when he lost control and struck the cement barrier. The vehicle caught on fire. The driver was extracted from the truck and transported to Dell Seton Medical Center at the University of Texas where he died as a result of his injuries.",
     "time": "04:44:00"
+  },
+  {
+    "case": "19-3530313",
+    "crash": 84,
+    "date": "2019-12-19",
+    "fatalities": [
+      {
+        "age": 62,
+        "dob": "1957-12-07",
+        "ethnicity": "Hispanic",
+        "first": "Ana",
+        "gender": "Female",
+        "generation": "",
+        "last": "Argueta",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/traffic-fatality-84",
+    "location": "7600 block of SH 71",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2013, dark blue, Dodge Ram truck was traveling westbound in the 7600 block of SH 71 in the outside lane. The pedestrian was attempting to cross the roadway from the south curb line to the north curb line. The pedestrian was not in a crosswalk and was attempting to cross mid-block over five lanes of traffic in an area that is heavily congested with traffic and not well lit. The driver of the vehicle remained on scene and is cooperating with the investigation. It is not believed that driver impairment, speed, or weather/road conditions were factors in this incident. It is, however, believed that poor lighting conditions in the dark, early-morning hours contributed to the collision. Life-saving measures were attempted on the pedestrian by the Austin Fire Department and Austin-Travis County EMS, but the pedestrian succumbed to her injuries and died on scene at 7:22 a.m.",
+    "time": "06:53:00"
   }
 ]
