@@ -4976,5 +4976,28 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a 2013, dark blue, Dodge Ram truck was traveling westbound in the 7600 block of SH 71 in the outside lane. The pedestrian was attempting to cross the roadway from the south curb line to the north curb line. The pedestrian was not in a crosswalk and was attempting to cross mid-block over five lanes of traffic in an area that is heavily congested with traffic and not well lit. The driver of the vehicle remained on scene and is cooperating with the investigation. It is not believed that driver impairment, speed, or weather/road conditions were factors in this incident. It is, however, believed that poor lighting conditions in the dark, early-morning hours contributed to the collision. Life-saving measures were attempted on the pedestrian by the Austin Fire Department and Austin-Travis County EMS, but the pedestrian succumbed to her injuries and died on scene at 7:22 a.m.",
     "time": "06:53:00"
+  },
+  {
+    "case": "19-3560188",
+    "crash": 85,
+    "date": "2019-12-22",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1997-07-15",
+        "ethnicity": "Hispanic",
+        "first": "Elvin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Diaz-Felipe",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/traffic-fatality-85",
+    "location": "11200 Dessau Rd.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2008 Toyota Camry was traveling southbound in the 12000 block of Dessau Rd. at the intersection of Braker Ln. when the driver struck a pedestrian in the southbound lanes. Video evidence from the vehicle shows the pedestrian walking across Dessau Rd. from east to west while talking on a cell phone. At the time of the crash, the pedestrian was walking parallel to, but outside of the crosswalk with his head oriented in a downward direction and away from approaching southbound traffic. The pedestrian was pronounced deceased at the scene.\n\n\tThe driver remained on scene and is cooperating. No charges are expected at this time.",
+    "time": "02:25:00"
   }
 ]
