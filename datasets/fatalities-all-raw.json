@@ -4999,5 +4999,28 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a 2008 Toyota Camry was traveling southbound in the 12000 block of Dessau Rd. at the intersection of Braker Ln. when the driver struck a pedestrian in the southbound lanes. Video evidence from the vehicle shows the pedestrian walking across Dessau Rd. from east to west while talking on a cell phone. At the time of the crash, the pedestrian was walking parallel to, but outside of the crosswalk with his head oriented in a downward direction and away from approaching southbound traffic. The pedestrian was pronounced deceased at the scene.\n\n\tThe driver remained on scene and is cooperating. No charges are expected at this time.",
     "time": "02:25:00"
+  },
+  {
+    "case": "19-3651208",
+    "crash": 86,
+    "date": "2019-12-31",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "Undefined",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/traffic-fatality-86",
+    "location": "6729 Manor Rd.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2008 maroon Cadillac was traveling northbound in the right lane of Manor Rd. in the 6700 block. As the vehicle approached the crest of a slight incline, it crashed into a pedestrian who was standing in the middle of the right lane. The pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died a short time after arriving. He has not been identified.\n\n\tThe driver remained on scene and is cooperating. No charges are expected at this time.",
+    "time": "18:11:00"
   }
 ]
