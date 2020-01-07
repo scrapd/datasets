@@ -24,7 +24,7 @@ if [ -z "${HAS_CHANGE}" ]; then
   [ "$REGENERATE" == 0 ] && exit 0
 fi
 
-for YEAR in {2017..2019}; do
+for YEAR in {2017..2020}; do
   echo "=> Processing year ${YEAR}..."
 
   # Prepare variables.
@@ -66,8 +66,8 @@ done
 # Merge the results.
 cd "${TOPDIR}/datasets"|| exit
 echo "=> Merging the yearly data sets..."
-jq -s add fatalities-20{17..19}-raw.json > fatalities-all-raw.json
-jq -s add fatalities-20{17..19}-augmented.json > fatalities-all-augmented.json
+jq -s add fatalities-20{17..20}-raw.json > fatalities-all-raw.json
+jq -s add fatalities-20{17..20}-augmented.json > fatalities-all-augmented.json
 
 # Compute the number of new entries.
 ENTRY_COUNT_AFTER=$(jq length "${CURRENT_DATASET}")
