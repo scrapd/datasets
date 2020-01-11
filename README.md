@@ -90,7 +90,7 @@ There are generated using the following `jq` command:
 
 ```bash
 jq -s add fatalities-20{17..20}-raw.json > fatalities-all-raw.json
-jq -s add fatalities-20{17..20}-augmented.json > fatalities-augmented-raw.json
+jq -s add fatalities-20{17..20}-augmented.json > fatalities-all-augmented.json
 ```
 
 ## Full updates
