@@ -43,13 +43,13 @@ quality of the data.
 
 ```bash
 # Generate empty data sets.
-for f in fatalities-20{13..19}-augmented.json; do echo "[]" > "${f}"; done
+for f in fatalities-20{13..20}-augmented.json; do echo "[]" > "${f}"; done
 ```
 
 Augment the data sets:
 
 ```bash
-for f in fatalities-20{13..19}-augmented.json; do python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py"-i ${f}; done
+for f in fatalities-20{13..20}-augmented.json; do python "${TOPDIR}/tools/scrapd-augmenter-geocoding-geocensus.py"-i ${f}; done
 ```
 
 The data sets are being augmented with ScrAPD augmenters that can be found in the `tools` folder. Each augmenter
@@ -89,8 +89,8 @@ The data sets whose year is `all` are a combination of all the data sets of the 
 There are generated using the following `jq` command:
 
 ```bash
-jq -s add fatalities-20{17..19}-raw.json > fatalities-all-raw.json
-jq -s add fatalities-20{17..19}-augmented.json > fatalities-augmented-raw.json
+jq -s add fatalities-20{17..20}-raw.json > fatalities-all-raw.json
+jq -s add fatalities-20{17..20}-augmented.json > fatalities-all-augmented.json
 ```
 
 ## Full updates
@@ -105,5 +105,5 @@ ScrAPD versions which required a full update:
 As a result, all the data sets were updated with the following command:
 
 ```bash
-for i in {17..19}; do python tools/scrapd-merger.py -i fatalities-20${i}-raw.json <(scrapd -v --format json --from "Jan 1 20${i}" --to "Dec 31 20${i}"); done
+for i in {17..20}; do python tools/scrapd-merger.py -i fatalities-20${i}-raw.json <(scrapd -v --format json --from "Jan 1 20${i}" --to "Dec 31 20${i}"); done
 ```
