@@ -5006,13 +5006,13 @@
     "date": "2019-12-31",
     "fatalities": [
       {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
+        "age": 32,
+        "dob": "1987-06-25",
+        "ethnicity": "Black",
+        "first": "Amisi",
         "gender": "Male",
         "generation": "",
-        "last": "",
+        "last": "Lukongo",
         "middle": ""
       }
     ],
