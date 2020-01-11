@@ -5006,13 +5006,13 @@
     "date": "2019-12-31",
     "fatalities": [
       {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
+        "age": 32,
+        "dob": "1987-06-25",
+        "ethnicity": "Black",
+        "first": "Amisi",
         "gender": "Male",
         "generation": "",
-        "last": "",
+        "last": "Lukongo",
         "middle": ""
       }
     ],
@@ -5022,5 +5022,74 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a 2008 maroon Cadillac was traveling northbound in the right lane of Manor Rd. in the 6700 block. As the vehicle approached the crest of a slight incline, it crashed into a pedestrian who was standing in the middle of the right lane. The pedestrian was transported to Dell Seton Medical Center at the University of Texas where he died a short time after arriving. He has not been identified.\n\n\tThe driver remained on scene and is cooperating. No charges are expected at this time.",
     "time": "18:11:00"
+  },
+  {
+    "case": "20-0041429",
+    "crash": 1,
+    "date": "2020-01-04",
+    "fatalities": [
+      {
+        "age": 74,
+        "dob": "1946-01-09",
+        "ethnicity": "Hispanic",
+        "first": "Mary",
+        "gender": "Female",
+        "generation": "",
+        "last": "Gonzales-Limas",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-1-2",
+    "location": "3000-3500 block S. IH-35",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2007, grey Toyota Camry was traveling southbound in the 3000-3500 block of S. IH-35 southbound when it left its lane of travel for unknown reasons and struck the concrete barrier dividing the southbound and northbound lanes. The driver was transported to St. David’s South Austin Hospital where she passed away not long after arrival.",
+    "time": "20:25:00"
+  },
+  {
+    "case": "20-0081414",
+    "crash": 2,
+    "date": "2020-01-08",
+    "fatalities": [
+      {
+        "age": 75,
+        "dob": "1944-03-05",
+        "ethnicity": "Hispanic",
+        "first": "Braulia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Hernandez",
+        "middle": "Arce"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-2-2",
+    "location": "Sandshof Dr. and Loyola Ln.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2006 BMW BX5 was traveling westbound on Loyola Ln. when it struck a pedestrian who was walking from south to north across the roadway. The elderly pedestrian, along with another family member, were standing in the center median that divides east to westbound lanes of Loyola Ln. The pedestrian began to walk across Loyola Ln. and was struck in the middle of the roadway. The driver of the BMW remained on scene and cooperated with the investigation. No charges are expected at this time.\n\n\tThe pedestrian was pronounced deceased on scene.",
+    "time": "18:25:00"
+  },
+  {
+    "case": "20-0081458",
+    "crash": 3,
+    "date": "2020-01-08",
+    "fatalities": [
+      {
+        "age": 62,
+        "dob": "1957-11-13",
+        "ethnicity": "Hispanic",
+        "first": "Mauro",
+        "gender": "Male",
+        "generation": "",
+        "last": "Mota",
+        "middle": "Carrasco"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-3-2",
+    "location": "1143 Airport Blvd.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2014, silver Ford Focus was traveling northbound in the inside lane of the 1100 block of Airport Blvd. The Focus struck a pedestrian who was crossing Airport Blvd. from the west to east curb line. A 2020, blue Toyota Tacoma was traveling behind the Focus and also struck the pedestrian while he was laying in the roadway.\n\n\tBoth drivers remained on scene and are cooperating with the investigation. Driver impairment is not believed to be a factor in this auto-pedestrian collision and no charges are expected at this time.\n\tThe pedestrian was pronounced deceased on scene. It is believed the pedestrian may have been impaired.",
+    "time": "18:52:00"
   }
 ]
