@@ -67,5 +67,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a 2014, silver Ford Focus was traveling northbound in the inside lane of the 1100 block of Airport Blvd. The Focus struck a pedestrian who was crossing Airport Blvd. from the west to east curb line. A 2020, blue Toyota Tacoma was traveling behind the Focus and also struck the pedestrian while he was laying in the roadway.\n\n\tBoth drivers remained on scene and are cooperating with the investigation. Driver impairment is not believed to be a factor in this auto-pedestrian collision and no charges are expected at this time.\n\tThe pedestrian was pronounced deceased on scene. It is believed the pedestrian may have been impaired.",
     "time": "18:52:00"
+  },
+  {
+    "case": "20-0110690",
+    "crash": 4,
+    "date": "2020-01-11",
+    "fatalities": [
+      {
+        "age": 42,
+        "dob": "1977-09-12",
+        "ethnicity": "White",
+        "first": "Leon",
+        "gender": "Male",
+        "generation": "",
+        "last": "Harvey",
+        "middle": "Jay"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-4-1",
+    "location": "12600 block of N. Mopac Expressway SB",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that Leon Jay Harvey was driving a white, 2015 Toyota Prius in the right lane in the 12600 block of N. Mopac Expressway SB when he attempted to take the exit and struck a barrier. The impact of the crash caused the vehicle to re-enter the roadway, putting it in the path of a black, 2013 Ford F150 that collided with the passenger\u2019s side of the Prius.\n\n\tThe driver of the Ford was uninjured and remained on scene. Leon Jay Harvey was pronounced deceased on site. Speed is believed to have been a factor in the crash. There are no charges expected.",
+    "time": "11:50:00"
   }
 ]
