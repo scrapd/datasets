@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Define variables.
-: ${REGENERATE:=0}
+: "${REGENERATE:=0}"
 CURRENT_YEAR=$(date +%Y)
 TOPDIR=$(git rev-parse --show-toplevel)
 DATASET_DIR="${TOPDIR}/datasets"
@@ -32,6 +32,9 @@ for YEAR in {2017..2020}; do
   AUGMENTED_DATA_SET="${DATASET_DIR}/fatalities-${YEAR}-augmented.json"
   AUGMENTATION_DIR="${TOPDIR}/augmentations/${YEAR}"
 
+  # Create augmentation dir if needed.
+  mkdir -p "${AUGMENTATION_DIR}"
+
   # Create augmented data sets from the raw ones.
   echo -e "\t- Resetting augmented data sets..."
   cp "${RAW_DATA_SET}" "${AUGMENTED_DATA_SET}"
@@ -41,7 +44,7 @@ for YEAR in {2017..2020}; do
   echo -e "\t- Applying augmentations (1st pass)..."
   for AUGMENTATION in "${AUGMENTATION_DIR}"/*.json; do
     echo -e "\t\t- $(basename ${AUGMENTATION})"
-    [ -f ${AUGMENTATION} ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
+    [ -f "${AUGMENTATION}" ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
   done
 
   # Generate the augmentations.
@@ -50,6 +53,7 @@ for YEAR in {2017..2020}; do
   for AUGMENTATION in ${AUGMENTATIONS}; do
     TOOL="${TOOL_DIR}/$(echo ${AUGMENTATION}|cut -d':' -f1)"
     AUGMENTATION_FILE="${AUGMENTATION_DIR}/$(echo ${AUGMENTATION}|cut -d':' -f2)"
+    [ ! -f "${AUGMENTATION_FILE}" ] && echo "[]" > "${AUGMENTATION_FILE}"
     echo -e "\t\t- $(basename ${AUGMENTATION_FILE})"
     python "${TOOL}" "${AUGMENTED_DATA_SET}" > "${AUGMENTATION_FILE}"
   done
@@ -59,7 +63,7 @@ for YEAR in {2017..2020}; do
   echo -e "\t- Applying augmentations (2nd pass)..."
   for AUGMENTATION in "${AUGMENTATION_DIR}"/*.json; do
     echo -e "\t\t- $(basename ${AUGMENTATION})"
-    [ -f ${AUGMENTATION} ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
+    [ -f "${AUGMENTATION}" ] && python "${MERGER}" -i "${AUGMENTED_DATA_SET}" "${AUGMENTATION}"
   done
 done
 
