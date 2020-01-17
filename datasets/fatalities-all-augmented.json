@@ -5114,5 +5114,28 @@
     "longitude": -97.704285,
     "notes": "The preliminary investigation shows that Leon Jay Harvey was driving a white, 2015 Toyota Prius in the right lane in the 12600 block of N. Mopac Expressway SB when he attempted to take the exit and struck a barrier. The impact of the crash caused the vehicle to re-enter the roadway, putting it in the path of a black, 2013 Ford F150 that collided with the passenger’s side of the Prius.\n\n\tThe driver of the Ford was uninjured and remained on scene. Leon Jay Harvey was pronounced deceased on site. Speed is believed to have been a factor in the crash. There are no charges expected.",
     "time": "11:50:00"
+  },
+  {
+    "case": "20-0151955",
+    "crash": 5,
+    "date": "2020-01-15",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "2001-12-20",
+        "ethnicity": "Hispanic",
+        "first": "Fabian",
+        "gender": "Male",
+        "generation": "",
+        "last": "Morales",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.176718,
+    "link": "http://austintexas.gov/news/fatality-crash-5-2",
+    "location": "7600 block of Bluff Springs Rd.",
+    "longitude": -97.76972,
+    "notes": "Arrested:     Jorge Luis Lopez-Dominguez, Hispanic male, 20 years of age\n\n\tThe preliminary investigation shows that a silver, 2012 Chevrolet truck and a red, 2005, Infinity sedan were in the parking lot near the 7600 block of Bluff Springs Rd. when they decided to have a road race. The Chevrolet truck and the Infiniti drove south near the 8200 block of Bluff Springs Rd. to start the race. The Chevrolet truck was in the left lane and the Infiniti was in the right lanes of northbound Bluff Springs Rd. As they raced, the Infiniti pulled way ahead of the Chevrolet truck. As the Infiniti approached the 7600 block of Bluff Springs Rd., the Infiniti attempted to turn left into the parking lot where they had previously been sitting. The Chevrolet truck hit the driver’s side of the Infiniti as it was attempting the turn. The Infiniti spun several times and came to final rest against a pole on the west side of the roadway. The driver of the Infiniti was transported to St. David’s South Austin Hospital where he died as a result of his injuries at 12:18 a.m. on Thursday, January 16, 2020. The driver of the Chevrolet truck initially fled the scene after the crash but returned to the scene later.\n\n\tJorge Luis Lopez-Dominguez was arrested and has been charged with two second degree felonies, racing on a highway and fail to stop and render aid. His total bond amount is $100,000.",
+    "time": "23:19:00"
   }
 ]
