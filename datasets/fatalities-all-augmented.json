@@ -5137,5 +5137,51 @@
     "longitude": -97.76972,
     "notes": "Arrested:     Jorge Luis Lopez-Dominguez, Hispanic male, 20 years of age\n\n\tThe preliminary investigation shows that a silver, 2012 Chevrolet truck and a red, 2005, Infinity sedan were in the parking lot near the 7600 block of Bluff Springs Rd. when they decided to have a road race. The Chevrolet truck and the Infiniti drove south near the 8200 block of Bluff Springs Rd. to start the race. The Chevrolet truck was in the left lane and the Infiniti was in the right lanes of northbound Bluff Springs Rd. As they raced, the Infiniti pulled way ahead of the Chevrolet truck. As the Infiniti approached the 7600 block of Bluff Springs Rd., the Infiniti attempted to turn left into the parking lot where they had previously been sitting. The Chevrolet truck hit the driver’s side of the Infiniti as it was attempting the turn. The Infiniti spun several times and came to final rest against a pole on the west side of the roadway. The driver of the Infiniti was transported to St. David’s South Austin Hospital where he died as a result of his injuries at 12:18 a.m. on Thursday, January 16, 2020. The driver of the Chevrolet truck initially fled the scene after the crash but returned to the scene later.\n\n\tJorge Luis Lopez-Dominguez was arrested and has been charged with two second degree felonies, racing on a highway and fail to stop and render aid. His total bond amount is $100,000.",
     "time": "23:19:00"
+  },
+  {
+    "case": "20-0170278",
+    "crash": 6,
+    "date": "2020-01-17",
+    "fatalities": [
+      {
+        "age": 59,
+        "dob": "1960-08-18",
+        "ethnicity": "Hispanic",
+        "first": "Mario",
+        "gender": "Male",
+        "generation": "",
+        "last": "Estrada",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-6-2",
+    "location": "3500 S SH 130 NB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows Mario Estrada was driving a red, 2015 Dodge Charger northbound on SH 130 when he lost control and left the roadway, coming to rest against a concrete bridge support in the center median. Mario Estrada was pronounced deceased on scene. He was wearing his seatbelt.",
+    "time": "06:33:00"
+  },
+  {
+    "case": "20-0221542",
+    "crash": 7,
+    "date": "2020-01-22",
+    "fatalities": [
+      {
+        "age": 20,
+        "dob": "2000-01-12",
+        "ethnicity": "Black",
+        "first": "D’Avion",
+        "gender": "Female",
+        "generation": "",
+        "last": "Suon",
+        "middle": "Lee"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-7-2",
+    "location": "1400 W. Cesar Chavez",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that D’Avion Lee Suon was driving a grey, 2007 Toyota Corolla eastbound in the 1400 block of W. Cesar Chavez. She crossed the center line into the oncoming path of a green, 1993 Chevrolet Silverado and the two vehicles collided. \n\n\tD’Avion Lee Suon was pronounced deceased at the scene. She was wearing her seatbelt. The driver of the Chevrolet Silverado was transported to an area hospital with non-life threatening injuries.",
+    "time": "20:23:00"
   }
 ]
