@@ -182,5 +182,51 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that D\u2019Avion Lee Suon was driving a grey, 2007 Toyota Corolla eastbound in the 1400 block of W. Cesar Chavez. She crossed the center line into the oncoming path of a green, 1993 Chevrolet Silverado and the two vehicles collided. \n\n\tD\u2019Avion Lee Suon was pronounced deceased at the scene. She was wearing her seatbelt. The driver of the Chevrolet Silverado was transported to an area hospital with non-life threatening injuries.",
     "time": "20:23:00"
+  },
+  {
+    "case": "20-0271801",
+    "crash": 9,
+    "date": "2020-01-27",
+    "fatalities": [
+      {
+        "age": 25,
+        "dob": "1994-11-19",
+        "ethnicity": "White",
+        "first": "Mitchell",
+        "gender": "Male",
+        "generation": "",
+        "last": "Levy",
+        "middle": "Jacob"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-9-2",
+    "location": "1600 block of W. Howard Lane",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that Mitchell Jacob Levy was approaching the 1600 block of W. Howard Lane on his black, 2016 Yamaha Motorcycle from the east when he lost control just prior to the Howard Lane/Metric Boulevard intersection. He slid into the path of a westbound white, 2016 Ford Explorer that was attempting to turn southbound on to Metric Boulevard. The impact of the crash caused the Ford Explorer to roll on its side.\n\n\tMitchell Jacob Levy was pronounced deceased on scene. The driver of the Ford Explorer, Lisa Lene Aiken, was transported to Dell Seton Medical Center at The University of Texas for non-life threatening injuries. She was subsequently arrested for driving while intoxicated. Her intoxication does not appear to have caused the crash.",
+    "time": "21:23:00"
+  },
+  {
+    "case": "20-0281102",
+    "crash": 10,
+    "date": "2020-01-28",
+    "fatalities": [
+      {
+        "age": 35,
+        "dob": "1984-07-27",
+        "ethnicity": "Hispanic",
+        "first": "Jennifer",
+        "gender": "Female",
+        "generation": "",
+        "last": "Tavares",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-10-1",
+    "location": "5800 block of Southwest Parkway",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a gray, 2006, Honda Accord was traveling eastbound in the 5800 block of Southwest Parkway where it appears to have lost control. The vehicle left the roadway and crashed into a tree located on the south curb line. The driver of the vehicle was pronounced deceased at the scene at 2:45 p.m.",
+    "time": "14:31:00"
   }
 ]
