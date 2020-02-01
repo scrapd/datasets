@@ -4086,10 +4086,10 @@
         "middle": "Joseph"
       }
     ],
-    "latitude": 30.191793,
+    "latitude": 30.192728,
     "link": "http://austintexas.gov/news/traffic-fatality-46-6",
     "location": "U.S. Hwy 290 and William Cannon Dr.",
-    "longitude": -97.77453,
+    "longitude": -97.77728,
     "notes": "The preliminary investigation shows that Douglas Joseph Vogelsass was walking on William Cannon Dr. northbound across U.S. Highway 290. He disregarded the pedestrian control device and was struck by a 2013 Ford F150.\n\n\tDouglas Joseph Vogelsass was pronounced deceased at the scene.\n\n\tThe driver of the F150 remained on scene and was cooperative. No charges are expected to be filed.",
     "time": "00:49:00"
   },
@@ -5252,5 +5252,28 @@
     "longitude": -97.84432,
     "notes": "The preliminary investigation shows that a gray, 2006, Honda Accord was traveling eastbound in the 5800 block of Southwest Parkway where it appears to have lost control. The vehicle left the roadway and crashed into a tree located on the south curb line. The driver of the vehicle was pronounced deceased at the scene at 2:45 p.m.",
     "time": "14:31:00"
+  },
+  {
+    "case": "20-0300672",
+    "crash": 11,
+    "date": "2020-01-29",
+    "fatalities": [
+      {
+        "age": 18,
+        "dob": "2001-04-17",
+        "ethnicity": "Hispanic",
+        "first": "Javier",
+        "gender": "Male",
+        "generation": "",
+        "last": "Garcia",
+        "middle": "Elijah"
+      }
+    ],
+    "latitude": 30.365337,
+    "link": "http://austintexas.gov/news/fatality-crash-11-2",
+    "location": "Collinfield Dr. and W. Rundberg Ln.",
+    "longitude": -97.701614,
+    "notes": "The preliminary investigation shows that this was a five-vehicle crash. The signal lights at the intersection of W. Rundberg Ln. and Collinfield Dr. were inoperable due to a power outage in the area. A 2013 Chevrolet Silverado was traveling eastbound in the 1100 block of Rundberg Ln. approaching the intersection of W. Rundberg Ln. and Collinfield Dr. A 1999 Toyota Camry was traveling southbound in the 1000 block of Mearns Meadow Blvd., preparing to turn eastbound onto the 1000 block of W. Rundberg Ln. A 2015 Buick LaCrosse was traveling northbound in the 9300 block of Collinfield Dr. approaching the intersection with W. Rundberg Ln. A 2004 Ford Expedition was stopped facing westbound at the intersection of W. Rundberg Ln. and Collinfield Dr. as a 2018 Ford Mustang was pulling up behind the Mustang, preparing to stop.\n\n\tThe Chevrolet Silverado, Toyota Camry and Buick LaCrosse entered the intersection at the same time. The Chevrolet Silverado collided into the driver’s side of the Buick LaCrosse and into the front of the Toyota Camry. Debris from the crash damaged the Ford Expedition and after the initial crash, the Buick Lacrosse collided into the Ford Mustang.\n\n\tTwo of the occupants of the Chevrolet Silverado and two of the occupants of the Toyota Camry were transported to a local hospital with non-life-threatening injuries. The driver of the Buick LaCrosse was transported to Dell-Seton Medical Center at the University of Texas where he died as a result of his injuries at 10:54 a.m.\n\n\tIt is not believed that driver impairment, weather or road conditions were factors in the crash. The cause of the power outage for the signal lights is unknown at this time but is believed to be a contributing factor in the crash.\n\n\tAPD would like to remind the public to treat any intersection with signal outages as a 4-way stop.",
+    "time": "10:03:00"
   }
 ]
