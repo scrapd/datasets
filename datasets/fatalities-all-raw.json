@@ -5277,6 +5277,52 @@
     "time": "10:03:00"
   },
   {
+    "case": "20-0350933",
+    "crash": 16,
+    "date": "2020-02-04",
+    "fatalities": [
+      {
+        "age": 50,
+        "dob": "1969-10-17",
+        "ethnicity": "Black",
+        "first": "Vincent",
+        "gender": "Male",
+        "generation": "",
+        "last": "Cleveland",
+        "middle": "Laroy"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-16-2",
+    "location": "1201 E. Rundberg Lane",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the black, 2007 Mitsubishi Eclipse in which Vincent Laroy Cleveland was a passenger was traveling eastbound in the inside lane in the 1200 block of E. Rundberg Lane when the driver attempted to turn left onto northbound Teasdale Terrace. A white, 2007 Ford F150 moving westbound on Rundberg collided with the passenger’s side of the Mitsubishi.\n\n\tVincent Laroy Cleveland was transported to Ascension Seton Medical Center Austin following the crash where he died on February 10, 2020 at 3:50 p.m. as a result of his injuries. Based on information gathered during the ongoing investigation, it does not appear that driver impairment or speed were factors in the crash.",
+    "time": "13:07:00"
+  },
+  {
+    "case": "20-0420110",
+    "crash": 15,
+    "date": "2020-02-11",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1998-04-28",
+        "ethnicity": "White",
+        "first": "Owen",
+        "gender": "Male",
+        "generation": "",
+        "last": "Macki",
+        "middle": "William"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-15-2",
+    "location": "North Capital of Texas Hwy/North Mopac NB Svrd",
+    "longitude": 0,
+    "notes": "",
+    "time": "02:02:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
