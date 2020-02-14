@@ -84,9 +84,14 @@ if __name__ == "__main__":
 
 class TestMerge:
     def test_merge_00(self):
-        actual = merge(OLD, NEW, False)
+        actual = merge(OLD, NEW, True)
         expected = FINAL
         assert actual == expected
+
+    def test_merge_01(self):
+        actual = merge(OLD_SINGLE_TO_MULTI, NEW_SINGLE_TO_MULTI, True)
+        expected = FINAL_SINGLE_TO_MULTI
+        assert actual[0].dict() == expected[0].dict()
 
 
 # Test data
@@ -252,4 +257,91 @@ FINAL = [
         "The preliminary investigation shows that a 2000 Peterbilt semi truck was travelling southbound in the center lane on IH 35 when it struck pedestrian David Sell. The driver stopped as soon as it was possible to do so and remained on scene. He reported not seeing the pedestrian prior to impact given that it was still dark at the time of the crash. Sell was pronounced deceased at the scene at 6:24 a.m. No charges are expected to be filed.",
         time="06:20:00",
     ),
+]
+
+OLD_SINGLE_TO_MULTI = [{
+    "case": "20-0420110",
+    "crash": 15,
+    "date": "2020-02-11",
+    "fatalities": [{
+        "age": 21,
+        "dob": "1998-04-28",
+        "ethnicity": "White",
+        "first": "Owen",
+        "gender": "Male",
+        "generation": "",
+        "last": "Macki",
+        "middle": "William"
+    }],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-15-2",
+    "location": "North Capital of Texas Hwy/North Mopac NB Svrd",
+    "longitude": 0.0,
+    "notes": "",
+    "time": "02:02:00"
+}]
+
+NEW_SINGLE_TO_MULTI = [{
+    "case": "20-0420110",
+    "crash": 15,
+    "date": "2020-02-11",
+    "fatalities": [
+        {
+            "age": 21,
+            "dob": "1998-04-28",
+            "ethnicity": "White",
+            "first": "Owen",
+            "gender": "Male",
+            "generation": "",
+            "last": "Macki",
+            "middle": "William"
+        },
+        {
+            "age": 24,
+            "dob": "1995-07-26",
+            "ethnicity": "Asian",
+            "first": "Raquel",
+            "gender": "Female",
+            "generation": "",
+            "last": "Aveytia",
+            "middle": "Gitane"
+        },
+    ],
+    "link": "http://austintexas.gov/news/fatality-crash-15-2",
+    "location": "North Capital of Texas Hwy/North Mopac NB Svrd",
+    "time": "02:02:00"
+}]
+
+FINAL_SINGLE_TO_MULTI = [
+    model.Report(
+        case='20-0420110',
+        crash=15,
+        date=datetime.date(2020, 2, 11),
+        fatalities=[
+            model.Fatality(
+                age=21,
+                dob=datetime.date(1998, 4, 28),
+                ethnicity=model.Ethnicity.white,
+                first='Owen',
+                gender=model.Gender.male,
+                last='Macki',
+                middle='William',
+            ),
+            model.Fatality(
+                age=24,
+                dob=datetime.date(1995, 7, 26),
+                ethnicity=model.Ethnicity.asian,
+                first='Raquel',
+                gender=model.Gender.female,
+                last='Aveytia',
+                middle='Gitane',
+            ),
+        ],
+        latitude=0.0,
+        link="http://austintexas.gov/news/fatality-crash-15-2",
+        location='North Capital of Texas Hwy/North Mopac NB Svrd',
+        longitude=0.0,
+        notes='',
+        time=datetime.time(2, 2),
+    )
 ]
