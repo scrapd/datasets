@@ -63,7 +63,7 @@ Currently the following augmenters are available:
 Corrections can also be added manually. Corrections can add extra fields or update values in existing fields. They are
 applied last.
 
-A correction must be made in a file named `fatalities-{year}-manual.json`. All the corrections for the same year
+A correction must be made in a file named `augmentation-manual-{year}.json`. All the corrections for the same year
 **MUST** be grouped together in the same file. The order does not matter. If an entry is found several times, the last
 one (i.e. the lowest one in the file) will superseed all the others.
 
@@ -80,6 +80,12 @@ one (i.e. the lowest one in the file) will superseed all the others.
     }
   }
 ]
+```
+
+Apply the changes for a specific year:
+
+```bash
+python tools/scrapd-merger.py -i datasets/fatalities-2020-augmented.json augmentations/2020/augmentation-manual-2020.json
 ```
 
 ### "all" data sets

@@ -1,0 +1,29 @@
+[
+  {
+    "case": "20-0420110",
+    "date": "2020-02-11",
+    "fatalities": [
+      {
+        "age": 21,
+        "dob": "1998-04-28",
+        "ethnicity": "White",
+        "first": "Owen",
+        "gender": "Male",
+        "generation": "",
+        "last": "Macki",
+        "middle": "William"
+      },
+      {
+        "age": 24,
+        "dob": "1995-07-26",
+        "ethnicity": "Asian",
+        "first": "Raquel",
+        "gender": "Female",
+        "generation": "",
+        "last": "Aveytia",
+        "middle": "Gitane"
+      }
+    ],
+    "time": "02:02:00"
+  }
+]
