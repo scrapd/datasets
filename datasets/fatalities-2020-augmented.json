@@ -26,18 +26,7 @@
     "case": "20-0081414",
     "crash": 2,
     "date": "2020-01-08",
-    "fatalities": [
-      {
-        "age": 75,
-        "dob": "1944-03-05",
-        "ethnicity": "Hispanic",
-        "first": "Braulia",
-        "gender": "Female",
-        "generation": "",
-        "last": "Hernandez",
-        "middle": "Arce"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.299017,
     "link": "http://austintexas.gov/news/fatality-crash-2-2",
     "location": "Sandshof Dr. and Loyola Ln.",
@@ -49,18 +38,7 @@
     "case": "20-0081458",
     "crash": 3,
     "date": "2020-01-08",
-    "fatalities": [
-      {
-        "age": 62,
-        "dob": "1957-11-13",
-        "ethnicity": "Hispanic",
-        "first": "Mauro",
-        "gender": "Male",
-        "generation": "",
-        "last": "Mota",
-        "middle": "Carrasco"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.27156,
     "link": "http://austintexas.gov/news/fatality-crash-3-2",
     "location": "1143 Airport Blvd.",
@@ -72,18 +50,7 @@
     "case": "20-0110690",
     "crash": 4,
     "date": "2020-01-11",
-    "fatalities": [
-      {
-        "age": 42,
-        "dob": "1977-09-12",
-        "ethnicity": "White",
-        "first": "Leon",
-        "gender": "Male",
-        "generation": "",
-        "last": "Harvey",
-        "middle": "Jay"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.421627,
     "link": "http://austintexas.gov/news/fatality-crash-4-1",
     "location": "12600 block of N. Mopac Expressway SB",
@@ -95,18 +62,7 @@
     "case": "20-0151955",
     "crash": 5,
     "date": "2020-01-15",
-    "fatalities": [
-      {
-        "age": 18,
-        "dob": "2001-12-20",
-        "ethnicity": "Hispanic",
-        "first": "Fabian",
-        "gender": "Male",
-        "generation": "",
-        "last": "Morales",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.176718,
     "link": "http://austintexas.gov/news/fatality-crash-5-2",
     "location": "7600 block of Bluff Springs Rd.",
@@ -141,18 +97,7 @@
     "case": "20-0181717",
     "crash": 8,
     "date": "2020-01-18",
-    "fatalities": [
-      {
-        "age": 55,
-        "dob": "1964-03-08",
-        "ethnicity": "Hispanic",
-        "first": "Juan",
-        "gender": "Male",
-        "generation": "",
-        "last": "Palacios",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.213112,
     "link": "http://austintexas.gov/news/fatality-crash-8-2",
     "location": "4700 block of Burleson Road",
@@ -187,18 +132,7 @@
     "case": "20-0271801",
     "crash": 9,
     "date": "2020-01-27",
-    "fatalities": [
-      {
-        "age": 25,
-        "dob": "1994-11-19",
-        "ethnicity": "White",
-        "first": "Mitchell",
-        "gender": "Male",
-        "generation": "",
-        "last": "Levy",
-        "middle": "Jacob"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.426895,
     "link": "http://austintexas.gov/news/fatality-crash-9-2",
     "location": "1600 block of W. Howard Lane",
@@ -210,18 +144,7 @@
     "case": "20-0281102",
     "crash": 10,
     "date": "2020-01-28",
-    "fatalities": [
-      {
-        "age": 35,
-        "dob": "1984-07-27",
-        "ethnicity": "White",
-        "first": "Jennifer",
-        "gender": "Female",
-        "generation": "",
-        "last": "Tavares",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.245451,
     "link": "http://austintexas.gov/news/fatality-crash-10-1",
     "location": "5800 block of Southwest Parkway",
@@ -233,18 +156,7 @@
     "case": "20-0300672",
     "crash": 11,
     "date": "2020-01-29",
-    "fatalities": [
-      {
-        "age": 18,
-        "dob": "2001-04-17",
-        "ethnicity": "Hispanic",
-        "first": "Javier",
-        "gender": "Male",
-        "generation": "",
-        "last": "Garcia",
-        "middle": "Elijah"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.365337,
     "link": "http://austintexas.gov/news/fatality-crash-11-2",
     "location": "Collinfield Dr. and W. Rundberg Ln.",
@@ -256,18 +168,7 @@
     "case": "20-0350933",
     "crash": 16,
     "date": "2020-02-04",
-    "fatalities": [
-      {
-        "age": 50,
-        "dob": "1969-10-17",
-        "ethnicity": "Black",
-        "first": "Vincent",
-        "gender": "Male",
-        "generation": "",
-        "last": "Cleveland",
-        "middle": "Laroy"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.353895,
     "link": "http://austintexas.gov/news/fatality-crash-16-2",
     "location": "1201 E. Rundberg Lane",
@@ -312,18 +213,7 @@
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
-    "fatalities": [
-      {
-        "age": 24,
-        "dob": "1995-03-21",
-        "ethnicity": "Hispanic",
-        "first": "Jaymes",
-        "gender": "Male",
-        "generation": "Sr.",
-        "last": "Torres",
-        "middle": "Anthony"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.19118,
     "link": "http://austintexas.gov/news/fatality-crash-12-1",
     "location": "5700 block of E. Stassney Ln.",
@@ -358,23 +248,24 @@
     "case": "20-410096",
     "crash": 14,
     "date": "2020-02-10",
-    "fatalities": [
-      {
-        "age": 25,
-        "dob": "1994-09-02",
-        "ethnicity": "White",
-        "first": "James",
-        "gender": "Male",
-        "generation": "",
-        "last": "Mares",
-        "middle": "A."
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.367002,
     "link": "http://austintexas.gov/news/fatality-crash-14-2",
     "location": "Rutland Dr. and Mearns Meadow Blvd.",
     "longitude": -97.70063,
     "notes": "The preliminary investigation shows that a 2009, black Mitsubishi Lancer was traveling at a high rate of speed, westbound in the inside lane of Rutland Dr. The Mitsubishi ran the red light at Mearns Meadow and struck the passenger side of a 2001, blue Saturn sedan. Prior to the crash, the Saturn was heading north in the inside lane of Mearns Meadow Blvd. and had a green light.\n\n\tThe driver of the Mitsubishi was arrested and charged with intoxication manslaughter. The driver of the Saturn was pronounced deceased on scene.",
     "time": "01:35:00"
+  },
+  {
+    "case": "20-451648",
+    "crash": 17,
+    "date": "2020-02-14",
+    "fatalities": [],
+    "latitude": 30.223873,
+    "link": "http://austintexas.gov/news/fatality-crash-17-2",
+    "location": "200 block of E. Ben White Blvd. Service Road Eastbound",
+    "longitude": -97.764275,
+    "notes": "The preliminary investigation shows that a 1993, black Honda Civic was traveling eastbound in the 200 block of E. Ben White Blvd. in the left lane of the service road when it struck a wheelchair-bound pedestrian. The pedestrian was traveling north to south across the frontage road. The pedestrian was in the lane of travel at the time of the crash. The driver of the Honda remained on scene and cooperated with the investigation. No charges are expected to be filed at this time. The pedestrian, identified as Theodore Tjomsland, died at the scene.",
+    "time": "19:16:00"
   }
 ]

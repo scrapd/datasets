@@ -366,5 +366,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a 2009, black Mitsubishi Lancer was traveling at a high rate of speed, westbound in the inside lane of Rutland Dr. The Mitsubishi ran the red light at Mearns Meadow and struck the passenger side of a 2001, blue Saturn sedan. Prior to the crash, the Saturn was heading north in the inside lane of Mearns Meadow Blvd. and had a green light.\n\n\tThe driver of the Mitsubishi was arrested and charged with intoxication manslaughter. The driver of the Saturn was pronounced deceased on scene.",
     "time": "01:35:00"
+  },
+  {
+    "case": "20-451648",
+    "crash": 17,
+    "date": "2020-02-14",
+    "fatalities": [
+      {
+        "age": 56,
+        "dob": "1963-04-20",
+        "ethnicity": "White",
+        "first": "Theodore",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tjomsland",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-17-2",
+    "location": "200 block of E. Ben White Blvd. Service Road Eastbound",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 1993, black Honda Civic was traveling eastbound in the 200 block of E. Ben White Blvd. in the left lane of the service road when it struck a wheelchair-bound pedestrian. The pedestrian was traveling north to south across the frontage road. The pedestrian was in the lane of travel at the time of the crash. The driver of the Honda remained on scene and cooperated with the investigation. No charges are expected to be filed at this time. The pedestrian, identified as Theodore Tjomsland, died at the scene.",
+    "time": "19:16:00"
   }
 ]

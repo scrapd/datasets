@@ -3,18 +3,7 @@
     "case": "17-0480200",
     "crash": 10,
     "date": "2017-02-17",
-    "fatalities": [
-      {
-        "age": 27,
-        "dob": "1989-07-20",
-        "ethnicity": "Hispanic",
-        "first": "Monica",
-        "gender": "Female",
-        "generation": "",
-        "last": "Rodriguez",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.302635,
     "link": "http://austintexas.gov/news/traffic-fatality-10-2",
     "location": "Ed Bluestein Boulevard and Loyola Lane",
@@ -26,18 +15,7 @@
     "case": "17-0501713",
     "crash": 8,
     "date": "2017-02-19",
-    "fatalities": [
-      {
-        "age": 56,
-        "dob": "2060-11-30",
-        "ethnicity": "White",
-        "first": "Patricia",
-        "gender": "Female",
-        "generation": "",
-        "last": "Ulloa",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.371658,
     "link": "http://austintexas.gov/news/traffic-fatality-8-2",
     "location": "N. Capital of Texas Hwy. and Lakewood Dr.",
@@ -49,18 +27,7 @@
     "case": "17-0531085",
     "crash": 9,
     "date": "2017-02-22",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
-        "gender": "Undefined",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.235466,
     "link": "http://austintexas.gov/news/traffic-fatality-9-2",
     "location": "6100 E. US Highway 290",
@@ -72,18 +39,7 @@
     "case": "17-0701330",
     "crash": 11,
     "date": "2017-03-10",
-    "fatalities": [
-      {
-        "age": 37,
-        "dob": "1979-07-19",
-        "ethnicity": "Hispanic",
-        "first": "Contreras",
-        "gender": "Male",
-        "generation": "",
-        "last": "Vasquez",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.197475,
     "link": "http://austintexas.gov/news/traffic-fatality-11-2",
     "location": "Felter Lane and Burleson Road",
@@ -95,18 +51,7 @@
     "case": "17-0710136",
     "crash": 14,
     "date": "2017-03-12",
-    "fatalities": [
-      {
-        "age": 59,
-        "dob": "1957-12-21",
-        "ethnicity": "Hispanic",
-        "first": "Tomas",
-        "gender": "Male",
-        "generation": "",
-        "last": "Garcia-Servin",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.367771,
     "link": "http://austintexas.gov/news/traffic-fatality-14-3",
     "location": "10010 N. Lamar Blvd.",
@@ -118,18 +63,7 @@
     "case": "17-0732104",
     "crash": 12,
     "date": "2017-03-14",
-    "fatalities": [
-      {
-        "age": 53,
-        "dob": "1963-03-31",
-        "ethnicity": "Black",
-        "first": "Charlie",
-        "gender": "Male",
-        "generation": "",
-        "last": "Bunton",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.286108,
     "link": "http://austintexas.gov/news/traffic-fatality-12-2",
     "location": "4800 block E. Martin Luther King Jr. Blvd.",
@@ -141,18 +75,7 @@
     "case": "17-0770668",
     "crash": 13,
     "date": "2017-03-18",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
-        "gender": "Undefined",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.239929,
     "link": "http://austintexas.gov/news/traffic-fatality-13-2",
     "location": "4200 block of Southwest Parkway",
@@ -164,18 +87,7 @@
     "case": "17-0780309",
     "crash": 15,
     "date": "2017-03-19",
-    "fatalities": [
-      {
-        "age": 22,
-        "dob": "1994-11-08",
-        "ethnicity": "Black",
-        "first": "Lamar",
-        "gender": "Male",
-        "generation": "",
-        "last": "Jackson",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.399498,
     "link": "http://austintexas.gov/news/traffic-fatality-15-2",
     "location": "11600 block of Burnet Rd.",
@@ -187,18 +99,7 @@
     "case": "17-0830563",
     "crash": 16,
     "date": "2017-03-24",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
-        "gender": "Undefined",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.329958,
     "link": "http://austintexas.gov/news/traffic-fatality-16-2",
     "location": "1830 block E. Anderson Ln.",
@@ -210,18 +111,7 @@
     "case": "17-0871629",
     "crash": 17,
     "date": "2017-03-28",
-    "fatalities": [
-      {
-        "age": 47,
-        "dob": "1969-04-14",
-        "ethnicity": "White",
-        "first": "Frank",
-        "gender": "Male",
-        "generation": "",
-        "last": "Machacek",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.247412,
     "link": "http://austintexas.gov/news/traffic-fatality-17-2",
     "location": "1800 block of S. 1st St.",
@@ -233,18 +123,7 @@
     "case": "17-0890705",
     "crash": 18,
     "date": "2017-03-30",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "Undefined",
-        "first": "",
-        "gender": "Undefined",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.321868,
     "link": "http://austintexas.gov/news/traffic-fatality-18-2",
     "location": "U.S. Highway 290 westbound frontage at Cameron Rd.",
@@ -256,18 +135,7 @@
     "case": "17-0941734",
     "crash": 19,
     "date": "2017-04-04",
-    "fatalities": [
-      {
-        "age": 56,
-        "dob": "1960-12-09",
-        "ethnicity": "White",
-        "first": "Sam",
-        "gender": "Male",
-        "generation": "",
-        "last": "Rhea",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.191345,
     "link": "http://austintexas.gov/news/traffic-fatality-19-3",
     "location": "700 block of East William Cannon Dr.",
@@ -279,18 +147,7 @@
     "case": "17-0980238",
     "crash": 20,
     "date": "2017-04-08",
-    "fatalities": [
-      {
-        "age": 38,
-        "dob": "1979-03-15",
-        "ethnicity": "Hispanic",
-        "first": "Luna",
-        "gender": "Male",
-        "generation": "",
-        "last": "Abel",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.199905,
     "link": "http://austintexas.gov/news/traffic-fatality-20-2",
     "location": "3400 block of South SH 130",
@@ -302,18 +159,7 @@
     "case": "17-0980393",
     "crash": 21,
     "date": "2017-04-08",
-    "fatalities": [
-      {
-        "age": 59,
-        "dob": "1957-12-02",
-        "ethnicity": "Hispanic",
-        "first": "Hernandez-Vasquez",
-        "gender": "Male",
-        "generation": "",
-        "last": "Aurelio",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.257222,
     "link": "http://austintexas.gov/news/traffic-fatality-21-1",
     "location": " ",
@@ -325,18 +171,7 @@
     "case": "17-1071522",
     "crash": 22,
     "date": "2017-04-17",
-    "fatalities": [
-      {
-        "age": 21,
-        "dob": "1995-12-11",
-        "ethnicity": "White",
-        "first": "David",
-        "gender": "Female",
-        "generation": "",
-        "last": "Nancy-Jane",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.290123,
     "link": "http://austintexas.gov/news/traffic-fatality-22-1",
     "location": " ",
@@ -348,18 +183,7 @@
     "case": "17-1170279",
     "crash": 25,
     "date": "2017-04-27",
-    "fatalities": [
-      {
-        "age": 48,
-        "dob": "1968-05-24",
-        "ethnicity": "White",
-        "first": "Duke",
-        "gender": "Male",
-        "generation": "",
-        "last": "Joe",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.19388,
     "link": "http://austintexas.gov/news/traffic-fatality-25-2",
     "location": "2500 block E. Stassney Ln.",
@@ -371,18 +195,7 @@
     "case": "17-1191031",
     "crash": 24,
     "date": "2017-04-29",
-    "fatalities": [
-      {
-        "age": 29,
-        "dob": "1988-03-28",
-        "ethnicity": "Hispanic",
-        "first": "Lugo",
-        "gender": "Male",
-        "generation": "",
-        "last": "Anthony",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.181673,
     "link": "http://austintexas.gov/news/traffic-fatality-24-3",
     "location": "4500 block E. William Cannon Dr.",
@@ -394,18 +207,7 @@
     "case": "17-1210792",
     "crash": 26,
     "date": "2017-05-01",
-    "fatalities": [
-      {
-        "age": 52,
-        "dob": "1965-01-06",
-        "ethnicity": "Hispanic",
-        "first": "Halsell",
-        "gender": "Female",
-        "generation": "",
-        "last": "Ann",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.28766,
     "link": "http://austintexas.gov/news/traffic-fatality-26-1",
     "location": "3800 block of Airport Blvd.",
@@ -417,18 +219,7 @@
     "case": "17-1501748",
     "crash": 27,
     "date": "2017-05-30",
-    "fatalities": [
-      {
-        "age": 34,
-        "dob": "1983-03-04",
-        "ethnicity": "Hispanic",
-        "first": "Ramirez",
-        "gender": "Male",
-        "generation": "",
-        "last": "Castro",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.192018,
     "link": "http://austintexas.gov/news/traffic-fatality-27-2",
     "location": " ",
@@ -440,18 +231,7 @@
     "case": "17-1560274",
     "crash": 28,
     "date": "2017-06-05",
-    "fatalities": [
-      {
-        "age": 46,
-        "dob": "1971-01-29",
-        "ethnicity": "Hispanic",
-        "first": "Garcia",
-        "gender": "Male",
-        "generation": "",
-        "last": "Narciso",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.203154,
     "link": "http://austintexas.gov/news/traffic-fatality-28-1",
     "location": " ",
@@ -463,18 +243,7 @@
     "case": "17-1611733",
     "crash": 29,
     "date": "2017-06-10",
-    "fatalities": [
-      {
-        "age": 58,
-        "dob": "1958-07-22",
-        "ethnicity": "White",
-        "first": "Daniel",
-        "gender": "Male",
-        "generation": "",
-        "last": "Sullins",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.350281,
     "link": "http://austintexas.gov/news/traffic-fatality-29-1",
     "location": " ",
@@ -486,18 +255,7 @@
     "case": "17-1890048",
     "crash": 31,
     "date": "2017-07-08",
-    "fatalities": [
-      {
-        "age": 31,
-        "dob": "1985-12-27",
-        "ethnicity": "White",
-        "first": "Daniel",
-        "gender": "Male",
-        "generation": "",
-        "last": "Rayos",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.380106,
     "link": "http://austintexas.gov/news/traffic-fatality-31-1",
     "location": "8500 FM 2222",
@@ -509,18 +267,7 @@
     "case": "17-1941615",
     "crash": 32,
     "date": "2017-07-13",
-    "fatalities": [
-      {
-        "age": 29,
-        "dob": "1987-11-10",
-        "ethnicity": "White",
-        "first": "Robert",
-        "gender": "Male",
-        "generation": "",
-        "last": "Register",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.35245,
     "link": "http://austintexas.gov/news/traffic-fatality-32-3",
     "location": "N. Capital of Texas Highway and Courtyard Drive",
@@ -532,18 +279,7 @@
     "case": "17-1981784",
     "crash": 33,
     "date": "2017-07-17",
-    "fatalities": [
-      {
-        "age": 34,
-        "dob": "1982-10-26",
-        "ethnicity": "Hispanic",
-        "first": "Michael",
-        "gender": "Male",
-        "generation": "",
-        "last": "Trujillo",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.376923,
     "link": "http://austintexas.gov/news/traffic-fatality-33-3",
     "location": "800 East Braker Lane",
@@ -555,18 +291,7 @@
     "case": "17-2080",
     "crash": 34,
     "date": "2017-07-27",
-    "fatalities": [
-      {
-        "age": 88,
-        "dob": "1929-02-16",
-        "ethnicity": "White",
-        "first": "George",
-        "gender": "Male",
-        "generation": "",
-        "last": "Melvin",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.23184,
     "link": "http://austintexas.gov/news/traffic-fatality-34-2",
     "location": "800 Bastrop Highway",
@@ -624,18 +349,7 @@
     "case": "17-2171698",
     "crash": 37,
     "date": "2017-08-05",
-    "fatalities": [
-      {
-        "age": 21,
-        "dob": "1995-10-13",
-        "ethnicity": "Hispanic",
-        "first": "Melvin",
-        "gender": "Male",
-        "generation": "",
-        "last": "Chacon",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.187706,
     "link": "http://austintexas.gov/news/traffic-fatality-37-2",
     "location": "William Cannon Drive and Elm Creek Drive",
@@ -647,18 +361,7 @@
     "case": "17-2180064",
     "crash": 38,
     "date": "2017-08-06",
-    "fatalities": [
-      {
-        "age": 34,
-        "dob": "1983-02-03",
-        "ethnicity": "White",
-        "first": "Adam",
-        "gender": "Male",
-        "generation": "",
-        "last": "Webb",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.246485,
     "link": "http://austintexas.gov/news/traffic-fatality-38-1",
     "location": "2500 S. Lamar Blvd.",
@@ -670,18 +373,7 @@
     "case": "17-2190051",
     "crash": 39,
     "date": "2017-08-07",
-    "fatalities": [
-      {
-        "age": 31,
-        "dob": "1986-07-15",
-        "ethnicity": "Hispanic",
-        "first": "Juan",
-        "gender": "Male",
-        "generation": "",
-        "last": "Tziquin-Guarcha",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.22802,
     "link": "http://austintexas.gov/news/traffic-fatality-39-2",
     "location": "3600 S. Congress Avenue",
@@ -693,18 +385,7 @@
     "case": "17-2260242",
     "crash": 40,
     "date": "2017-08-14",
-    "fatalities": [
-      {
-        "age": 25,
-        "dob": "1992-01-25",
-        "ethnicity": "White",
-        "first": "Alexander",
-        "gender": "Male",
-        "generation": "",
-        "last": "Hopkins",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.336742,
     "link": "http://austintexas.gov/news/traffic-fatality-40-2",
     "location": "6900 N. Lamar Blvd.",
@@ -716,18 +397,7 @@
     "case": "17-2350340",
     "crash": 41,
     "date": "2017-08-23",
-    "fatalities": [
-      {
-        "age": 20,
-        "dob": "1997-02-20",
-        "ethnicity": "Hispanic",
-        "first": "Matthew",
-        "gender": "Male",
-        "generation": "",
-        "last": "Ramos",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.20497,
     "link": "http://austintexas.gov/news/traffic-fatality-41-2",
     "location": "3100 block of U.S. Highway 183",
@@ -739,18 +409,7 @@
     "case": "17-2361605",
     "crash": 45,
     "date": "2017-08-24",
-    "fatalities": [
-      {
-        "age": 87,
-        "dob": "1930-07-22",
-        "ethnicity": "White",
-        "first": "Frances",
-        "gender": "Female",
-        "generation": "",
-        "last": "Berry",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.240816,
     "link": "http://austintexas.gov/news/traffic-fatality-45-2",
     "location": "1600 block of IH-35",
@@ -762,18 +421,7 @@
     "case": "17-2450905",
     "crash": 47,
     "date": "2017-09-02",
-    "fatalities": [
-      {
-        "age": 77,
-        "dob": "1940-08-28",
-        "ethnicity": "Hispanic",
-        "first": "Josefa",
-        "gender": "Female",
-        "generation": "",
-        "last": "Torres",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.237535,
     "link": "http://austintexas.gov/news/traffic-fatality-47-3",
     "location": "East Riverside Dr. and Willow Creek Dr.",
@@ -785,18 +433,7 @@
     "case": "17-2460227",
     "crash": 42,
     "date": "2017-09-03",
-    "fatalities": [
-      {
-        "age": 33,
-        "dob": "1984-07-12",
-        "ethnicity": "Black",
-        "first": "Spencer",
-        "gender": "Male",
-        "generation": "",
-        "last": "II",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.465592,
     "link": "http://austintexas.gov/news/traffic-fatality-42-2",
     "location": "North U.S. Highway 183 nb service road and Pecan Park Blvd.",
@@ -808,18 +445,7 @@
     "case": "17-2471532",
     "crash": 43,
     "date": "2017-09-04",
-    "fatalities": [
-      {
-        "age": 37,
-        "dob": "1980-01-26",
-        "ethnicity": "White",
-        "first": "Richard",
-        "gender": "Male",
-        "generation": "",
-        "last": "Stader",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.44026,
     "link": "http://austintexas.gov/news/traffic-fatality-43-2",
     "location": "1500 block of Wells Branch Parkway",
@@ -831,18 +457,7 @@
     "case": "17-2481396",
     "crash": 44,
     "date": "2017-09-05",
-    "fatalities": [
-      {
-        "age": 28,
-        "dob": "1989-05-28",
-        "ethnicity": "Black",
-        "first": "Ashley",
-        "gender": "Female",
-        "generation": "",
-        "last": "Clark",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.188818,
     "link": "http://austintexas.gov/news/traffic-fatality-44-2",
     "location": "4300 Block of U.S. Highway 183 Southbound",
@@ -854,18 +469,7 @@
     "case": "17-2500282",
     "crash": 46,
     "date": "2017-09-07",
-    "fatalities": [
-      {
-        "age": 38,
-        "dob": "1978-12-03",
-        "ethnicity": "Black",
-        "first": "Sterlin",
-        "gender": "Male",
-        "generation": "",
-        "last": "Milam",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.438898,
     "link": "http://austintexas.gov/news/traffic-fatality-46-3",
     "location": "6600 block of McNeil Dr.",
@@ -877,18 +481,7 @@
     "case": "17-2850475",
     "crash": 51,
     "date": "2017-10-12",
-    "fatalities": [
-      {
-        "age": 49,
-        "dob": null,
-        "ethnicity": "White",
-        "first": "Delta",
-        "gender": "Female",
-        "generation": "",
-        "last": "Olin",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.263801,
     "link": "http://austintexas.gov/news/traffic-fatality-51-1",
     "location": "E. Cesar Chavez/NB I-35 Ramp",
@@ -900,18 +493,7 @@
     "case": "17-2861375",
     "crash": 52,
     "date": "2017-10-13",
-    "fatalities": [
-      {
-        "age": 61,
-        "dob": "1956-04-07",
-        "ethnicity": "Hispanic",
-        "first": "Epifanio",
-        "gender": "Male",
-        "generation": "",
-        "last": "Jimenez-Garcia",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.255787,
     "link": "http://austintexas.gov/news/traffic-fatality-52-2",
     "location": "100 block of Robert T. Martinez Jr. St.",
@@ -923,18 +505,7 @@
     "case": "17-2890294",
     "crash": 53,
     "date": "2017-10-16",
-    "fatalities": [
-      {
-        "age": 28,
-        "dob": null,
-        "ethnicity": "Hispanic",
-        "first": "David",
-        "gender": "Male",
-        "generation": "",
-        "last": "Castro",
-        "middle": "Adam"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.193953,
     "link": "http://austintexas.gov/news/traffic-fatality-53-2",
     "location": "5000 block of E. Stassney Lane",
@@ -946,18 +517,7 @@
     "case": "17-3001690",
     "crash": 54,
     "date": "2017-10-27",
-    "fatalities": [
-      {
-        "age": 34,
-        "dob": "1983-06-20",
-        "ethnicity": "Black",
-        "first": "Jasper",
-        "gender": "Male",
-        "generation": "",
-        "last": "Bailey",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.240751,
     "link": "http://austintexas.gov/news/traffic-fatality-54-1",
     "location": "3400 block of South Lamar",
@@ -969,18 +529,7 @@
     "case": "17-3021271",
     "crash": 55,
     "date": "2017-10-29",
-    "fatalities": [
-      {
-        "age": 29,
-        "dob": null,
-        "ethnicity": "White",
-        "first": "Starlite",
-        "gender": "Male",
-        "generation": "",
-        "last": "Stewart",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.251389,
     "link": "http://austintexas.gov/news/traffic-fatality-55-1",
     "location": "Intersection of E. 7th and Comal Street",
@@ -992,18 +541,7 @@
     "case": "17-3041428",
     "crash": 56,
     "date": "2017-10-31",
-    "fatalities": [
-      {
-        "age": 45,
-        "dob": "1972-08-30",
-        "ethnicity": "Hispanic",
-        "first": "Marcos",
-        "gender": "Male",
-        "generation": "",
-        "last": "Morales",
-        "middle": "Mauricio"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.256208,
     "link": "http://austintexas.gov/news/traffic-fatality-56-2",
     "location": "Chicon and Willow streets",
@@ -1015,18 +553,7 @@
     "case": "17-3090297",
     "crash": 57,
     "date": "2017-11-05",
-    "fatalities": [
-      {
-        "age": 26,
-        "dob": "1991-04-27",
-        "ethnicity": "White",
-        "first": "Zachary",
-        "gender": "Male",
-        "generation": "",
-        "last": "Alexander-Ball",
-        "middle": "Ryan"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.222797,
     "link": "http://austintexas.gov/news/traffic-fatality-57-1",
     "location": "1300 block of Thornberry Rd.",
@@ -1038,18 +565,7 @@
     "case": "17-3091672",
     "crash": 58,
     "date": "2017-11-05",
-    "fatalities": [
-      {
-        "age": 0,
-        "dob": null,
-        "ethnicity": "White",
-        "first": "",
-        "gender": "Male",
-        "generation": "",
-        "last": "",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.422527,
     "link": "http://austintexas.gov/news/traffic-fatality-58-1",
     "location": "Spicewood Springs Rd. and Scotland Well Dr.",
@@ -1061,18 +577,7 @@
     "case": "17-3150989",
     "crash": 59,
     "date": "2017-11-11",
-    "fatalities": [
-      {
-        "age": 38,
-        "dob": null,
-        "ethnicity": "White",
-        "first": "Latulippe",
-        "gender": "Female",
-        "generation": "",
-        "last": "Nancy",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.384918,
     "link": "http://austintexas.gov/news/traffic-fatality-59-update",
     "location": "9400 block of Research Blvd.",
@@ -1084,18 +589,7 @@
     "case": "17-3151167",
     "crash": 60,
     "date": "2017-11-11",
-    "fatalities": [
-      {
-        "age": 18,
-        "dob": "1999-07-19",
-        "ethnicity": "Hispanic",
-        "first": "Anderson",
-        "gender": "Male",
-        "generation": "",
-        "last": "Palma-Rodriguez",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.224428,
     "link": "http://austintexas.gov/news/traffic-fatality-60-1",
     "location": "6500 block of E Riverside Dr.",
@@ -1107,18 +601,7 @@
     "case": "17-3241448",
     "crash": 61,
     "date": "2017-11-20",
-    "fatalities": [
-      {
-        "age": 36,
-        "dob": "1981-05-09",
-        "ethnicity": "White",
-        "first": "Christopher",
-        "gender": "Male",
-        "generation": "",
-        "last": "Gorman",
-        "middle": "Joseph"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.311346,
     "link": "http://austintexas.gov/news/traffic-fatality-61-1",
     "location": "5300 block of N IH 35 southbound",
@@ -1130,18 +613,7 @@
     "case": "17-3271177",
     "crash": 62,
     "date": "2017-11-23",
-    "fatalities": [
-      {
-        "age": 27,
-        "dob": "1990-08-14",
-        "ethnicity": "White",
-        "first": "Miranda",
-        "gender": "Female",
-        "generation": "",
-        "last": "Stark",
-        "middle": "Ashley"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.284895,
     "link": "http://austintexas.gov/news/traffic-fatality-62-1",
     "location": "4200 E. MLK Jr. Blvd.",
@@ -1153,18 +625,7 @@
     "case": "17-3281208",
     "crash": 63,
     "date": "2017-11-24",
-    "fatalities": [
-      {
-        "age": 30,
-        "dob": "1987-07-06",
-        "ethnicity": "White",
-        "first": "Sean",
-        "gender": "Male",
-        "generation": "",
-        "last": "Gayle",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.174114,
     "link": "http://austintexas.gov/news/traffic-fatality-63-1",
     "location": "800 block of W. Slaughter.",
@@ -1176,18 +637,7 @@
     "case": "17-3281397",
     "crash": 64,
     "date": "2017-11-25",
-    "fatalities": [
-      {
-        "age": 55,
-        "dob": "1962-09-08",
-        "ethnicity": "Hispanic",
-        "first": "Juan",
-        "gender": "Male",
-        "generation": "",
-        "last": "Estrada",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.100462,
     "link": "http://austintexas.gov/news/traffic-fatality-64-1",
     "location": "13900 S. IH-35.",
@@ -1199,18 +649,7 @@
     "case": "17-3370167",
     "crash": 65,
     "date": "2017-12-03",
-    "fatalities": [
-      {
-        "age": 36,
-        "dob": "1981-10-08",
-        "ethnicity": "White",
-        "first": "Christopher",
-        "gender": "Male",
-        "generation": "",
-        "last": "Peterson",
-        "middle": "M"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.37594,
     "link": "http://austintexas.gov/news/traffic-fatality-65-1",
     "location": "10700 N. Lamar Blvd.",
@@ -1222,18 +661,7 @@
     "case": "17-3371099",
     "crash": 66,
     "date": "2017-12-03",
-    "fatalities": [
-      {
-        "age": 15,
-        "dob": "2001-12-19",
-        "ethnicity": "Eastern",
-        "first": "Sajjad",
-        "gender": "Male",
-        "generation": "",
-        "last": "Middle",
-        "middle": "Zaid Alqassab"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.414601,
     "link": "http://austintexas.gov/news/traffic-fatality-66-1",
     "location": "13100 block N. I-35 Southbound",
@@ -1245,18 +673,7 @@
     "case": "17-3380841",
     "crash": 67,
     "date": "2017-12-04",
-    "fatalities": [
-      {
-        "age": 18,
-        "dob": "1999-10-17",
-        "ethnicity": "White",
-        "first": "Edwin",
-        "gender": "Male",
-        "generation": "",
-        "last": "Proenza-Benedit",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.355643,
     "link": "http://austintexas.gov/news/traffic-fatality-67-1",
     "location": "8200 Research Blvd. NB Service Road",
@@ -1268,18 +685,7 @@
     "case": "17-3390056",
     "crash": 68,
     "date": "2017-12-05",
-    "fatalities": [
-      {
-        "age": 23,
-        "dob": "1993-12-21",
-        "ethnicity": "Black",
-        "first": "Deion",
-        "gender": "Male",
-        "generation": "",
-        "last": "Odom",
-        "middle": "Lee"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.2658,
     "link": "http://austintexas.gov/news/traffic-fatality-68-1",
     "location": "800 Block of W. Cesar Chavez.",
@@ -1291,18 +697,7 @@
     "case": "17-3410022",
     "crash": 69,
     "date": "2017-12-07",
-    "fatalities": [
-      {
-        "age": 29,
-        "dob": "1988-10-29",
-        "ethnicity": "Black",
-        "first": "Dominique",
-        "gender": "Male",
-        "generation": "",
-        "last": "Gaines",
-        "middle": ""
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.308565,
     "link": "http://austintexas.gov/news/traffic-fatality-69-1",
     "location": "3300 block of Northeast Dr.",
@@ -1314,18 +709,7 @@
     "case": "17-3460912",
     "crash": 70,
     "date": "2017-12-12",
-    "fatalities": [
-      {
-        "age": 62,
-        "dob": "1955-01-22",
-        "ethnicity": "White",
-        "first": "Robert",
-        "gender": "Male",
-        "generation": "",
-        "last": "Trewitt",
-        "middle": "Lance"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.356976,
     "link": "http://austintexas.gov/news/traffic-fatality-70-0",
     "location": "8400 block of Research Blvd. Southbound",
@@ -1337,18 +721,7 @@
     "case": "17-3550122",
     "crash": 71,
     "date": "2017-12-21",
-    "fatalities": [
-      {
-        "age": 33,
-        "dob": "1984-06-18",
-        "ethnicity": "White",
-        "first": "Shane",
-        "gender": "Male",
-        "generation": "",
-        "last": "Goldstein",
-        "middle": "Carson"
-      }
-    ],
+    "fatalities": [],
     "latitude": 30.232645,
     "link": "http://austintexas.gov/news/traffic-fatality-71-0",
     "location": "2100 block of Burton Drive",
