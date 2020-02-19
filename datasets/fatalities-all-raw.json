@@ -5369,6 +5369,29 @@
     "time": "01:27:00"
   },
   {
+    "case": "20-391451",
+    "crash": 18,
+    "date": "2020-02-08",
+    "fatalities": [
+      {
+        "age": 40,
+        "dob": "1979-03-09",
+        "ethnicity": "White",
+        "first": "Alejandro",
+        "gender": "Male",
+        "generation": "",
+        "last": "Aguilera",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-18-2",
+    "location": "6603 N. IH-35 Svrd NB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that Alejandro Aguilera was driving a grey, 2019 Yamaha MT-09 motorcycle in the parking lot of the Studio 6 Motel when he struck an unoccupied black, 2011 Nissan Sentra. The Nissan was legally parked.\n\n\tAlejandro Aguilera was not wearing a helmet and was ejected from the motorcycle. He was transported to Dell Seton Medical Center at the University of Texas where he died on February 15, 2020 at 12:45 p.m.",
+    "time": "18:49:00"
+  },
+  {
     "case": "20-410096",
     "crash": 14,
     "date": "2020-02-10",
@@ -5413,5 +5436,28 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a 1993, black Honda Civic was traveling eastbound in the 200 block of E. Ben White Blvd. in the left lane of the service road when it struck a wheelchair-bound pedestrian. The pedestrian was traveling north to south across the frontage road. The pedestrian was in the lane of travel at the time of the crash. The driver of the Honda remained on scene and cooperated with the investigation. No charges are expected to be filed at this time. The pedestrian, identified as Theodore Tjomsland, died at the scene.",
     "time": "19:16:00"
+  },
+  {
+    "case": "20-461885",
+    "crash": 19,
+    "date": "2020-02-15",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1964-11-03",
+        "ethnicity": "White",
+        "first": "Lee",
+        "gender": "Male",
+        "generation": "",
+        "last": "Cagle",
+        "middle": "Martin"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-19-3",
+    "location": "10500 Menchaca Rd.",
+    "longitude": 0,
+    "notes": "Arrested:     Paul Joseph Garcia, Hispanic male, (24 years of age)\n\n\tThe preliminary investigation shows that a 2014, white Ford Focus was traveling southbound in the right lane of the 10500 block of Menchaca Rd. when it struck a pedestrian who was walking from east to west. The pedestrian penetrated the windshield of the Ford. The driver continued to drive southbound for approximately half a mile. The driver stopped the car, exited the vehicle and walked away from the scene. He was taken into custody a short time later. The pedestrian, identified as Lee Martin Cagle, died at the scene.",
+    "time": "22:36:00"
   }
 ]
