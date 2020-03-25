@@ -458,5 +458,28 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that a 2014, white Ford Focus was traveling southbound in the right lane of the 10500 block of Menchaca Rd. when it struck a pedestrian who was walking from east to west. The pedestrian penetrated the windshield of the Ford. The driver continued to drive southbound for approximately half a mile. The driver stopped the car, exited the vehicle and walked away from the scene. He was taken into custody a short time later. The pedestrian, identified as Lee Martin Cagle, died at the scene.",
     "time": "22:36:00"
+  },
+  {
+    "case": "20-730169",
+    "crash": 21,
+    "date": "2020-03-13",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1997-06-18",
+        "ethnicity": "White",
+        "first": "Samuel",
+        "gender": "Male",
+        "generation": "",
+        "last": "Williams",
+        "middle": "Adam"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-21-2",
+    "location": "2400 S 1st St.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2017, dark gray Cadillac CTS was traveling southbound in the 2300 block of S. 1st St. at a high rate of speed. The driver ran the red light at the intersection of S. 1st and W. Oltorf St. and then collided with a telephone pole in the 2400 block of S. 1st St. The passenger in the vehicle, Samuel Adam Williams, sustained life-threatening injuries and was transported to St. David\u2019s South Austin Hospital. He passed away on March 23, 2020 at 1:25 a.m. \nThe driver of the Cadillac, Sebastian Michael Dean, was arrested and charged with intoxication assault. Updated charges of intoxication manslaughter are pending against Dean.",
+    "time": "02:13:00"
   }
 ]
