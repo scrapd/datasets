@@ -332,6 +332,29 @@
     "time": "04:54:00"
   },
   {
+    "case": "20-0871272",
+    "crash": 22,
+    "date": "2020-03-27",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1964-07-30",
+        "ethnicity": "Black",
+        "first": "Katy",
+        "gender": "Female",
+        "generation": "",
+        "last": "Johnson",
+        "middle": "Lynn"
+      }
+    ],
+    "latitude": 30.276299,
+    "link": "http://austintexas.gov/news/fatality-crash-22-2",
+    "location": "1190 Airport Boulevard",
+    "longitude": -97.69987,
+    "notes": "The preliminary investigation shows that a black, 2011 Nissan Altima was traveling southbound in the outside lane in the 1100 block of Airport Boulevard when it struck a pedestrian, Katy Lynn Johnson. Katy Johnson was walking from the east curb line to the west curb line in an area not designated for foot traffic. She died on scene.\nThe driver of the Nissan remained at the site of the crash.",
+    "time": "20:32:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
