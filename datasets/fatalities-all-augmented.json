@@ -5379,6 +5379,29 @@
     "time": "20:32:00"
   },
   {
+    "case": "20-0890263",
+    "crash": 23,
+    "date": "2020-03-29",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1964-05-26",
+        "ethnicity": "Black",
+        "first": "Harrison",
+        "gender": "Male",
+        "generation": "Jr.",
+        "last": "Beard",
+        "middle": "Thomas"
+      }
+    ],
+    "latitude": 30.263021,
+    "link": "http://austintexas.gov/news/fatality-crash-23-2",
+    "location": "5200 S. FM 973",
+    "longitude": -97.60805,
+    "notes": "The preliminary investigation shows that the driver of a red, 2017 Dodge RAM was traveling southbound in the 5200 block of S. FM 973 when he crossed the center lane for an unknown reason and struck an oncoming tan, 2001 Ford F150. The driver of the Ford F150, Harrison Thomas Beard, Jr., died on scene. The driver of the Dodge RAM was transported to a local hospital with non-life threatening injuries.",
+    "time": "05:17:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
