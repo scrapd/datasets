@@ -5551,5 +5551,28 @@
     "longitude": 0,
     "notes": "The preliminary investigation shows that a 2017, dark gray Cadillac CTS was traveling southbound in the 2300 block of S. 1st St. at a high rate of speed. The driver ran the red light at the intersection of S. 1st and W. Oltorf St. and then collided with a telephone pole in the 2400 block of S. 1st St. The passenger in the vehicle, Samuel Adam Williams, sustained life-threatening injuries and was transported to St. David’s South Austin Hospital. He passed away on March 23, 2020 at 1:25 a.m. \nThe driver of the Cadillac, Sebastian Michael Dean, was arrested and charged with intoxication assault. Updated charges of intoxication manslaughter are pending against Dean.",
     "time": "02:13:00"
+  },
+  {
+    "case": "20-901191",
+    "crash": 24,
+    "date": "2020-03-30",
+    "fatalities": [
+      {
+        "age": 9,
+        "dob": "2010-09-27",
+        "ethnicity": "Hispanic",
+        "first": "Daminik",
+        "gender": "Female",
+        "generation": "",
+        "last": "Lopez",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-24-2",
+    "location": "5500 block of E. Parmer Lane",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the driver of a silver, 2009 Hummer H3 was traveling south over the eastbound lanes in the 5500 block of E. Parmer Lane when she failed to yield to a grey, 2008 Mercedes-Benz ML3. The ML3 struck the passenger’s side of the Hummer. The two child passengers in the Hummer were transported to Dell Children’s Medical Center of Central Texas for treatment of their injuries. One of those children, nine-year-old Daminik Lopez, died from her injuries on April 4, 2020. The other underwent emergency surgery for critical injuries.\nThe driver of the ML3, 34-year-old Cain Perez Estrada, was transported to an area hospital for treatment of non-life threatening injuries. He was subsequently arrested for DWI which is believed to have been a contributing factor in the crash.",
+    "time": "21:18:00"
   }
 ]
