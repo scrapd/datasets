@@ -560,5 +560,38 @@
     "longitude": -97.73402,
     "notes": "The preliminary investigation shows that the driver of a silver, 2009 Hummer H3 was traveling south over the eastbound lanes in the 5500 block of E. Parmer Lane when she failed to yield to a grey, 2008 Mercedes-Benz ML3. The ML3 struck the passenger\u2019s side of the Hummer. The two child passengers in the Hummer were transported to Dell Children\u2019s Medical Center of Central Texas for treatment of their injuries. One of those children, nine-year-old Daminik Lopez, died from her injuries on April 4, 2020. The other underwent emergency surgery for critical injuries.\nThe driver of the ML3, 34-year-old Cain Perez Estrada, was transported to an area hospital for treatment of non-life threatening injuries. He was subsequently arrested for DWI which is believed to have been a contributing factor in the crash.",
     "time": "21:18:00"
+  },
+  {
+    "case": "20-981497",
+    "crash": 25,
+    "date": "2020-04-07",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1996-12-05",
+        "ethnicity": "Hispanic",
+        "first": "Margarita",
+        "gender": "Female",
+        "generation": "",
+        "last": "Ibarra",
+        "middle": "Escalante"
+      },
+      {
+        "age": 22,
+        "dob": "1998-01-28",
+        "ethnicity": "Hispanic",
+        "first": "Alejandra",
+        "gender": "Female",
+        "generation": "",
+        "last": "Berenice-Sanabria-Alejandro",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-25-2",
+    "location": "E. SH 71 Svrd WB/ S. SH 130 Svrd NB",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that Margarita Escalante Ibarra was driving a red, 2007 Honda Fit westbound on E. SH 71 Svrd at S. SH 130 Svrd when she ran a red light and struck a white, 2015 freight fuel truck. Margarita Ibarra and her passenger, Alejandra Berenice-Sanabria-Alejandro, died on scene. \nThe driver of the fuel truck, who was uninjured, remained at the crash site. There are no charges expected. \nThis is Austin\u2019s 25th fatal traffic crash of 2020, resulting in 27 fatalities this year. At this time in 2019, there were 18 traffic fatalities.",
+    "time": "23:53:00"
   }
 ]
