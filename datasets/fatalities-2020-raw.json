@@ -368,6 +368,29 @@
     "time": "05:17:00"
   },
   {
+    "case": "20-1021417",
+    "crash": 26,
+    "date": "2020-04-11",
+    "fatalities": [
+      {
+        "age": 32,
+        "dob": "1987-05-14",
+        "ethnicity": "White",
+        "first": "Rocky",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bell",
+        "middle": "Anthony"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-26-2",
+    "location": "8000 block of Research Blvd. NB",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a stolen, red, 2002 Honda motorcycle was traveling northbound on the inside lane of the 8000 block of Research Blvd. when the rider lost control and struck the inside barrier that was separating the north and southbound lanes. The rider was ejected from the Honda motorcycle and thrown to the ground below.\n\nThe rider died on scene. He has been identified as 32-year-old Rocky Anthony Bell.",
+    "time": "23:45:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
