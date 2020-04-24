@@ -5415,6 +5415,29 @@
     "time": "23:45:00"
   },
   {
+    "case": "20-1110004",
+    "crash": 27,
+    "date": "2020-04-20",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1981-11-15",
+        "ethnicity": "Hispanic",
+        "first": "Bruce",
+        "gender": "Male",
+        "generation": "",
+        "last": "Chavez",
+        "middle": "Henry"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-27-2",
+    "location": "9100 E. Parmer Ln.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a 2017, white freightliner box truck was traveling eastbound in the inside lane in the 9100 block of E. Parmer Ln. when it struck a pedestrian who was in the middle of the inside lane. The pedestrian, identified as Bruce Henry Chavez, was pronounced deceased on scene.",
+    "time": "00:04:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
