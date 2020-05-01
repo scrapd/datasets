@@ -424,6 +424,18 @@
     "time": "00:04:00"
   },
   {
+    "case": "20-1190565",
+    "crash": 30,
+    "date": "2020-04-28",
+    "fatalities": [],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-30-2",
+    "location": "2200 block of N. U.S. Hwy 183",
+    "longitude": 0.0,
+    "notes": "",
+    "time": "12:19:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
