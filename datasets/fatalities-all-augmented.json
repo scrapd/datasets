@@ -5472,6 +5472,29 @@
     "time": "12:19:00"
   },
   {
+    "case": "20-1231528",
+    "crash": 31,
+    "date": "2020-05-02",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1997-08-29",
+        "ethnicity": "Hispanic",
+        "first": "Aaron",
+        "gender": "Male",
+        "generation": "",
+        "last": "Franco",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-31-1",
+    "location": "12300 S. IH 35",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a silver, 2002 Jeep Cherokee was traveling northbound on S. IH 35 in the 12300 block and for an unknown reason, the vehicle left the roadway and traveled northbound along the grassy median separating S. IH 35 northbound and the northbound frontage road. The Jeep traveled along the grassy median for approximately one quarter mile and then struck the concrete base for a street light tower. The driver of the Jeep was pronounced deceased on scene.",
+    "time": "22:41:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
