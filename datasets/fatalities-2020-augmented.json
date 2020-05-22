@@ -501,12 +501,12 @@
       {
         "age": 35,
         "dob": "1985-02-28",
-        "ethnicity": "Undefined",
+        "ethnicity": "Black",
         "first": "D.J.",
         "gender": "Male",
         "generation": "",
-        "last": "Alaskan",
-        "middle": "Davis American Indian"
+        "last": "Davis",
+        "middle": ""
       }
     ],
     "latitude": 0.0,
