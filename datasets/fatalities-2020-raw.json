@@ -507,6 +507,29 @@
     "time": "02:35:00"
   },
   {
+    "case": "20-1421684",
+    "crash": 34,
+    "date": "2020-05-21",
+    "fatalities": [
+      {
+        "age": 30,
+        "dob": "1989-06-17",
+        "ethnicity": "Black",
+        "first": "Ginger",
+        "gender": "Female",
+        "generation": "",
+        "last": "Mattox",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-34-2",
+    "location": "Pond Springs Road/U.S. 183 North",
+    "longitude": 0.0,
+    "notes": "",
+    "time": "22:36:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
