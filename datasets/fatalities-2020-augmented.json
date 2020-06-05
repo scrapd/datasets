@@ -540,6 +540,29 @@
     "time": "22:36:00"
   },
   {
+    "case": "20-1531670",
+    "crash": 36,
+    "date": "2020-06-01",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1986-11-11",
+        "ethnicity": "White",
+        "first": "Roberta",
+        "gender": "Female",
+        "generation": "",
+        "last": "Ruggles",
+        "middle": "Gail"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-36-2",
+    "location": "3900 N IH 35",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that an Austex Flatbed truck struck a female pedestrian in the 3900 block of N IH 35. The preliminary investigation shows that the pedestrian was walking westbound across IH 35 on the highway in the 3900 block. The vehicle was in the right lane when the driver saw another vehicle slow but didn\u2019t know why. The truck moved to the left lane to avoid the other vehicle and struck the pedestrian who had started walking into the left lane. The driver applied the brakes but struck the pedestrian with the right side of the vehicle. The pedestrian was pronounced deceased on scene at 12:10 a.m.",
+    "time": "23:50:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
