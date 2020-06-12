@@ -484,6 +484,29 @@
     "time": "15:03:00"
   },
   {
+    "case": "20-1320045",
+    "crash": 35,
+    "date": "2020-05-11",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": "1965-01-23",
+        "ethnicity": "Black",
+        "first": "Roderick",
+        "gender": "Male",
+        "generation": "",
+        "last": "Davis",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-35-2",
+    "location": "N. IH-35 Svrd SB/E. Rundberg Ln.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that Roderick Davis was lying down in the right lane of E. Rundberg Ln. for an undetermined reason. He was struck by an unidentified vehicle. The Austin Police Department responded to the scene after receiving several reports of a body in the roadway. Upon arrival, officers found Mr. Davis, who was transported to Dell Seton Medical Center at the University of Texas where he died a short time later.\nThere is no vehicle description available at this point in the investigation.",
+    "time": "02:52:00"
+  },
+  {
     "case": "20-1360166",
     "crash": 33,
     "date": "2020-05-15",
