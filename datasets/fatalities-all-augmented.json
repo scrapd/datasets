@@ -5610,6 +5610,75 @@
     "time": "23:50:00"
   },
   {
+    "case": "20-1730946",
+    "crash": 37,
+    "date": "2020-06-21",
+    "fatalities": [
+      {
+        "age": 29,
+        "dob": "1991-03-19",
+        "ethnicity": "White",
+        "first": "Terri",
+        "gender": "Female",
+        "generation": "",
+        "last": "Campbell",
+        "middle": "Lynne"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-37-3",
+    "location": "FM 2222 and City Park Rd.",
+    "longitude": 0,
+    "notes": "On Sunday, June 21, 2020, at approximately 4:58 p.m., APD officers were dispatched to a motorcycle versus automobile crash at the intersection of FM 2222 and City Park Rd. The preliminary investigation shows that a 2009, black Yamaha motorcycle was traveling westbound in the 6500 block of FM 2222 and was attempting to make a left turn to go south onto the 6400 block of City Park Rd. It appears the motorcycle failed to yield the right of way to a 2013, white Acura RDX and was struck by the oncoming SUV which was traveling eastbound in the 6600 block of FM 2222.\nAustin-Travis County EMS and the Austin Fire Department (AFD) performed lifesaving measures on the motorcycle driver, but she was pronounced deceased on scene at 5:25 p.m. The motorcycle driver was wearing a helmet and other protective gear and had a valid Texas driver’s license with motorcycle endorsement. The driver of the SUV remained on scene and is cooperating fully with the investigation. At this time, it is not believed that driver impairment or speeding were factors in this crash.",
+    "time": "16:58:00"
+  },
+  {
+    "case": "20-1731047",
+    "crash": 38,
+    "date": "2020-06-21",
+    "fatalities": [
+      {
+        "age": 23,
+        "dob": "1996-08-12",
+        "ethnicity": "Hispanic",
+        "first": "Marcos",
+        "gender": "Male",
+        "generation": "",
+        "last": "Calderon",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.355625,
+    "link": "http://austintexas.gov/news/fatality-crash-38-2",
+    "location": "8100 block of Jamestown Dr.",
+    "longitude": -97.715225,
+    "notes": "On Sunday, June 21, 2020, at approximately 6:27 p.m., a 2002, green Chevrolet was traveling northbound on the U.S. Highway 183 service road near the 8200 block when a 1998, silver Honda entered the U.S. Highway 183 service road from a stopped position on Jamestown Dr. The Honda entered the center lane and into the path of the Chevrolet. The Chevrolet struck the back-left quarter panel of the Honda and veered off the roadway. The Chevrolet drove across dirt and gravel and then struck a concrete bridge support on the back-right passenger side of the vehicle, killing the passenger. The other occupants in the Chevrolet were transported to a nearby hospital for precautionary measures.\nThe driver of the Honda remained on scene and cooperated.",
+    "time": "18:27:00"
+  },
+  {
+    "case": "20-1741188",
+    "crash": 39,
+    "date": "2020-06-22",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1998-06-26",
+        "ethnicity": "Undefined",
+        "first": "Eber",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "Male",
+        "middle": "Misael Castillo Ortiz Hispanic"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-39-2",
+    "location": "500 block of East Grady Drive",
+    "longitude": 0,
+    "notes": "On Monday, June 22, 2020, at approximately 7:23 p.m., the Austin Police Department received multiple 911 calls about a single-vehicle collision that originated in the 10600 block of Brownie Drive. Upon arrival, officers found a white, 2013 Chevrolet Silverado truck with a passenger who had been badly injured. Austin police, fire and Austin Travis-County EMS all attempted life-saving measures. Eber Misael Castillo Ortiz was pronounced deceased on scene at approximately 7:32 p.m.\nThe preliminary investigation shows that the Chevrolet Silverado was northbound in the 10600 block of Brownie Drive when it left the roadway for unknown reasons and collided with a stone mailbox and chain-link fence on a property in the 500 block of East Grady Drive. The as-yet unidentified driver of the vehicle fled the scene on foot prior to police arrival.",
+    "time": "19:23:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
