@@ -628,7 +628,7 @@
     "fatalities": [
       {
         "age": 21,
-        "dob": "1998-07-09",
+        "dob": "1998-07-10",
         "ethnicity": "Undefined",
         "first": "Eber",
         "gender": "Undefined",
@@ -643,6 +643,52 @@
     "longitude": 0.0,
     "notes": "On Monday, June 22, 2020, at approximately 7:23 p.m., the Austin Police Department received multiple 911 calls about a single-vehicle collision that originated in the 10600 block of Brownie Drive. Upon arrival, officers found a white, 2013 Chevrolet Silverado truck with a passenger who had been badly injured. Austin police, fire and Austin Travis-County EMS all attempted life-saving measures. Eber Misael Castillo Ortiz was pronounced deceased on scene at approximately 7:32 p.m.\nThe preliminary investigation shows that the Chevrolet Silverado was northbound in the 10600 block of Brownie Drive when it left the roadway for unknown reasons and collided with a stone mailbox and chain-link fence on a property in the 500 block of East Grady Drive. The as-yet unidentified driver of the vehicle fled the scene on foot prior to police arrival.",
     "time": "19:23:00"
+  },
+  {
+    "case": "20-1771205",
+    "crash": 40,
+    "date": "2020-06-25",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1991-07-10",
+        "ethnicity": "Undefined",
+        "first": "Shelby",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "female",
+        "middle": "Bean White"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-40-2",
+    "location": "2600 block of N. Lamar Boulevard",
+    "longitude": 0.0,
+    "notes": "On Thursday, June 25, 2020, at approximately 7:13 p.m., the Austin Police Department received multiple 911 calls about a single vehicle collision in the 2600 block of N. Lamar Boulevard. Upon arrival, officers found the boyfriend of the victim, who had been in a nearby vehicle, attempting to render aid. Austin Fire Department personnel arrived and took over. Shelby Bean was transported by Austin-Travis County EMS to Dell Seton Medical Center at the University of Texas where she died at 7:46 p.m.\nThe preliminary investigation shows that Ms. Bean was driving a white, 2015 Subaru Forester southbound on N. Lamar Boulevard when the vehicle left the roadway for an unknown reason and collided with a utility pole.",
+    "time": "19:13:00"
+  },
+  {
+    "case": "20-1850221",
+    "crash": 41,
+    "date": "2020-07-03",
+    "fatalities": [
+      {
+        "age": 22,
+        "dob": "1997-09-25",
+        "ethnicity": "Black",
+        "first": "Olivia",
+        "gender": "Female",
+        "generation": "",
+        "last": "Sanders",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-41-2",
+    "location": "9600 Block of E. U.S. 290 eastbound",
+    "longitude": 0.0,
+    "notes": "",
+    "time": "05:49:00"
   },
   {
     "case": "20-321592",
