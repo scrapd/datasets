@@ -5725,6 +5725,18 @@
     "time": "05:49:00"
   },
   {
+    "case": "20-1920183",
+    "crash": 42,
+    "date": "2020-07-10",
+    "fatalities": [],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-42-2",
+    "location": "11800 N. IH-35 SB",
+    "longitude": 0,
+    "notes": "",
+    "time": "04:33:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
