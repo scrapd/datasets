@@ -5727,6 +5727,52 @@
     "time": "04:33:00"
   },
   {
+    "case": "20-2050094",
+    "crash": 43,
+    "date": "2020-07-23",
+    "fatalities": [
+      {
+        "age": 43,
+        "dob": "1977-01-26",
+        "ethnicity": "White",
+        "first": "Sarah",
+        "gender": "Female",
+        "generation": "",
+        "last": "Dabadie",
+        "middle": "Christina"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-43-2",
+    "location": "9100 block of Research Blvd. southbound proper",
+    "longitude": 0,
+    "notes": "",
+    "time": "01:34:00"
+  },
+  {
+    "case": "20-2060040",
+    "crash": 44,
+    "date": "2020-07-24",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1993-05-22",
+        "ethnicity": "Hispanic",
+        "first": "Jose",
+        "gender": "Male",
+        "generation": "Jr",
+        "last": "Zamarripa",
+        "middle": "Martin"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-44-2",
+    "location": "13700 block of S. IH 35 northbound proper",
+    "longitude": 0,
+    "notes": "",
+    "time": "00:41:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
