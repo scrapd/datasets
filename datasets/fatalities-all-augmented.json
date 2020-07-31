@@ -5776,11 +5776,46 @@
       }
     ],
     "latitude": 0,
-    "link": "http://austintexas.gov/news/fatality-crash-44-2",
+    "link": "http://austintexas.gov/news/fatality-crash-44-3",
     "location": "13700 block of S. IH 35 northbound proper",
     "longitude": 0,
     "notes": "",
     "time": "00:41:00"
+  },
+  {
+    "case": "20-2060169",
+    "crash": 45,
+    "date": "2020-07-24",
+    "fatalities": [
+      {
+        "age": 15,
+        "dob": "2004-09-15",
+        "ethnicity": "White",
+        "first": "Julian",
+        "gender": "Male",
+        "generation": "",
+        "last": "Murillo",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-45-2",
+    "location": "Cameron Rd. &amp; E. Anderson Ln. westbound service road",
+    "longitude": 0,
+    "notes": "",
+    "time": "03:29:00"
+  },
+  {
+    "case": "20-2061562",
+    "crash": 46,
+    "date": "2020-07-24",
+    "fatalities": [],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-46-2",
+    "location": "1000 block of Old Bastrop Hwy",
+    "longitude": 0,
+    "notes": "",
+    "time": "23:33:00"
   },
   {
     "case": "20-321592",
