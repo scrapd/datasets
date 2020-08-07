@@ -713,6 +713,18 @@
     "time": "04:33:00"
   },
   {
+    "case": "20-1990449",
+    "crash": 47,
+    "date": "2020-07-17",
+    "fatalities": [],
+    "latitude": 30.357925,
+    "link": "http://austintexas.gov/news/traffic-fatality-47-7",
+    "location": "800 block of E. Rundberg Lane",
+    "longitude": -97.68745,
+    "notes": "",
+    "time": "09:43:00"
+  },
+  {
     "case": "20-2050094",
     "crash": 43,
     "date": "2020-07-23",
@@ -792,6 +804,18 @@
     "longitude": 0.0,
     "notes": "",
     "time": "23:33:00"
+  },
+  {
+    "case": "20-2101510",
+    "crash": 48,
+    "date": "2020-07-28",
+    "fatalities": [],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-48-2",
+    "location": "10500 block of N. IH-35 NB",
+    "longitude": 0.0,
+    "notes": "",
+    "time": "23:50:00"
   },
   {
     "case": "20-321592",
