@@ -5662,7 +5662,7 @@
     "fatalities": [
       {
         "age": 21,
-        "dob": "1998-08-07",
+        "dob": "1998-09-12",
         "ethnicity": "Undefined",
         "first": "Eber",
         "gender": "Undefined",
@@ -5685,7 +5685,7 @@
     "fatalities": [
       {
         "age": 28,
-        "dob": "1991-08-07",
+        "dob": "1991-09-12",
         "ethnicity": "Undefined",
         "first": "Shelby",
         "gender": "Undefined",
@@ -5735,6 +5735,29 @@
     "longitude": 0,
     "notes": "",
     "time": "04:33:00"
+  },
+  {
+    "case": "20-1920298",
+    "crash": 49,
+    "date": "2020-07-10",
+    "fatalities": [
+      {
+        "age": 72,
+        "dob": "1948-07-03",
+        "ethnicity": "Black",
+        "first": "Charlotte",
+        "gender": "Female",
+        "generation": "",
+        "last": "Dukes",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.201162,
+    "link": "http://austintexas.gov/news/fatality-crash-49-2",
+    "location": "700 block of E. Stassney Ln.",
+    "longitude": -97.76922,
+    "notes": "",
+    "time": "07:59:00"
   },
   {
     "case": "20-1990449",
@@ -5840,6 +5863,179 @@
     "longitude": 0,
     "notes": "",
     "time": "23:50:00"
+  },
+  {
+    "case": "20-2141286",
+    "crash": 50,
+    "date": "2020-08-01",
+    "fatalities": [],
+    "latitude": 30.406776,
+    "link": "http://austintexas.gov/news/fatality-crash-50-2",
+    "location": "11700 block of S. Mopac Expy",
+    "longitude": -97.72335,
+    "notes": "",
+    "time": "19:54:00"
+  },
+  {
+    "case": "20-2230655",
+    "crash": 53,
+    "date": "2020-08-10",
+    "fatalities": [
+      {
+        "age": 80,
+        "dob": "1939-09-12",
+        "ethnicity": "Undefined",
+        "first": "Inez",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "female",
+        "middle": "Whitener White"
+      }
+    ],
+    "latitude": 30.396418,
+    "link": "http://austintexas.gov/news/fatality-crash-53-2",
+    "location": "12600 block of Dessau Road",
+    "longitude": -97.64331,
+    "notes": "On Monday, August 10, 2020, at approximately 1:22 p.m., Austin police responded to the 12600 block of Dessau Road for a two-vehicle collision. The preliminary investigation shows that Inez Whitener was driving a red, 2018 Mitsubishi Mirage eastbound on Bradbury when she entered the Dessau intersection and was struck by a white, 2012 Nissan Armada traveling southbound through the same cross streets.\nMs. Whitener was transported to Saint David’s Round Rock Medical Center where she passed away on August 21, 2020 from crash injuries. The driver of the Nissan Armada sustained minor injuries. She was cited on scene for no driver's license and failure to maintain financial responsibility.",
+    "time": "13:22:00"
+  },
+  {
+    "case": "20-2281507",
+    "crash": 52,
+    "date": "2020-08-15",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1993-09-12",
+        "ethnicity": "Undefined",
+        "first": "Alfonso",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "male",
+        "middle": "Sanchez Angeles Hispanic"
+      }
+    ],
+    "latitude": 30.277273,
+    "link": "http://austintexas.gov/news/fatality-crash-52-2",
+    "location": "8500 block of FM 969",
+    "longitude": -97.63799,
+    "notes": "On Saturday, August 15, 2020, at approximately 10:57 p.m., Austin police responded to a single-vehicle crash in the 8500 block of FM 969. The preliminary investigation shows that the vehicle, a white, 2015 Chevrolet Silverado, was traveling southbound on Decker Lane when the driver proceeded through the green light at Decker and 969 before losing control of the truck. The truck crashed through thick underbrush and trees and knocked down a fence before coming to stop, facing northbound. Witnesses on scene assisted in getting the driver and the passenger in the rear passenger’s seat out of the Silverado. The passenger on the rear driver’s side, Alfonso Sanchez Angeles, was pronounced deceased on scene. The other passenger was treated and released.",
+    "time": "22:57:00"
+  },
+  {
+    "case": "20-2351478",
+    "crash": 58,
+    "date": "2020-08-22",
+    "fatalities": [
+      {
+        "age": 55,
+        "dob": null,
+        "ethnicity": "Hispanic",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.35644,
+    "link": "http://austintexas.gov/news/fatality-crash-58-1",
+    "location": "1000 block of East Rundberg Ln.",
+    "longitude": -97.68493,
+    "notes": "The preliminary investigation shows that a pedestrian was crossing the street, mid-block, northbound in the 1000 block of East Rundberg Lane. A black, 2020 Toyota Corolla was traveling westbound in the outside lane of traffic. The driver did not see the pedestrian, but after striking something, she stopped and realized it was a pedestrian. The driver called 911 and remained on scene for emergency personnel to arrive. The pedestrian was transported to Dell Seton Medical Center at the University of Texas with life threatening injuries.",
+    "time": "20:52:00"
+  },
+  {
+    "case": "20-2360951",
+    "crash": 54,
+    "date": "2020-08-23",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1989-04-13",
+        "ethnicity": "White",
+        "first": "David",
+        "gender": "Male",
+        "generation": "",
+        "last": "Sandlin",
+        "middle": "Lucian"
+      }
+    ],
+    "latitude": 30.306303,
+    "link": "http://austintexas.gov/news/fatality-crash-54-2",
+    "location": "3900 block of S. Lamar Blvd.",
+    "longitude": -97.74237,
+    "notes": "",
+    "time": "15:57:00"
+  },
+  {
+    "case": "20-2390287",
+    "crash": 55,
+    "date": "2020-08-26",
+    "fatalities": [
+      {
+        "age": 25,
+        "dob": "1994-09-12",
+        "ethnicity": "Undefined",
+        "first": "Jacob",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "male",
+        "middle": "Byrd White"
+      }
+    ],
+    "latitude": 30.408945,
+    "link": "http://austintexas.gov/news/fatality-crash-55-2",
+    "location": "7600 block of FM 620",
+    "longitude": -97.85136,
+    "notes": "On Wednesday, August 26, 2020, at approximately 6:44 a.m., Austin police responded to multiple calls about a five-car incident in the 7600 block of FM 620. The preliminary investigation indicates that Jacob Byrd was attempting to make a left turn out of Tin Tara apartments located at 7655 FM 620 when he collided with a white, 2014 Jeep Cherokee that was northbound. Jacob Byrd was ejected from the blue, 2008 Honda Accord he was driving at which time three other eastbound vehicles became involved.",
+    "time": "06:44:00"
+  },
+  {
+    "case": "20-2391418",
+    "crash": 56,
+    "date": "2020-08-26",
+    "fatalities": [
+      {
+        "age": 32,
+        "dob": "1987-09-12",
+        "ethnicity": "Undefined",
+        "first": "Travis",
+        "gender": "Undefined",
+        "generation": "",
+        "last": "male",
+        "middle": "Larsen White"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-56-1",
+    "location": "Lake Creek Parkway and 183 Frontage road",
+    "longitude": 0,
+    "notes": "On Wednesday, August 26, 2020, at approximately 10:26 p.m., Austin police responded to a crash at Lake Creek Parkway and the 183 frontage road. The preliminary investigation indicates that Travis Larson was riding a bicycle eastbound on Lake Creek Parkway when he ran the light and collided with a silver, 2013 Toyota Corolla that was traveling southbound on the 183 frontage road.",
+    "time": "22:26:00"
+  },
+  {
+    "case": "20-2391420",
+    "crash": 57,
+    "date": "2020-08-26",
+    "fatalities": [
+      {
+        "age": 31,
+        "dob": "1988-11-16",
+        "ethnicity": "Hispanic",
+        "first": "Elias",
+        "gender": "Male",
+        "generation": "",
+        "last": "Jurado",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-57-1",
+    "location": "5500 block of E. Ben White Blvd. eastbound Service Road",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that a bicyclist was riding eastbound in the center lane of traffic in the 5500 block of the E. Ben White service road. Due to poor lighting, lack of tail lights and rear reflectors on the bicycle, a 2013, black Nissan Rogue rear-ended it.",
+    "time": "22:28:00"
   },
   {
     "case": "20-321592",
