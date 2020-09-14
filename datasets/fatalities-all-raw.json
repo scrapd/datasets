@@ -5959,6 +5959,29 @@
     "time": "15:57:00"
   },
   {
+    "case": "20-2380158",
+    "crash": 59,
+    "date": "2020-08-25",
+    "fatalities": [
+      {
+        "age": 57,
+        "dob": "1963-08-24",
+        "ethnicity": "White",
+        "first": "Lisa",
+        "gender": "Female",
+        "generation": "",
+        "last": "Vann",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-59-1",
+    "location": "300 block of the E. Ben White Svrd WB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that Lisa Vann was standing in the middle of the street in the 300 block the westbound E. Ben White svrd. A dark-colored, 4-door sedan struck her. The driver then left the scene. Lisa Vann was transported to South Austin Medical Center in stable condition.  \nOn September 9, 2020, investigators were notified that Ms. Vann died as result of the injuries she sustained in the crash.\nThis is an ongoing investigation.",
+    "time": "03:26:00"
+  },
+  {
     "case": "20-2390287",
     "crash": 55,
     "date": "2020-08-26",
