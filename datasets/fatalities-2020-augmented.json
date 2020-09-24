@@ -1037,6 +1037,29 @@
     "time": "22:28:00"
   },
   {
+    "case": "20-2560723",
+    "crash": 60,
+    "date": "2020-09-12",
+    "fatalities": [
+      {
+        "age": 63,
+        "dob": "1956-10-10",
+        "ethnicity": "White",
+        "first": "Ruben",
+        "gender": "Male",
+        "generation": "",
+        "last": "Krumholz",
+        "middle": ""
+      }
+    ],
+    "latitude": 30.42422,
+    "link": "http://austintexas.gov/news/fatality-crash-60-1",
+    "location": "12000 block of Research Boulevard NB",
+    "longitude": -97.75012,
+    "notes": "The preliminary investigation shows that the silver, 2011 Kawasaki Motorcycle on which Ruben Krumolz was traveling northbound in the 12000 block of Research Blvd NB, left the roadway for an unknown reason. The bike crossed over the shoulder and struck a concrete barrier before making contact with a pole.\nRuben Krumholz was pronounced deceased on scene at 1:04 p.m.\nThere is no indication that speed or weather were factors in the crash.\nThis is an ongoing investigation.",
+    "time": "12:58:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
