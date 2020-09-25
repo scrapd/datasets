@@ -638,7 +638,7 @@
     "fatalities": [
       {
         "age": 21,
-        "dob": "1998-09-24",
+        "dob": "1998-09-25",
         "ethnicity": "Undefined",
         "first": "Eber",
         "gender": "Undefined",
@@ -661,7 +661,7 @@
     "fatalities": [
       {
         "age": 28,
-        "dob": "1991-09-24",
+        "dob": "1991-09-25",
         "ethnicity": "Undefined",
         "first": "Shelby",
         "gender": "Undefined",
@@ -859,7 +859,7 @@
     "fatalities": [
       {
         "age": 80,
-        "dob": "1939-09-24",
+        "dob": "1939-09-25",
         "ethnicity": "Undefined",
         "first": "Inez",
         "gender": "Undefined",
@@ -882,7 +882,7 @@
     "fatalities": [
       {
         "age": 26,
-        "dob": "1993-09-24",
+        "dob": "1993-09-25",
         "ethnicity": "Undefined",
         "first": "Alfonso",
         "gender": "Undefined",
@@ -974,7 +974,7 @@
     "fatalities": [
       {
         "age": 25,
-        "dob": "1994-09-24",
+        "dob": "1994-09-25",
         "ethnicity": "Undefined",
         "first": "Jacob",
         "gender": "Undefined",
@@ -997,7 +997,7 @@
     "fatalities": [
       {
         "age": 32,
-        "dob": "1987-09-24",
+        "dob": "1987-09-25",
         "ethnicity": "Undefined",
         "first": "Travis",
         "gender": "Undefined",
@@ -1058,6 +1058,52 @@
     "longitude": -97.75012,
     "notes": "The preliminary investigation shows that the silver, 2011 Kawasaki Motorcycle on which Ruben Krumolz was traveling northbound in the 12000 block of Research Blvd NB, left the roadway for an unknown reason. The bike crossed over the shoulder and struck a concrete barrier before making contact with a pole.\nRuben Krumholz was pronounced deceased on scene at 1:04 p.m.\nThere is no indication that speed or weather were factors in the crash.\nThis is an ongoing investigation.",
     "time": "12:58:00"
+  },
+  {
+    "case": "20-2590310",
+    "crash": 61,
+    "date": "2020-09-15",
+    "fatalities": [
+      {
+        "age": 39,
+        "dob": "1981-06-18",
+        "ethnicity": "Hispanic",
+        "first": "Martina",
+        "gender": "Female",
+        "generation": "",
+        "last": "Venancio-Cabrera",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-61-1",
+    "location": "Ferguson Lane and Cameron Rd.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2015 Ford F-550 was heading west on Ferguson Ln. when the driver attempted to turn northbound on to Cameron Rd. while at a red light. A pedestrian, identified as Martina Venancio-Cabrera, was walking southbound on the east sidewalk of Cameron Rd. and was attempting to cross Ferguson Ln. in the crosswalk. The F-550 failed to yield right of way and struck her. Martina Venancio-Cabrera was transported to Dell Seton Medical Center at the University of Texas where she was pronounced deceased at 9:37 a.m.\nThe driver of the F-550 remained on scene and cooperated. A citation for fail to yield right of way was issued. \nThis is an ongoing investigation.",
+    "time": "08:54:00"
+  },
+  {
+    "case": "20-2591116",
+    "crash": 62,
+    "date": "2020-09-15",
+    "fatalities": [
+      {
+        "age": 38,
+        "dob": "1982-05-17",
+        "ethnicity": "White",
+        "first": "Austin",
+        "gender": "Male",
+        "generation": "",
+        "last": "Boggus",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-62-1",
+    "location": "9100 block of Research Boulevard SB",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation indicates that the silver, 2016 Ford Escape driven by Austin Boggus was southbound in the 9100 block of Research Blvd. when the vehicle left the roadway for an unknown reason. The Escape crossed over into the grassy median where it traveled approximately 340 feet before striking the concrete base of a sign.\nAustin Boggus was transported to Dell Seton Medical Center at the University of Texas where he died from his injuries on September 18, 2020.\nThis is an ongoing investigation.",
+    "time": "19:26:00"
   },
   {
     "case": "20-321592",
