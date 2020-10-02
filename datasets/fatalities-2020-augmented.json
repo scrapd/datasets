@@ -787,7 +787,7 @@
       }
     ],
     "latitude": 0.0,
-    "link": "http://austintexas.gov/news/fatality-crash-44-3",
+    "link": "http://austintexas.gov/news/fatality-crash-44-2",
     "location": "13700 block of S. IH 35 northbound proper",
     "longitude": 0.0,
     "notes": "",
@@ -1104,6 +1104,29 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation indicates that the silver, 2016 Ford Escape driven by Austin Boggus was southbound in the 9100 block of Research Blvd. when the vehicle left the roadway for an unknown reason. The Escape crossed over into the grassy median where it traveled approximately 340 feet before striking the concrete base of a sign.\nAustin Boggus was transported to Dell Seton Medical Center at the University of Texas where he died from his injuries on September 18, 2020.\nThis is an ongoing investigation.",
     "time": "19:26:00"
+  },
+  {
+    "case": "20-2701595",
+    "crash": 63,
+    "date": "2020-09-26",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1994-01-06",
+        "ethnicity": "Hispanic",
+        "first": "Herrera",
+        "gender": "Male",
+        "generation": "",
+        "last": "Joseph",
+        "middle": "Paul"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-63-1",
+    "location": "8400 block of S. IH 35 northbound proper",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2004, maroon, Mercury Grand Marquis was northbound on IH 35 when the left front of the vehicle struck the right rear of an 18-wheeler. The 18-wheeler was also traveling northbound on IH 35, in the center lane when traffic started to slow down due to construction. The driver of the 18-wheeler was moving very slowly and almost stopped when he felt something strike him from behind.\nThe driver of the Mercury was pronounced deceased at the scene.\nThis is an ongoing investigation.",
+    "time": "23:53:00"
   },
   {
     "case": "20-321592",
