@@ -1129,6 +1129,52 @@
     "time": "23:53:00"
   },
   {
+    "case": "20-2781082",
+    "crash": 64,
+    "date": "2020-10-04",
+    "fatalities": [
+      {
+        "age": 59,
+        "dob": "1961-07-28",
+        "ethnicity": "Black",
+        "first": "Kenneth",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bee",
+        "middle": "Harlan"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-64-1",
+    "location": "13500 block S. IH 35 service road southbound",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2001, white Toyota Avalon was traveling southbound in the 13500 block of S. IH 35. The driver took Exit 221 onto the service road and then attempted to make a movement into the right lane that was occupied by another vehicle. The driver of the Toyota appears to have overcorrected to avoid a collision and lost control of the vehicle, leaving the roadway and striking a tree. The driver of the Toyota was pronounced deceased at the scene at 5:56 p.m. \nThe other vehicle never collided with the Toyota but that driver remained on scene and is cooperating with the investigation. \nThis is an ongoing investigation.",
+    "time": "17:45:00"
+  },
+  {
+    "case": "20-2800961",
+    "crash": 65,
+    "date": "2020-10-06",
+    "fatalities": [
+      {
+        "age": 28,
+        "dob": "1992-08-27",
+        "ethnicity": "White",
+        "first": "Graham",
+        "gender": "Male",
+        "generation": "",
+        "last": "Tillerson",
+        "middle": "Blake"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-65-1",
+    "location": "6000 block of E. Stassney Lane",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that an unattended white, 2004 Chevrolet Tahoe was stalled in the outside lane of westbound traffic in the 6000 block of E. Stassney Lane. Graham Tillerson was riding a black, 2016 Indian Scout motorcycle in the same lane and swerved in an attempt to avoid hitting the stalled Tahoe, but struck the back left corner of the SUV.\nMr. Tillerson was transported to St. David\u2019s South Austin Medical Center Hospital where he was pronounced deceased at 6:16 p.m.\nThis is an ongoing investigation.",
+    "time": "17:07:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
