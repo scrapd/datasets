@@ -1119,6 +1119,29 @@
     "time": "23:53:00"
   },
   {
+    "case": "20-2710442",
+    "crash": 66,
+    "date": "2020-09-27",
+    "fatalities": [
+      {
+        "age": 53,
+        "dob": "1966-12-31",
+        "ethnicity": "White",
+        "first": "Jeffrey",
+        "gender": "Male",
+        "generation": "",
+        "last": "Bourgeois",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-66-2",
+    "location": "Springdale and U.S. Hwy 290",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that the grey, 2020 Toyota Corolla driven by Jeffrey Bourgeouis was traveling eastbound on U.S. Hwy 290 when a southbound grey, 2006 Honda Accord ran the red light at Springdale. The Accord struck the Corolla which then crashed into a silver, 2008 Nissan Quest.\nThe occupants in all three vehicles were transported to Dell Seton Medical Center at the University of Texas. Jeffrey Bourgeouis died at the hospital on October 9, 2020 from crash-related injuries.\nThis is an ongoing investigation.",
+    "time": "05:50:00"
+  },
+  {
     "case": "20-2781082",
     "crash": 64,
     "date": "2020-10-04",
@@ -1163,6 +1186,52 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that an unattended white, 2004 Chevrolet Tahoe was stalled in the outside lane of westbound traffic in the 6000 block of E. Stassney Lane. Graham Tillerson was riding a black, 2016 Indian Scout motorcycle in the same lane and swerved in an attempt to avoid hitting the stalled Tahoe, but struck the back left corner of the SUV.\nMr. Tillerson was transported to St. David\u2019s South Austin Medical Center Hospital where he was pronounced deceased at 6:16 p.m.\nThis is an ongoing investigation.",
     "time": "17:07:00"
+  },
+  {
+    "case": "20-2840143",
+    "crash": 67,
+    "date": "2020-10-10",
+    "fatalities": [
+      {
+        "age": 52,
+        "dob": "1968-07-22",
+        "ethnicity": "White",
+        "first": "George",
+        "gender": "Male",
+        "generation": "",
+        "last": "Grant",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-67-2",
+    "location": "9200 block of Burnet Road",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows George Grant was walking northbound in the inside lane in the 9200 block of Burnet Road. A black, 2005 Ford F-150, also traveling northbound on Burnet Road, struck him. The driver then fled the scene. The front panel of the truck is likely to have damage on the driver\u2019s side.\nGeorge Grant was pronounced deceased on scene. \nThis is an ongoing investigation.",
+    "time": "01:58:00"
+  },
+  {
+    "case": "20-2851548",
+    "crash": 68,
+    "date": "2020-10-11",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1987-09-02",
+        "ethnicity": "White",
+        "first": "Jessica",
+        "gender": "Female",
+        "generation": "",
+        "last": "Sears",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-68-2",
+    "location": "6800 block of S. IH-35 SB Proper",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that the black, 2005 Dodge Ram being driven by Amber Thompson, was southbound in the 6800 block of S. IH-35 SB proper when it struck an impact attenuator (crash cushion) on the Slaughter Lane off ramp. The truck ricochet into the center lane of traffic and collided with the grey, 2013 Harley Davidson on which Jessica Sears was riding.\nJessica Sears was pronounced deceased on scene.\nAmber Thompson, pictured below, was placed under arrest. She is charged with intoxication manslaughter.\nThis is an ongoing investigation.",
+    "time": "23:13:00"
   },
   {
     "case": "20-321592",
