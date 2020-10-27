@@ -6268,6 +6268,29 @@
     "time": "23:13:00"
   },
   {
+    "case": "20-2910176",
+    "crash": 69,
+    "date": "2020-10-17",
+    "fatalities": [
+      {
+        "age": 35,
+        "dob": "1985-09-07",
+        "ethnicity": "Black",
+        "first": "India",
+        "gender": "Female",
+        "generation": "",
+        "last": "McKinley",
+        "middle": ""
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-69-2",
+    "location": "12600 N IH-35 SB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the grey, 2015 Dodge Dart driven by India McKinley was traveling southbound in the outside lane in the 12600 block of N. IH-35 when the vehicle collided with a stationary City of Pflugerville fire truck. The fire truck, which had its emergency lights activated, was on scene assisting with another crash.\nThis is an ongoing investigation.",
+    "time": "02:16:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
