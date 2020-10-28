@@ -628,7 +628,7 @@
     "fatalities": [
       {
         "age": 21,
-        "dob": "1998-10-27",
+        "dob": "1998-10-28",
         "ethnicity": "Undefined",
         "first": "Eber",
         "gender": "Undefined",
@@ -651,7 +651,7 @@
     "fatalities": [
       {
         "age": 28,
-        "dob": "1991-10-27",
+        "dob": "1991-10-28",
         "ethnicity": "Undefined",
         "first": "Shelby",
         "gender": "Undefined",
@@ -849,7 +849,7 @@
     "fatalities": [
       {
         "age": 80,
-        "dob": "1939-10-27",
+        "dob": "1939-10-28",
         "ethnicity": "Undefined",
         "first": "Inez",
         "gender": "Undefined",
@@ -872,7 +872,7 @@
     "fatalities": [
       {
         "age": 26,
-        "dob": "1993-10-27",
+        "dob": "1993-10-28",
         "ethnicity": "Undefined",
         "first": "Alfonso",
         "gender": "Undefined",
@@ -964,7 +964,7 @@
     "fatalities": [
       {
         "age": 25,
-        "dob": "1994-10-27",
+        "dob": "1994-10-28",
         "ethnicity": "Undefined",
         "first": "Jacob",
         "gender": "Undefined",
@@ -987,7 +987,7 @@
     "fatalities": [
       {
         "age": 32,
-        "dob": "1987-10-27",
+        "dob": "1987-10-28",
         "ethnicity": "Undefined",
         "first": "Travis",
         "gender": "Undefined",
@@ -1255,6 +1255,29 @@
     "longitude": 0.0,
     "notes": "The preliminary investigation shows that the grey, 2015 Dodge Dart driven by India McKinley was traveling southbound in the outside lane in the 12600 block of N. IH-35 when the vehicle collided with a stationary City of Pflugerville fire truck. The fire truck, which had its emergency lights activated, was on scene assisting with another crash.\nThis is an ongoing investigation.",
     "time": "02:16:00"
+  },
+  {
+    "case": "20-2931263",
+    "crash": 70,
+    "date": "2020-10-19",
+    "fatalities": [
+      {
+        "age": 54,
+        "dob": "1966-02-19",
+        "ethnicity": "White",
+        "first": "Raymond",
+        "gender": "Male",
+        "generation": "",
+        "last": "Cipple",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-70-2",
+    "location": "1100 block of Airport Blvd.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a white, 2015 Dodge 350 was traveling southbound in the 1100 block of Airport Blvd. when Raymond Cipple, a pedestrian, attempted to cross the street midblock. Mr. Cipple was struck while walking toward the west curb line.\nRaymond Cipple was pronounced deceased on site.\nThe driver of the truck remained on scene and cooperated with the investigation.\nIt does not appear that driver impairment was a factor in this crash.\nThis is an ongoing investigation.",
+    "time": "20:00:00"
   },
   {
     "case": "20-321592",
