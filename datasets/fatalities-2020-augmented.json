@@ -787,7 +787,7 @@
       }
     ],
     "latitude": 0.0,
-    "link": "http://austintexas.gov/news/fatality-crash-44-3",
+    "link": "http://austintexas.gov/news/fatality-crash-44-2",
     "location": "13700 block of S. IH 35 northbound proper",
     "longitude": 0.0,
     "notes": "",
@@ -1288,6 +1288,52 @@
     "longitude": -97.69555,
     "notes": "The preliminary investigation shows that a white, 2015 Dodge 350 was traveling southbound in the 1100 block of Airport Blvd. when Raymond Cipple, a pedestrian, attempted to cross the street midblock. Mr. Cipple was struck while walking toward the west curb line.\nRaymond Cipple was pronounced deceased on site.\nThe driver of the truck remained on scene and cooperated with the investigation.\nIt does not appear that driver impairment was a factor in this crash.\nThis is an ongoing investigation.",
     "time": "20:00:00"
+  },
+  {
+    "case": "20-2950145",
+    "crash": 71,
+    "date": "2020-10-21",
+    "fatalities": [
+      {
+        "age": 33,
+        "dob": "1987-06-12",
+        "ethnicity": "Hispanic",
+        "first": "Armando",
+        "gender": "Male",
+        "generation": "",
+        "last": "Cruz",
+        "middle": "De La"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-71-2",
+    "location": "7400 block of N. IH-35 NB",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a 2009 18-wheeler semi was traveling northbound in one of the inside lanes in the 7400 block of N. IH-35 NB when he moved over for an APD vehicle that had activated its lights to respond to a pedestrian the officer had observed walking against the inside concrete barrier.  At the same time, Armando De La Cruz, the pedestrian, sprinted eastbound into the path of the oncoming semi and was struck.\nMr. De La Cruz was pronounced on scene.\nThe driver of the truck remained at the crash site and cooperated with the investigation.\nIt does not appear that speed, lighting or driver impairment were factors in this crash.\nThis is an ongoing investigation.",
+    "time": "03:04:00"
+  },
+  {
+    "case": "20-2961535",
+    "crash": 72,
+    "date": "2020-10-22",
+    "fatalities": [
+      {
+        "age": 26,
+        "dob": "1994-09-20",
+        "ethnicity": "White",
+        "first": "Michael",
+        "gender": "Male",
+        "generation": "",
+        "last": "Parrish",
+        "middle": "Wayne Allen"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-72-1",
+    "location": "12100 block of N. IH-35 NB Frontage",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a brown, 2008 Ford F350 was traveling northbound in the 12100 block of N. IH-35 NB Frontage when the driver moved to the outside (right lane) and struck a bicyclist who was riding on the far right section of the roadway.\nThe driver continued northbound before turning on to Techridge Blvd. where he stopped the vehicle in front of a QT gas station and fled on area on foot. The truck was located with heavy damage to the right, front corner panel.\nThe cyclist, later identified as Michael Wayne Allen Parrish, did not have a headlight or rear light on the bike. He was not wearing a helmet at the time of the collision.\nMr. Parrish was pronounced deceased on scene.\nThis is an ongoing investigation.",
+    "time": "23:02:00"
   },
   {
     "case": "20-321592",
