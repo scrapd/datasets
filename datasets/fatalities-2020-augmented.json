@@ -1336,6 +1336,75 @@
     "time": "23:02:00"
   },
   {
+    "case": "20-3041504",
+    "crash": 73,
+    "date": "2020-10-30",
+    "fatalities": [
+      {
+        "age": 0,
+        "dob": null,
+        "ethnicity": "White",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-73-0",
+    "location": "3800 block of S. U.S. Highway 183 southbound",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a silver Honda Accord was traveling southbound in the inside lane of the 3800 block of S. U.S. Highway 183. For unknown reasons, the vehicle lost control, left the roadway and struck a telephone pole. The Honda then caught on fire. A witness to the crash, confirmed that it was a single-vehicle crash and no other people or vehicles were involved. \nThe sole occupant of the vehicle was pronounced deceased on scene at 10:19 p.m. He remains unidentified at this time and next of kin has not been notified. It is believed alcohol may be a contributing factor in this crash. \nThis is an ongoing investigation.",
+    "time": "22:06:00"
+  },
+  {
+    "case": "20-3051295",
+    "crash": 74,
+    "date": "2020-10-31",
+    "fatalities": [
+      {
+        "age": 42,
+        "dob": null,
+        "ethnicity": "White",
+        "first": "",
+        "gender": "Male",
+        "generation": "",
+        "last": "",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-74-0",
+    "location": "9400 block of Burnet Rd.",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that an unknown suspect vehicle was traveling northbound in the 9300 block of Burnet Rd. A red, 2010 Mazda sedan and a white, 2009 Ford Mustang was traveling somewhere behind the unknown suspect vehicle. A witness stated that she was traveling northbound in the outside lane of the 9300 block of Burnet Rd. and observed a pedestrian crossing the road from the east to west curb line. The witness stated that the pedestrian crossed the road without regard to vehicular traffic, without looking and not in a crosswalk. The unknown suspect vehicle struck the pedestrian in the inside lane as the pedestrian attempted to cross the road. After the collision, the suspect vehicle did not stop and continued driving. The witness could only describe the suspect vehicle as possibly a red car. She pulled immediately to the side of the road and observed other vehicles strike the pedestrian as he lay on the ground. \nThe driver of the Mazda said he never saw the initial auto-pedestrian crash and never saw the pedestrian laying in the roadway until it was too late. The driver of the Ford also said she never saw the pedestrian until it was too late. Both drivers pulled over and are fully cooperating with the investigation.\nThe witness pulled her vehicle into the roadway in order to block traffic and prevent the pedestrian from being struck by more vehicles. \nThe pedestrian was pronounced deceased on scene at 7:47 p.m. This fatal auto-pedestrian crash is being investigated as a failure to stop and render aid case. \nThis is an ongoing investigation.",
+    "time": "19:36:00"
+  },
+  {
+    "case": "20-3051426",
+    "crash": 75,
+    "date": "2020-10-31",
+    "fatalities": [
+      {
+        "age": 67,
+        "dob": "1953-01-04",
+        "ethnicity": "White",
+        "first": "Alan",
+        "gender": "Male",
+        "generation": "",
+        "last": "Goldsberry",
+        "middle": "Wayne"
+      }
+    ],
+    "latitude": 30.409372,
+    "link": "http://austintexas.gov/news/fatality-crash-75-0",
+    "location": "11200 block of Research Blvd. northbound",
+    "longitude": -97.74558,
+    "notes": "The preliminary investigation shows that a black, 2013 Dodge Durango was traveling northbound in the outside lane of the 11200 block of Research Blvd., at approximately 9 p.m. on October 31, 2020. The truck braked suddenly and caused a tan, 2017 Honda CR-V, to stop abruptly. At the same time, another vehicle was traveling behind the Honda and had to swiftly change lanes to the left in order to avoid hitting the Honda. A grey, 2014 Jeep Wrangler was traveling behind this vehicle and was unable to stop prior to striking the rear of the Honda. The Honda then slammed into the Dodge Durango. The Dodge left the scene without stopping, which is required by law. \nA witness followed the Durango and was able to provide police with the license plate. The patrol officers on scene contacted the suspected driver of the truck. Detectives later interviewed him at which time he confessed to being the driver at the time of the multi-vehicle crash. No charges have been filed at this time as the case is still being investigated.  \nAlan Wayne Goldsberry, the driver of the Honda, was transported to Saint David\u2019s Round Rock Medical Center where he died at 10:56 p.m. The passenger in the Honda was also transported to an area hospital and is in stable condition. The driver of the Jeep was transported to a nearby hospital, was treated and released. No one in the Dodge Durango was injured.  \nThis is an ongoing investigation.",
+    "time": "21:03:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",
