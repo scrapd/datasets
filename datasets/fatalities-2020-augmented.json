@@ -1405,6 +1405,18 @@
     "time": "21:03:00"
   },
   {
+    "case": "20-3181502",
+    "crash": 76,
+    "date": "2020-11-13",
+    "fatalities": [],
+    "latitude": 30.265696,
+    "link": "http://austintexas.gov/news/fatality-crash-76-0",
+    "location": "1100 Airport Blvd.",
+    "longitude": -97.69555,
+    "notes": "",
+    "time": "22:05:00"
+  },
+  {
     "case": "20-321592",
     "crash": 12,
     "date": "2020-02-01",

@@ -4086,10 +4086,10 @@
         "middle": "Joseph"
       }
     ],
-    "latitude": 30.191793,
+    "latitude": 30.192728,
     "link": "http://austintexas.gov/news/traffic-fatality-46-6",
     "location": "U.S. Hwy 290 and William Cannon Dr.",
-    "longitude": -97.77453,
+    "longitude": -97.77728,
     "notes": "The preliminary investigation shows that Douglas Joseph Vogelsass was walking on William Cannon Dr. northbound across U.S. Highway 290. He disregarded the pedestrian control device and was struck by a 2013 Ford F150.\n\n\tDouglas Joseph Vogelsass was pronounced deceased at the scene.\n\n\tThe driver of the F150 remained on scene and was cooperative. No charges are expected to be filed.",
     "time": "00:49:00"
   },
@@ -6427,6 +6427,18 @@
     "longitude": -97.74558,
     "notes": "The preliminary investigation shows that a black, 2013 Dodge Durango was traveling northbound in the outside lane of the 11200 block of Research Blvd., at approximately 9 p.m. on October 31, 2020. The truck braked suddenly and caused a tan, 2017 Honda CR-V, to stop abruptly. At the same time, another vehicle was traveling behind the Honda and had to swiftly change lanes to the left in order to avoid hitting the Honda. A grey, 2014 Jeep Wrangler was traveling behind this vehicle and was unable to stop prior to striking the rear of the Honda. The Honda then slammed into the Dodge Durango. The Dodge left the scene without stopping, which is required by law. \nA witness followed the Durango and was able to provide police with the license plate. The patrol officers on scene contacted the suspected driver of the truck. Detectives later interviewed him at which time he confessed to being the driver at the time of the multi-vehicle crash. No charges have been filed at this time as the case is still being investigated.  \nAlan Wayne Goldsberry, the driver of the Honda, was transported to Saint David’s Round Rock Medical Center where he died at 10:56 p.m. The passenger in the Honda was also transported to an area hospital and is in stable condition. The driver of the Jeep was transported to a nearby hospital, was treated and released. No one in the Dodge Durango was injured.  \nThis is an ongoing investigation.",
     "time": "21:03:00"
+  },
+  {
+    "case": "20-3181502",
+    "crash": 76,
+    "date": "2020-11-13",
+    "fatalities": [],
+    "latitude": 30.265696,
+    "link": "http://austintexas.gov/news/fatality-crash-76-0",
+    "location": "1100 Airport Blvd.",
+    "longitude": -97.69555,
+    "notes": "",
+    "time": "22:05:00"
   },
   {
     "case": "20-321592",
