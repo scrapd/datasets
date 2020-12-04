@@ -1395,6 +1395,29 @@
     "time": "21:03:00"
   },
   {
+    "case": "20-3120206",
+    "crash": 77,
+    "date": "2020-11-07",
+    "fatalities": [
+      {
+        "age": 58,
+        "dob": "1962-11-17",
+        "ethnicity": "Hispanic",
+        "first": "Linda",
+        "gender": "Female",
+        "generation": "",
+        "last": "Cadena",
+        "middle": ""
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-77-0",
+    "location": "S. 1st and Annie streets",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that a grey 2021 Toyota Tundra was traveling southbound on S. 1st St. and a Dodge Ram was traveling westbound on Annie St. It is unknown which vehicle ran the red light, but the traffic violation caused a collision between the trucks. After the impact with the Tundra, the Dodge Ram struck a rock wall causing the truck to roll. The Dodge Ram truck came to rest on its roof.\nAll occupants of both vehicles were transported to nearby hospitals to be treated for their injuries. \nOne of the passengers in the Dodge Ram, Linda Cadena, was transported to Dell Seton Medical Center at the University of Texas where she died on November 20, 2020 from injuries sustained in the crash. \nThis is an ongoing investigation.",
+    "time": "03:08:00"
+  },
+  {
     "case": "20-3181502",
     "crash": 76,
     "date": "2020-11-13",
