@@ -1463,6 +1463,52 @@
     "time": "19:39:00"
   },
   {
+    "case": "20-3391431",
+    "crash": 81,
+    "date": "2020-12-04",
+    "fatalities": [
+      {
+        "age": 43,
+        "dob": "1976-12-26",
+        "ethnicity": "Black",
+        "first": "Steven",
+        "gender": "Male",
+        "generation": "",
+        "last": "Hill",
+        "middle": "Lamont"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-81-0",
+    "location": "11500 N. IH-35 SB Service Road",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that Gerardo Rene Barlow was driving a white, 2017 Chevrolet Malibu southbound in the outside lane of traffic in the 11500 block of N. IH-35 service road. Barlow struck Steven Lamont Hill who was riding a scooter in the same lane. \nMr. Hill was pronounced deceased on scene.\nGerardo Barlow fled to the nearby residence of an acquaintance where he was located by police. Upon arrival, officers conducted an investigation and arrested Barlow for DWI.\nThis is an ongoing investigation.",
+    "time": "22:51:00"
+  },
+  {
+    "case": "20-3480044",
+    "crash": 82,
+    "date": "2020-12-13",
+    "fatalities": [
+      {
+        "age": 24,
+        "dob": "1996-06-02",
+        "ethnicity": "Hispanic",
+        "first": "Danires",
+        "gender": "Male",
+        "generation": "",
+        "last": "Guerra-Mancia",
+        "middle": "Antonio"
+      }
+    ],
+    "latitude": 0.0,
+    "link": "http://austintexas.gov/news/fatality-crash-82-0",
+    "location": "8700 block of N. IH-35 SB Service Road",
+    "longitude": 0.0,
+    "notes": "The preliminary investigation shows that the grey, 2006 Chevy Aveo driven by Danires Antonio Guerra-Mancia, was traveling southbound in the 8700 block of N. IH-35 service road when he lost control of the vehicle, leaving the roadway. The Aveo struck a wooden pole and came to rest on the driver\u2019s side.\nMr. Guerra-Mancia was pronounced deceased on scene. The passenger in the Aveo suffered life-threatening injuries and was transported to an area hospital.\nThis is an ongoing investigation.",
+    "time": "00:34:00"
+  },
+  {
     "case": "20-380100",
     "crash": 13,
     "date": "2020-02-07",
