@@ -6477,6 +6477,52 @@
     "time": "19:39:00"
   },
   {
+    "case": "20-3361211",
+    "crash": 79,
+    "date": "2020-12-01",
+    "fatalities": [
+      {
+        "age": 27,
+        "dob": "1993-09-23",
+        "ethnicity": "Hispanic",
+        "first": "Mario",
+        "gender": "Male",
+        "generation": "",
+        "last": "Martinez-Buenrostro",
+        "middle": "Eduardo"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-79-0",
+    "location": "12200 block of N. Mopac Expressway SB",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the silver, 2005 Honda Accord driven by Mario Buenrostro was traveling southbound in the 12200 block of N. Mopac Expressway SB when he lost control. The Honda veered into the outside lane of traffic and into a construction zone where several workers were struck. The crew was attempting to repair a guardrail at the time of the crash and had an attenuator along the shoulder and several working light boards to alert drivers to the crew’s presence.\nMario Eduardo Martinez-Buenrostro was pronounced deceased on scene. Austin-Travis County EMS transported four members of the work crew to area hospitals with non-life threatening injuries.\nThis is an ongoing investigation.",
+    "time": "21:47:00"
+  },
+  {
+    "case": "20-3370200",
+    "crash": 80,
+    "date": "2020-12-02",
+    "fatalities": [
+      {
+        "age": 49,
+        "dob": "1970-12-18",
+        "ethnicity": "Hispanic",
+        "first": "Nestor",
+        "gender": "Male",
+        "generation": "",
+        "last": "Yruegas",
+        "middle": "Phillip"
+      }
+    ],
+    "latitude": 0,
+    "link": "http://austintexas.gov/news/fatality-crash-80-0",
+    "location": "3400 block of E. Martin Luther King Jr. Blvd.",
+    "longitude": 0,
+    "notes": "The preliminary investigation shows that the Nestor Phillip Yruegas was crossing mid-block in the 3400 block of E. Martin Luther King Jr. Blvd. in an attempt to catch the bus on Airport Blvd. when he was struck by a grey, 2017 Kia Sportage. Mr. Yruegas was pronounced deceased on scene.\nThe driver of the Sportage remained on site. No charges are expected.\nThis is an ongoing investigation.",
+    "time": "05:51:00"
+  },
+  {
     "case": "20-3391431",
     "crash": 81,
     "date": "2020-12-04",
